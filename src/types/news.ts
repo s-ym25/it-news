@@ -23,6 +23,7 @@ export interface NewsItem {
   source: string; // ニュースソース名（例: "Gigazine", "GIZMODO Japan"）
   category: string; // カテゴリ（例: "IT", "プログラミング", "ガジェット"）
   summary: string; // AI生成の要約文（空の場合もある）
+  image: string | null; // サムネイル画像URL（RSSフィードから取得。ない場合はnull）
   publishedAt: string; // 記事の公開日時（ISO 8601形式の文字列）
   scrapedAt: string; // スクレイピングした日時
 }

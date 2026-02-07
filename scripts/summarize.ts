@@ -58,12 +58,12 @@ export async function summarizeNews(items: NewsItem[]): Promise<NewsItem[]> {
       // Claude APIを呼び出して要約を生成
       const response = await client.messages.create({
         model: "claude-sonnet-4-5-20250929", // 使用するAIモデル
-        max_tokens: 2048, // 最大出力トークン数（AIの返答の長さ上限）
+        max_tokens: 4096, // 最大出力トークン数（AIの返答の長さ上限）
         messages: [
           {
             role: "user", // ユーザーからのメッセージとして送る
-            content: `以下のニュース記事について、それぞれ1〜2文の日本語要約を生成してください。
-タイトルから内容を推測して要約してください。
+            content: `以下のニュース記事について、それぞれ3〜5文の日本語要約を生成してください。
+タイトルから内容を推測して、背景や影響も含めて詳しく要約してください。
 
 フォーマット:
 [番号] 要約文

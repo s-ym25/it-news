@@ -14,6 +14,8 @@ import Parser from "rss-parser";
 import type { NewsItem } from "../src/types/news.js";
 
 // RSSパーサーの初期設定
+// customFields: RSS標準にない拡張フィールドを取得する設定
+// media:thumbnail や media:content は画像URLを持っていることが多い
 const parser = new Parser({
   headers: {
     // User-Agent: Webサーバに「誰がアクセスしているか」を伝えるヘッダー
@@ -21,6 +23,12 @@ const parser = new Parser({
     "User-Agent": "IT-News-Aggregator/1.0",
   },
   timeout: 10000, // タイムアウト: 10秒以内にレスポンスがなければエラーにする
+  customFields: {
+    item: [
+      ["media:thumbnail", "mediaThumbnail"],   // メディアサムネイル
+      ["media:content", "mediaContent"],        // メディアコンテンツ
+    ],
+  },
 });
 
 /**
@@ -96,6 +104,43 @@ function generateId(source: string, title: string): string {
 }
 
 /**
+ * extractImage — RSSアイテムからサムネイル画像URLを抽出する
+ *
+ * RSSフィードによって画像の格納場所が異なるため、
+ * 複数の場所を優先順位付きで探索する。
+ *
+ * @param item - rss-parserがパースしたRSSアイテム
+ * @returns 画像URLの文字列、見つからなければnull
+ */
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function extractImage(item: any): string | null {
+  // 1. enclosure（RSS標準の添付メディア。多くのフィードが対応）
+  if (item.enclosure?.url) return item.enclosure.url;
+
+  // 2. media:thumbnail（メディア系RSS拡張）
+  //    属性オブジェクト { $: { url: "..." } } の形式で入ることがある
+  if (item.mediaThumbnail?.$?.url) return item.mediaThumbnail.$.url;
+  if (typeof item.mediaThumbnail === "string") return item.mediaThumbnail;
+
+  // 3. media:content（メディア系RSS拡張）
+  if (item.mediaContent?.$?.url) return item.mediaContent.$.url;
+
+  // 4. content内の <img src="..."> をHTMLから正規表現で抽出
+  if (item.content) {
+    const match = item.content.match(/<img[^>]+src=["']([^"']+)["']/);
+    if (match) return match[1];
+  }
+
+  // 5. content:encoded 内の <img> タグ（一部のRSSフィードが使用）
+  if (item["content:encoded"]) {
+    const match = item["content:encoded"].match(/<img[^>]+src=["']([^"']+)["']/);
+    if (match) return match[1];
+  }
+
+  return null; // どこにも画像がなかった
+}
+
+/**
  * fetchFeed — 1つのRSSフィードを取得して記事の配列を返す
  *
  * @param source - 取得するフィードの情報
@@ -124,6 +169,7 @@ async function fetchFeed(source: FeedSource): Promise<NewsItem[]> {
         source: source.name, // ソース名（例: "Gigazine"）
         category: source.category, // カテゴリ（例: "IT"）
         summary: "", // 要約は後でsummarize.tsが埋める（ここでは空）
+        image: extractImage(item), // サムネイル画像URL（なければnull）
         publishedAt: item.pubDate || now.toISOString(), // 公開日時
         scrapedAt: now.toISOString(), // 取得日時（今の時刻）
       }));

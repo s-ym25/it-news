@@ -7,9 +7,9 @@
       "url": "https://okadaasa.theletter.jp/posts/5c5f5c60-9c33-4311-832b-c78cc34efcd8",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
-      "summary": "",
-      "publishedAt": "2026-02-07T11:02:02.922Z",
-      "scrapedAt": "2026-02-07T11:02:02.922Z"
+      "summary": "チームみらい（デジタル庁関連組織と推測）の市民参加やガバナンスのあり方について、台湾のオードリー・タン氏の民主的アプローチと比較しながら問題提起している記事。誰の意見を聞き、どのように政策に反映しているのかという透明性が問われています。",
+      "publishedAt": "2026-02-07T12:17:46.835Z",
+      "scrapedAt": "2026-02-07T12:17:46.835Z"
     },
     {
       "id": "7r4vj1",
@@ -17,19 +17,9 @@
       "url": "https://techfeed.io/entries/69856135bf1c6338a73ae7f4",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
-      "summary": "",
-      "publishedAt": "2026-02-07T11:02:02.922Z",
-      "scrapedAt": "2026-02-07T11:02:02.922Z"
-    },
-    {
-      "id": "rcvoqn",
-      "title": "Metaの精鋭エンジニアたちが「設計の最適解」を導くために頼る一冊。世界規模の開発を支えるシステム設計のバイブル - エンジニアtype | 転職type",
-      "url": "https://type.jp/et/feature/30384/",
-      "source": "はてなブックマーク テクノロジー",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "2026-02-07T11:02:02.922Z",
-      "scrapedAt": "2026-02-07T11:02:02.922Z"
+      "summary": "MicrosoftがRust言語で開発したオープンソースの「LiteBox」は、Linuxカーネルを抽象化したライブラリOSで、従来より安全で高速なサンドボックス環境を提供する革新的技術です。セキュリティとパフォーマンスを両立させた新しいアプローチとして注目されています。",
+      "publishedAt": "2026-02-07T12:17:46.835Z",
+      "scrapedAt": "2026-02-07T12:17:46.835Z"
     },
     {
       "id": "82jhca",
@@ -37,19 +27,19 @@
       "url": "https://japan.zdnet.com/article/35243565/",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
-      "summary": "",
-      "publishedAt": "2026-02-07T11:02:02.922Z",
-      "scrapedAt": "2026-02-07T11:02:02.922Z"
+      "summary": "2026年4月リリース予定のUbuntu 26.04は、セキュリティ機能が大幅に強化される次期LTS版です。驚くべき改善が盛り込まれており、企業や開発者にとって重要なアップデートとなる見込みです。",
+      "publishedAt": "2026-02-07T12:17:46.835Z",
+      "scrapedAt": "2026-02-07T12:17:46.835Z"
     },
     {
-      "id": "alz1lg",
-      "title": "Obsidian 向いている人・向いていない人｜松濤Vimmer",
-      "url": "https://note.com/shotovim/n/n7c46d7a962e2",
+      "id": "rcvoqn",
+      "title": "Metaの精鋭エンジニアたちが「設計の最適解」を導くために頼る一冊。世界規模の開発を支えるシステム設計のバイブル - エンジニアtype | 転職type",
+      "url": "https://type.jp/et/feature/30384/",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
-      "summary": "",
-      "publishedAt": "2026-02-07T11:02:02.922Z",
-      "scrapedAt": "2026-02-07T11:02:02.922Z"
+      "summary": "Meta（旧Facebook）の優秀なエンジニアたちが、世界規模のシステム設計を行う際に参考にしているバイブル的な書籍が紹介されています。大規模開発における設計の最適解を導くための知見が詰まった一冊です。",
+      "publishedAt": "2026-02-07T12:17:46.835Z",
+      "scrapedAt": "2026-02-07T12:17:46.835Z"
     },
     {
       "id": "bcw3aq",
@@ -57,39 +47,19 @@
       "url": "https://zenn.dev/hirokitakamura/articles/zellij-complete-guide",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
-      "summary": "",
-      "publishedAt": "2026-02-07T11:02:02.922Z",
-      "scrapedAt": "2026-02-07T11:02:02.922Z"
+      "summary": "ターミナルマルチプレクサの定番ツールtmuxから、新しいツールZellijへの乗り換えを勧める記事です。Zellijの完全ガイドとして、その優位性や使い方が詳しく解説されています。",
+      "publishedAt": "2026-02-07T12:17:46.835Z",
+      "scrapedAt": "2026-02-07T12:17:46.835Z"
     },
     {
-      "id": "7yhn6l",
-      "title": "Claude in Excel でExcel方眼紙とMarkdownを相互に変換してみた | DevelopersIO",
-      "url": "https://dev.classmethod.jp/articles/claude-in-excel-excel-markdown/",
+      "id": "alz1lg",
+      "title": "Obsidian 向いている人・向いていない人｜松濤Vimmer",
+      "url": "https://note.com/shotovim/n/n7c46d7a962e2",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
-      "summary": "",
-      "publishedAt": "2026-02-07T11:02:02.922Z",
-      "scrapedAt": "2026-02-07T11:02:02.922Z"
-    },
-    {
-      "id": "eqxgao",
-      "title": "3,980円のカメラでClaude Codeに「身体」を与えてみた",
-      "url": "https://zenn.dev/nextbeat/articles/2026-02-embodied-claude",
-      "source": "はてなブックマーク テクノロジー",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "2026-02-07T11:02:02.922Z",
-      "scrapedAt": "2026-02-07T11:02:02.922Z"
-    },
-    {
-      "id": "r1mznt",
-      "title": "Why I joined OpenAI",
-      "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
-      "source": "はてなブックマーク テクノロジー",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "2026-02-07T11:02:02.922Z",
-      "scrapedAt": "2026-02-07T11:02:02.922Z"
+      "summary": "ナレッジ管理ツールObsidianについて、どのような人に適していて、どのような人には向いていないかを分析した記事です。自分の使い方に合うかどうか判断する参考になる内容です。",
+      "publishedAt": "2026-02-07T12:17:46.835Z",
+      "scrapedAt": "2026-02-07T12:17:46.835Z"
     },
     {
       "id": "k01viy",
@@ -97,9 +67,49 @@
       "url": "https://xenospectrum.com/toyota-fluorite-flutter-game-engine-digital-cockpit/",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
-      "summary": "",
-      "publishedAt": "2026-02-07T11:02:02.922Z",
-      "scrapedAt": "2026-02-07T11:02:02.922Z"
+      "summary": "トヨタ自動車が独自開発したゲームエンジン「Fluorite」は、FlutterとDartを活用して次世代の車載デジタルコクピットを実現する技術です。自動車業界における新しいUI/UX開発のアプローチとして注目されています。",
+      "publishedAt": "2026-02-07T12:17:46.835Z",
+      "scrapedAt": "2026-02-07T12:17:46.835Z"
+    },
+    {
+      "id": "7yhn6l",
+      "title": "Claude in Excel でExcel方眼紙とMarkdownを相互に変換してみた | DevelopersIO",
+      "url": "https://dev.classmethod.jp/articles/claude-in-excel-excel-markdown/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "ExcelでClaude AIを利用して、Excel方眼紙形式とMarkdown形式を相互に変換する実験を行った技術記事です。AI活用による表形式データの柔軟な変換方法が紹介されています。",
+      "publishedAt": "2026-02-07T12:17:46.835Z",
+      "scrapedAt": "2026-02-07T12:17:46.835Z"
+    },
+    {
+      "id": "r1mznt",
+      "title": "Why I joined OpenAI",
+      "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "著名なパフォーマンスエンジニアBrendan Gregg氏がOpenAIに入社した理由を説明する記事です。AIの性能最適化という新しい挑戦への意欲が語られていると推測されます。",
+      "publishedAt": "2026-02-07T12:17:46.835Z",
+      "scrapedAt": "2026-02-07T12:17:46.835Z"
+    },
+    {
+      "id": "29qlw3",
+      "title": "Geminiは進歩的で、Grokは保守傾向「LLMは作り手のイデオロギーを反映する」",
+      "url": "https://okadaasa.theletter.jp/posts/3774f1e5-175d-4569-94eb-1b7661ba495f",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "大規模言語モデル（LLM）は開発元のイデオロギーを反映する傾向があり、Geminiは進歩的、Grokは保守的な傾向を示すという分析記事です。AIの中立性や偏りについての重要な考察が含まれています。",
+      "publishedAt": "2026-02-07T12:17:46.835Z",
+      "scrapedAt": "2026-02-07T12:17:46.835Z"
+    },
+    {
+      "id": "xq0fup",
+      "title": "作れる絵文字がかわいすぎ。iPhoneの「新しい絵文字」を爆誕させるAI機能",
+      "url": "https://www.gizmodo.jp/2026/02/how_to_create_gen_moji_ios_26.html",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "iPhoneの新AI機能により、ユーザーがオリジナルの絵文字を自動生成できるようになり、そのデザインの可愛らしさが話題となっている。",
+      "publishedAt": "Sat, 07 Feb 2026 21:00:00 +0900",
+      "scrapedAt": "2026-02-07T12:17:48.008Z"
     },
     {
       "id": "hej4ho",
@@ -107,9 +117,19 @@
       "url": "https://gigazine.net/news/20260207-tiktoks-addictive-design-eu-dsa/",
       "source": "Gigazine",
       "category": "IT",
-      "summary": "",
+      "summary": "欧州委員会がTikTokの中毒性の高いアルゴリズムと無限スクロール機能について、デジタルサービス法に違反している可能性があると指摘した。",
       "publishedAt": "Sat, 07 Feb 2026 20:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.745Z"
+      "scrapedAt": "2026-02-07T12:17:45.872Z"
+    },
+    {
+      "id": "tyszmm",
+      "title": "AI画像はどっちだ？　AIマニアvs.カメラマニア、本気で見破り合い",
+      "url": "https://www.itmedia.co.jp/news/articles/2602/07/news013.html",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "AIが生成した画像と実写画像を見分ける対決企画で、AI技術に詳しい人とカメラに詳しい人がそれぞれの知見を活かして真剣勝負を行った。",
+      "publishedAt": "Sat, 07 Feb 2026 20:00:00 +0900",
+      "scrapedAt": "2026-02-07T12:17:46.508Z"
     },
     {
       "id": "skh36l",
@@ -117,9 +137,9 @@
       "url": "https://gigazine.net/news/20260207-clair-obscur-expedition-33-developer-french-cultural-honor/",
       "source": "Gigazine",
       "category": "IT",
-      "summary": "",
+      "summary": "ゲーム・オブ・ザ・イヤーを受賞した「Clair Obscur: Expedition 33」の開発チームが、フランス政府から芸術文化勲章シュヴァリエ章を授与された。",
       "publishedAt": "Sat, 07 Feb 2026 19:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.745Z"
+      "scrapedAt": "2026-02-07T12:17:45.872Z"
     },
     {
       "id": "sgfwqy",
@@ -127,9 +147,9 @@
       "url": "https://www.gizmodo.jp/2026/02/irobot-reboot.html",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
-      "summary": "",
+      "summary": "経営再建中のアイロボット社の新社長に対し、ルンバユーザーが製品サポートや今後の事業展開について直接質問したインタビュー記事。",
       "publishedAt": "Sat, 07 Feb 2026 19:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.791Z"
+      "scrapedAt": "2026-02-07T12:17:48.008Z"
     },
     {
       "id": "pi0gvk",
@@ -137,9 +157,9 @@
       "url": "https://www.gizmodo.jp/2026/02/siroca-2way-dishwasher-ssm171.html",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
-      "summary": "",
+      "summary": "シロカの新型食洗機は、給水タンク式と分岐水栓式の両方に対応する2Way仕様で、設置場所の自由度が大幅に向上している。",
       "publishedAt": "Sat, 07 Feb 2026 19:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.791Z"
+      "scrapedAt": "2026-02-07T12:17:48.008Z"
     },
     {
       "id": "dbyrpp",
@@ -147,9 +167,9 @@
       "url": "https://gigazine.net/news/20260207-people-believe-society-moral-decline/",
       "source": "Gigazine",
       "category": "IT",
-      "summary": "",
+      "summary": "人々は社会の道徳的衰退を感じているが、研究によると実際には昔と比べて社会が悪化しているわけではないことが示されている。",
       "publishedAt": "Sat, 07 Feb 2026 18:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.745Z"
+      "scrapedAt": "2026-02-07T12:17:45.872Z"
     },
     {
       "id": "s4jruh",
@@ -157,9 +177,9 @@
       "url": "https://www.gizmodo.jp/2026/02/usable_cooking_utencsils.html",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
-      "summary": "",
+      "summary": "寒い季節に体を温めてくれる、便利な調理器具を紹介する記事。",
       "publishedAt": "Sat, 07 Feb 2026 18:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.791Z"
+      "scrapedAt": "2026-02-07T12:17:48.008Z"
     },
     {
       "id": "2znh3x",
@@ -167,9 +187,9 @@
       "url": "https://gigazine.net/news/20260207-mensho-choco-ramen-2026/",
       "source": "Gigazine",
       "category": "IT",
-      "summary": "",
+      "summary": "バレンタイン限定メニューとして、京鴨と宇治抹茶、チョコレートを組み合わせた独創的なラーメンが登場し、抹茶とカカオが鶏白湯スープと調和している。",
       "publishedAt": "Sat, 07 Feb 2026 17:45:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.745Z"
+      "scrapedAt": "2026-02-07T12:17:45.872Z"
     },
     {
       "id": "a6e6rr",
@@ -177,9 +197,9 @@
       "url": "https://www.gizmodo.jp/2026/02/cio_cable_accessories-wmf.html",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
-      "summary": "",
+      "summary": "CIOが発売したUSB-Cケーブル用ホルダーは、端子を保護しながらバッグ内での絡まりを防ぐ便利なアクセサリー。",
       "publishedAt": "Sat, 07 Feb 2026 17:35:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.791Z"
+      "scrapedAt": "2026-02-07T12:17:48.008Z"
     },
     {
       "id": "9vbtuq",
@@ -187,9 +207,9 @@
       "url": "https://gigazine.net/news/20260207-ebook-valentine-sale/",
       "source": "Gigazine",
       "category": "IT",
-      "summary": "",
+      "summary": "バレンタインデーに合わせて、愛情や友情をテーマにしたマンガ作品が約70%オフで販売されるセールが開催されます。セール期間は2026年2月14日(土)までとなっています。",
       "publishedAt": "Sat, 07 Feb 2026 17:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.745Z"
+      "scrapedAt": "2026-02-07T12:17:45.872Z"
     },
     {
       "id": "ht4o1l",
@@ -197,9 +217,9 @@
       "url": "https://www.gizmodo.jp/2026/02/titan-carabiner-6kj.html",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
-      "summary": "",
+      "summary": "チタン製カラビナは耐久性に優れ、従来製品と比較して圧倒的な安心感を提供します。軽量ながら高強度なチタン素材の利点が紹介されています。",
       "publishedAt": "Sat, 07 Feb 2026 16:35:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.791Z"
+      "scrapedAt": "2026-02-07T12:17:48.008Z"
     },
     {
       "id": "6vsjfa",
@@ -207,9 +227,9 @@
       "url": "https://www.gizmodo.jp/2026/02/machi-ya-mirroringadapterm2-review-911119.html",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
-      "summary": "",
+      "summary": "Wi-Fi接続が不要なワイヤレスHDMI機器が、有線接続並みの安定した映像伝送を実現しています。接続の手軽さと通信安定性を両立した製品のレビュー記事です。",
       "publishedAt": "Sat, 07 Feb 2026 15:55:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.791Z"
+      "scrapedAt": "2026-02-07T12:17:48.008Z"
     },
     {
       "id": "on3st4",
@@ -217,9 +237,9 @@
       "url": "https://www.gizmodo.jp/2026/02/yoyogihachiman-custom-omamori.html",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
-      "summary": "",
+      "summary": "従来の御守のご利益を保ちながら、デザインや要素をカスタマイズできる新しいタイプの御守が紹介されています。代々木八幡宮で実際に制作体験した内容がまとめられています。",
       "publishedAt": "Sat, 07 Feb 2026 15:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.791Z"
+      "scrapedAt": "2026-02-07T12:17:48.008Z"
     },
     {
       "id": "1vmh47",
@@ -227,9 +247,9 @@
       "url": "https://www.gizmodo.jp/2026/02/amazon-timesale-2026-0207-1.html",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
-      "summary": "",
+      "summary": "iPhoneとApple Watchを同時に急速充電できるTORRAS Flasheyeが、新製品ながら4,000円オフで販売されています。Amazonのタイムセール対象商品として紹介されています。",
       "publishedAt": "Sat, 07 Feb 2026 14:55:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.791Z"
+      "scrapedAt": "2026-02-07T12:17:48.008Z"
     },
     {
       "id": "s8kke6",
@@ -237,9 +257,19 @@
       "url": "https://www.gizmodo.jp/2026/02/camera_bag.html",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
-      "summary": "",
+      "summary": "カメラ専門メーカーが製造するカメラバッグを日常使いすることで、撮影時だけでなく移動時の快適性も大幅に向上したという使用レポートです。機能性と実用性が評価されています。",
       "publishedAt": "Sat, 07 Feb 2026 14:35:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.791Z"
+      "scrapedAt": "2026-02-07T12:17:48.008Z"
+    },
+    {
+      "id": "mui3kc",
+      "title": "Claude Opus4.6はどのようにPPTXを生成しているか",
+      "url": "https://zenn.dev/microsoft/articles/how-the-claude-opus46-generate-pptx",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "Claude Opus4.6がPowerPointファイル(PPTX)を生成する際の技術的な仕組みについて解説されています。AIによるプレゼンテーション資料作成の裏側が明らかにされています。",
+      "publishedAt": "Sat, 07 Feb 2026 04:01:48 GMT",
+      "scrapedAt": "2026-02-07T12:17:46.136Z"
     },
     {
       "id": "61ep4q",
@@ -247,9 +277,9 @@
       "url": "https://gigazine.net/news/20260207-find-my-and-find-hub/",
       "source": "Gigazine",
       "category": "IT",
-      "summary": "",
+      "summary": "Appleの「Find My」ネットワークとGoogleの「Find Hub」ネットワークが、紛失したデバイスを追跡・発見する仕組みが技術的に解説されています。両社の位置情報ネットワークの動作原理が紹介されています。",
       "publishedAt": "Sat, 07 Feb 2026 13:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.745Z"
+      "scrapedAt": "2026-02-07T12:17:45.872Z"
     },
     {
       "id": "nnllna",
@@ -257,19 +287,9 @@
       "url": "https://gigazine.net/news/20260207-ring-outdoor-cam-pro-review/",
       "source": "Gigazine",
       "category": "IT",
-      "summary": "",
+      "summary": "Amazon製の4K対応防犯カメラ「Ring Outdoor Cam Pro」のレビュー記事です。高精細な映像記録機能に加え、双方向の音声通話機能も搭載されている点が評価されています。",
       "publishedAt": "Sat, 07 Feb 2026 12:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.745Z"
-    },
-    {
-      "id": "ex5rz4",
-      "title": "ボディホラーでラブコメ!? 怖いのに笑える異色作『トゥギャザー』の監督に聞く",
-      "url": "https://www.gizmodo.jp/2026/02/together-movie_director_interview.html",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Sat, 07 Feb 2026 12:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.791Z"
+      "scrapedAt": "2026-02-07T12:17:45.872Z"
     },
     {
       "id": "gas1qe",
@@ -277,9 +297,9 @@
       "url": "https://gigazine.net/news/20260207-anker-nano-travel-adapter-5-in-1-20w-review/",
       "source": "Gigazine",
       "category": "IT",
-      "summary": "",
+      "summary": "Ankerの5-in-1トラベルアダプタは、海外の各種コンセント形状に対応しながらUSB機器も同時充電できる製品です。20W出力で複数デバイスをまとめて充電できる利便性がレビューされています。",
       "publishedAt": "Sat, 07 Feb 2026 10:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.745Z"
+      "scrapedAt": "2026-02-07T12:17:45.872Z"
     },
     {
       "id": "y013o5",
@@ -287,9 +307,9 @@
       "url": "https://gigazine.net/news/20260207-openclaw/",
       "source": "Gigazine",
       "category": "IT",
-      "summary": "",
+      "summary": "「OpenClaw」は、Windows、macOS、Linux、Android、iOSなど主要なプラットフォームに対応したパーソナルAIアシスタントです。セルフホスト可能で、デバイス間の連係やさまざまな操作を実行できる機能を備えています。",
       "publishedAt": "Sat, 07 Feb 2026 09:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.745Z"
+      "scrapedAt": "2026-02-07T12:17:45.872Z"
     },
     {
       "id": "561c2s",
@@ -297,9 +317,9 @@
       "url": "https://www.itmedia.co.jp/news/articles/2602/07/news023.html",
       "source": "ITmedia NEWS",
       "category": "IT",
-      "summary": "",
+      "summary": "キヤノンのコンパクトデジタルカメラ「PowerShot」シリーズが発売30周年を迎えました。記事では歴代モデルを振り返り、シリーズの中で登場した斬新でユニークな機種について紹介しています。",
       "publishedAt": "Sat, 07 Feb 2026 08:14:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.923Z"
+      "scrapedAt": "2026-02-07T12:17:46.508Z"
     },
     {
       "id": "6urfxz",
@@ -307,10 +327,20 @@
       "url": "https://gigazine.net/news/20260207-horse-human-emotional-sweat/",
       "source": "Gigazine",
       "category": "IT",
-      "summary": "",
+      "summary": "馬は人間が恐怖を感じている時の汗の匂いを嗅ぎ分けることができるという研究結果が報告されました。馬は人間の感情状態を汗の化学的成分から察知する能力を持っていることが示されています。",
       "publishedAt": "Sat, 07 Feb 2026 08:00:00 +0900",
-      "scrapedAt": "2026-02-07T11:02:02.745Z"
+      "scrapedAt": "2026-02-07T12:17:45.872Z"
+    },
+    {
+      "id": "7e3ztp",
+      "title": "Next.js がやってくれていたこと全部、自分でやってみた",
+      "url": "https://zenn.dev/ashunar0/articles/2b6c77e2fe251d",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "Next.jsフレームワークが自動的に処理している機能を、開発者が手動で実装してみた技術記事です。フレームワークの内部動作を理解するため、ルーティングやレンダリングなどの機能を自分で構築した過程が解説されています。",
+      "publishedAt": "Fri, 06 Feb 2026 13:16:49 GMT",
+      "scrapedAt": "2026-02-07T12:17:46.136Z"
     }
   ],
-  "generatedAt": "2026-02-07T11:02:02.923Z"
+  "generatedAt": "2026-02-07T12:18:44.994Z"
 }

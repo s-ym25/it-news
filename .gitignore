@@ -24,3 +24,6 @@ dist-scripts
 *.njsproj
 *.sln
 *.sw?
+
+# Personal notes
+setup-guide.md

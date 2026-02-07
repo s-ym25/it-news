@@ -12,7 +12,8 @@
 
 // useState: 状態（変化するデータ）を管理するReactフック
 // useMemo: 計算結果をキャッシュして、無駄な再計算を防ぐReactフック
-import { useState, useMemo } from "react";
+// useCallback: 関数をキャッシュして、無駄な再生成を防ぐReactフック
+import { useState, useMemo, useCallback } from "react";
 // useNews: 自作のカスタムフック（news.jsonを取得する）
 import { useNews } from "./hooks/useNews";
 // 各UIコンポーネント（部品）をインポート
@@ -35,6 +36,26 @@ function App() {
   // setSelectedCategory: カテゴリを変更する関数
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
 
+  // readIds: 既読記事のIDセット（localStorageから復元）
+  // localStorage: ブラウザにデータを保存する仕組み（ページを閉じても消えない）
+  // Set: 重複を許さないデータ構造（同じIDを2回追加しても1つだけ保持される）
+  const [readIds, setReadIds] = useState<Set<string>>(() => {
+    const saved = localStorage.getItem("readIds");
+    return saved ? new Set(JSON.parse(saved)) : new Set();
+  });
+
+  // markAsRead: 記事を既読にする関数
+  // useCallback: この関数を再生成せずにキャッシュする（パフォーマンス最適化）
+  const markAsRead = useCallback((id: string) => {
+    setReadIds((prev) => {
+      const next = new Set(prev);
+      next.add(id);
+      // localStorageに保存（Setは直接JSON化できないので配列に変換）
+      localStorage.setItem("readIds", JSON.stringify([...next]));
+      return next;
+    });
+  }, []);
+
   // categories: ニュースデータからカテゴリ一覧を抽出する
   // useMemo: newsが変わった時だけ再計算する（パフォーマンス最適化）
   // new Set() で重複を除去 → スプレッド構文で配列に戻す
@@ -44,13 +65,19 @@ function App() {
     return [...new Set(news.items.map((item) => item.category))];
   }, [news]); // newsが変わった時だけ再計算
 
-  // filteredItems: 選択中のカテゴリで記事をフィルタリング
+  // filteredItems: 選択中のカテゴリで記事をフィルタリングし、既読を下に移動
   const filteredItems = useMemo(() => {
     if (!news) return []; // データがまだない場合は空配列
-    if (!selectedCategory) return news.items; // 「すべて」の場合は全記事を返す
-    // 選択されたカテゴリの記事だけを返す
-    return news.items.filter((item) => item.category === selectedCategory);
-  }, [news, selectedCategory]); // newsまたは選択カテゴリが変わった時だけ再計算
+    const items = selectedCategory
+      ? news.items.filter((item) => item.category === selectedCategory)
+      : news.items;
+    // 未読を上、既読を下に並び替え（それぞれの中では元の順序を維持）
+    return [...items].sort((a, b) => {
+      const aRead = readIds.has(a.id) ? 1 : 0;
+      const bRead = readIds.has(b.id) ? 1 : 0;
+      return aRead - bRead;
+    });
+  }, [news, selectedCategory, readIds]); // readIdsが変わった時も再計算
 
   // --- 読み込み中の画面 ---
   if (loading) {
@@ -91,7 +118,7 @@ function App() {
         onSelect={setSelectedCategory} // ボタンが押された時にカテゴリを変更する関数
       />
       {/* ニュース一覧: フィルター済みの記事をカード形式で表示 */}
-      <NewsList items={filteredItems} />
+      <NewsList items={filteredItems} readIds={readIds} onMarkRead={markAsRead} />
     </div>
   );
 }

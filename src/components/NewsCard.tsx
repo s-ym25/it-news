@@ -17,6 +17,8 @@ import type { NewsItem } from "../types/news";
  */
 interface NewsCardProps {
   item: NewsItem; // 表示する記事データ
+  isRead: boolean; // 既読かどうか
+  onMarkRead: () => void; // 既読にする関数
 }
 
 /**
@@ -37,7 +39,7 @@ const SOURCE_COLORS: Record<string, string> = {
 /**
  * NewsCard — 1つのニュース記事を表示するコンポーネント
  */
-export function NewsCard({ item }: NewsCardProps) {
+export function NewsCard({ item, isRead, onMarkRead }: NewsCardProps) {
   // 公開日時から「X時間前」「X日前」の文字列を計算
   const timeAgo = getTimeAgo(item.publishedAt);
   // ソース名に対応する色を取得（未定義のソースはグレー）
@@ -52,7 +54,8 @@ export function NewsCard({ item }: NewsCardProps) {
       href={item.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="block bg-[var(--color-surface)] rounded-xl p-4 hover:bg-[var(--color-surface-hover)] transition-colors active:scale-[0.98] transform"
+      onClick={onMarkRead}
+      className={`block bg-[var(--color-surface)] rounded-xl p-4 hover:bg-[var(--color-surface-hover)] transition-colors active:scale-[0.98] transform ${isRead ? "opacity-50" : ""}`}
     >
       {/* ソース名バッジ + 経過時間 */}
       <div className="flex items-center gap-2 mb-2">

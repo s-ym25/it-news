@@ -70,16 +70,6 @@ export function NewsCard({ item }: NewsCardProps) {
           {timeAgo}
         </span>
       </div>
-      {/* サムネイル画像（画像がある場合のみ表示） */}
-      {/* object-cover: 画像のアスペクト比を保ちつつ領域を埋める */}
-      {item.image && (
-        <img
-          src={item.image}
-          alt={item.title}
-          className="w-full h-40 object-cover rounded-lg mb-2"
-          loading="lazy"
-        />
-      )}
       {/* 記事タイトル */}
       <h3 className="text-sm font-semibold leading-snug mb-2">{item.title}</h3>
       {/* AI要約文（要約がある場合のみ表示） — 全文表示 */}

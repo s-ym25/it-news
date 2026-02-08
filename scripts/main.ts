@@ -22,7 +22,7 @@ import { fileURLToPath } from "node:url";
 
 // --- 自作モジュールのインポート ---
 import { scrapeAll } from "./scrape.js"; // RSS取得関数
-import { summarizeNews } from "./summarize.js"; // AI要約関数
+import { summarizeNews, generateDailySummary } from "./summarize.js"; // AI要約関数
 import { notifyLine } from "./notify.js"; // LINE通知関数
 import type { DailyNews } from "../src/types/news.js"; // 型定義（データの形を定義したもの）
 
@@ -60,6 +60,11 @@ async function main() {
   const summarized = await summarizeNews(items);
 
   // ============================
+  // ステップ2.5: 全記事の要約をさらにまとめた「今日のまとめ」を生成
+  // ============================
+  const dailySummary = await generateDailySummary(summarized);
+
+  // ============================
   // ステップ3: JSONファイルに保存
   // ============================
   // 今日の日付を日本時間（JST）で "2026-02-08" のような形式で取得
@@ -70,6 +75,7 @@ async function main() {
   const dailyNews: DailyNews = {
     date: today, // 日付
     items: summarized, // 要約済みの記事配列
+    dailySummary, // 全記事をまとめた「今日のまとめ」テキスト
     generatedAt: new Date().toISOString(), // 生成日時
   };
 

@@ -136,6 +136,58 @@ function parseSummaries(text: string, expectedCount: number): string[] {
 }
 
 /**
+ * generateDailySummary — 全記事の要約をさらにまとめた「今日のまとめ」を生成する
+ *
+ * 各記事のタイトルと要約をClaude APIに渡し、
+ * その日のニュース全体を3〜5文で俯瞰するテキストを生成する。
+ *
+ * @param items - 要約済みの記事配列
+ * @returns 「今日のまとめ」テキスト（APIキー未設定時は空文字）
+ */
+export async function generateDailySummary(
+  items: NewsItem[]
+): Promise<string> {
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) {
+    return "";
+  }
+
+  const client = new Anthropic({ apiKey });
+
+  // 全記事のタイトル＋要約を一覧にまとめる
+  const articleList = items
+    .map(
+      (item, idx) =>
+        `[${idx + 1}] ${item.title}${item.summary ? `\n要約: ${item.summary}` : ""}`
+    )
+    .join("\n\n");
+
+  try {
+    console.log("Generating daily summary...");
+    const response = await client.messages.create({
+      model: "claude-sonnet-4-5-20250929",
+      max_tokens: 1024,
+      messages: [
+        {
+          role: "user",
+          content: `以下は今日のITニュース一覧です。全体を俯瞰して「今日のまとめ」を3〜5文の日本語で書いてください。
+主要なトピックやトレンドを簡潔にまとめてください。箇条書きではなく、自然な文章で書いてください。
+
+${articleList}`,
+        },
+      ],
+    });
+
+    const text =
+      response.content[0].type === "text" ? response.content[0].text : "";
+    return text.trim();
+  } catch (error) {
+    console.error("Daily summary generation failed:", error);
+    return "";
+  }
+}
+
+/**
  * sleep — 指定ミリ秒だけ処理を一時停止する
  *
  * Promise + setTimeout を使って「待つ」を実現する。

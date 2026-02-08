@@ -116,6 +116,15 @@ function App() {
         selected={selectedCategory} // 現在選択中のカテゴリ
         onSelect={setSelectedCategory} // ボタンが押された時にカテゴリを変更する関数
       />
+      {/* 今日のまとめ: 全記事をAIがまとめたテキスト（存在する場合のみ表示） */}
+      {news?.dailySummary && (
+        <div className="mx-4 mb-4 p-4 bg-[var(--color-surface)] rounded-xl border border-[var(--color-border)]">
+          <h2 className="text-sm font-bold mb-2">今日のまとめ</h2>
+          <p className="text-xs text-[var(--color-text-secondary)] leading-relaxed">
+            {news.dailySummary}
+          </p>
+        </div>
+      )}
       {/* ニュース一覧: フィルター済みの記事をカード形式で表示 */}
       <NewsList items={filteredItems} readIds={readIds} onMarkRead={markAsRead} />
     </div>

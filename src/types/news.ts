@@ -36,5 +36,6 @@ export interface NewsItem {
 export interface DailyNews {
   date: string; // 日付（例: "2026-02-07"）
   items: NewsItem[]; // その日のニュース記事の配列
+  dailySummary: string; // 全記事をAIがまとめた「今日のまとめ」テキスト
   generatedAt: string; // このデータが生成された日時
 }

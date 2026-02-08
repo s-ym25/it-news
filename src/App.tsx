@@ -65,19 +65,13 @@ function App() {
     return [...new Set(news.items.map((item) => item.category))];
   }, [news]); // newsが変わった時だけ再計算
 
-  // filteredItems: 選択中のカテゴリで記事をフィルタリングし、既読を下に移動
+  // filteredItems: 選択中のカテゴリで記事をフィルタリング（元の順序を維持）
   const filteredItems = useMemo(() => {
     if (!news) return []; // データがまだない場合は空配列
-    const items = selectedCategory
+    return selectedCategory
       ? news.items.filter((item) => item.category === selectedCategory)
       : news.items;
-    // 未読を上、既読を下に並び替え（それぞれの中では元の順序を維持）
-    return [...items].sort((a, b) => {
-      const aRead = readIds.has(a.id) ? 1 : 0;
-      const bRead = readIds.has(b.id) ? 1 : 0;
-      return aRead - bRead;
-    });
-  }, [news, selectedCategory, readIds]); // readIdsが変わった時も再計算
+  }, [news, selectedCategory]); // newsまたはカテゴリが変わった時だけ再計算
 
   // --- 読み込み中の画面 ---
   if (loading) {

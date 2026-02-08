@@ -10,6 +10,7 @@
  * タップすると元記事のURLが新しいタブで開く。
  */
 
+import { useState } from "react";
 import type { NewsItem } from "../types/news";
 
 /**
@@ -44,6 +45,25 @@ export function NewsCard({ item, isRead, onMarkRead }: NewsCardProps) {
   const timeAgo = getTimeAgo(item.publishedAt);
   // ソース名に対応する色を取得（未定義のソースはグレー）
   const sourceColor = SOURCE_COLORS[item.source] || "#64748b";
+  // 「コピーしました」表示の状態管理
+  const [copied, setCopied] = useState(false);
+
+  // 共有ボタンの処理
+  // e.preventDefault(): リンク遷移を防ぐ（ボタンが<a>タグ内にあるため）
+  // e.stopPropagation(): 親要素へのイベント伝播を防ぐ
+  const handleShare = async (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    // navigator.share: スマホのOS標準シェアメニューを開くAPI
+    // 対応していないブラウザ（主にPC）ではクリップボードにコピーする
+    if (navigator.share) {
+      await navigator.share({ title: item.title, url: item.url });
+    } else {
+      await navigator.clipboard.writeText(item.url);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    }
+  };
 
   return (
     // <a>タグ: リンク。タップすると元記事が新しいタブで開く
@@ -57,7 +77,7 @@ export function NewsCard({ item, isRead, onMarkRead }: NewsCardProps) {
       onClick={onMarkRead}
       className={`block bg-[var(--color-surface)] rounded-xl p-4 hover:bg-[var(--color-surface-hover)] transition-colors active:scale-[0.98] transform ${isRead ? "opacity-50" : ""}`}
     >
-      {/* ソース名バッジ + 経過時間 */}
+      {/* ソース名バッジ + 経過時間 + 共有ボタン */}
       <div className="flex items-center gap-2 mb-2">
         {/* ソース名バッジ（色付き） */}
         {/* style属性で直接CSSを指定（Tailwindではカバーしにくい動的な色を設定） */}
@@ -72,6 +92,24 @@ export function NewsCard({ item, isRead, onMarkRead }: NewsCardProps) {
         <span className="text-xs text-[var(--color-text-secondary)]">
           {timeAgo}
         </span>
+        {/* 共有ボタン（右端に配置） */}
+        {/* ml-auto: 左マージンを自動で広げて右寄せにする */}
+        <button
+          onClick={handleShare}
+          className="ml-auto text-[var(--color-text-secondary)] hover:text-[var(--color-text)] transition-colors p-1"
+          aria-label="共有"
+        >
+          {copied ? (
+            <span className="text-xs">コピー済</span>
+          ) : (
+            // 共有アイコン（SVG）
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" />
+              <polyline points="16 6 12 2 8 6" />
+              <line x1="12" y1="2" x2="12" y2="15" />
+            </svg>
+          )}
+        </button>
       </div>
       {/* 記事タイトル */}
       <h3 className="text-sm font-semibold leading-snug mb-2">{item.title}</h3>

@@ -36,6 +36,10 @@ function App() {
   // setSelectedCategory: カテゴリを変更する関数
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
 
+  // showUnreadOnly: 未読フラグ
+  // setShowUnreadOnly: 未読フラグを更新する関数
+  const [showUnreadOnly, setShowUnreadOnly] = useState<boolean>(false);
+
   // readIds: 既読記事のIDセット（localStorageから復元）
   // localStorage: ブラウザにデータを保存する仕組み（ページを閉じても消えない）
   // Set: 重複を許さないデータ構造（同じIDを2回追加しても1つだけ保持される）
@@ -73,10 +77,15 @@ function App() {
   // filteredItems: 選択中のカテゴリで記事をフィルタリング（元の順序を維持）
   const filteredItems = useMemo(() => {
     if (!news) return []; // データがまだない場合は空配列
-    return selectedCategory
+    let items = selectedCategory
       ? news.items.filter((item) => item.category === selectedCategory)
       : news.items;
-  }, [news, selectedCategory]); // newsまたはカテゴリが変わった時だけ再計算
+      // 未読フラグが立っている場合、未読の記事をフィルタリング
+      if (showUnreadOnly === true) {
+      items = items.filter((item) => !readIds.has(item.id))
+      };
+      return items
+  }, [news, selectedCategory, showUnreadOnly, readIds]); // newsまたはカテゴリ,未読フラグ、既読記事IDが変わった時に再計算
 
   // --- 読み込み中の画面 ---
   if (loading) {
@@ -115,6 +124,8 @@ function App() {
         categories={categories} // カテゴリ一覧
         selected={selectedCategory} // 現在選択中のカテゴリ
         onSelect={setSelectedCategory} // ボタンが押された時にカテゴリを変更する関数
+        showUnreadOnly={showUnreadOnly}
+        onToggleUnread={() => setShowUnreadOnly(!showUnreadOnly)}
       />
       {/* 今日のまとめ: 全記事をAIがまとめたテキスト（存在する場合のみ表示） */}
       {news?.dailySummary && (

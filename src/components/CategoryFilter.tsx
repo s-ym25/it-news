@@ -14,6 +14,8 @@ interface CategoryFilterProps {
   selected: string | null; // 現在選択中のカテゴリ（null = 「すべて」）
   onSelect: (category: string | null) => void; // ボタンが押された時に呼ばれる関数
   // (category: string | null) => void は「string|nullを受け取り、何も返さない関数」の型
+  showUnreadOnly: boolean;
+  onToggleUnread: () => void;
 }
 
 /**
@@ -23,6 +25,8 @@ export function CategoryFilter({
   categories,
   selected,
   onSelect,
+  showUnreadOnly,
+  onToggleUnread
 }: CategoryFilterProps) {
   return (
     // overflow-x-auto: 横方向にスクロール可能。no-scrollbar: スクロールバー非表示
@@ -56,6 +60,14 @@ export function CategoryFilter({
           {cat} {/* カテゴリ名を表示（例: "IT", "ガジェット"） */}
         </button>
       ))}
+      <button onClick={onToggleUnread} className={`shrink-0 px-3 py-1.5 rounded-full text-sm ${
+        // 三項演算子: 条件 ? 真の時 : 偽の時
+          showUnreadOnly === true
+            ? "bg-[var(--color-primary)] text-white"
+            : "bg-[var(--color-surface)] text-[var(--color-text-secondary)] hover:bg-[var(--color-surface-hover)]"
+      }`}>
+        未読のみ
+      </button>
     </div>
   );
 }

@@ -62,8 +62,9 @@ async function main() {
   // ============================
   // ステップ3: JSONファイルに保存
   // ============================
-  // 今日の日付を "2026-02-07" のような形式で取得
-  const today = new Date().toISOString().split("T")[0];
+  // 今日の日付を日本時間（JST）で "2026-02-08" のような形式で取得
+  // toISOString()はUTCなので、JSTでは9時間ズレる → toLocaleDateStringで日本時間を使う
+  const today = new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Tokyo" });
 
   // DailyNews型のオブジェクトを作成（Webサイトが読み込むデータ構造）
   const dailyNews: DailyNews = {

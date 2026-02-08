@@ -40,8 +40,13 @@ function App() {
   // localStorage: ブラウザにデータを保存する仕組み（ページを閉じても消えない）
   // Set: 重複を許さないデータ構造（同じIDを2回追加しても1つだけ保持される）
   const [readIds, setReadIds] = useState<Set<string>>(() => {
-    const saved = localStorage.getItem("readIds");
-    return saved ? new Set(JSON.parse(saved)) : new Set();
+    try {
+      const saved = localStorage.getItem("readIds");
+      return saved ? new Set(JSON.parse(saved)) : new Set();
+    } catch {
+      // localStorageのデータが破損していた場合は空のSetで初期化
+      return new Set();
+    }
   });
 
   // markAsRead: 記事を既読にする関数

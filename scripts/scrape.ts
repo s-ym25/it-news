@@ -115,6 +115,12 @@ async function fetchFeed(source: FeedSource): Promise<NewsItem[]> {
         const pubDate = item.pubDate ? new Date(item.pubDate) : now;
         return pubDate >= oneDayAgo;
       })
+      .filter((item) => {
+        // セキュリティ対策: http:// または https:// で始まるURLのみ許可
+        // javascript: スキームなどの悪意あるURLを除外する
+        const url = item.link || "";
+        return url.startsWith("http://") || url.startsWith("https://");
+      })
       .slice(0, 10) // 最大10件に制限（1サイトあたり）
       .map((item) => ({
         // 各記事をNewsItem型のオブジェクトに変換

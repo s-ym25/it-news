@@ -12,6 +12,9 @@
  * Reactでは親コンポーネントから子コンポーネントにデータを渡す仕組みを「Props」と呼ぶ。
  * App.tsx から <Header date="2026-02-07" articleCount={30} ... /> のように渡される。
  */
+
+import { useTheme  } from "../hooks/useTheme";
+
 interface HeaderProps {
   date: string | null; // 日付（例: "2026-02-07"）。データ未取得時はnull
   articleCount: number | null; // 表示中の記事数。読み込み中はnull（件数を出さない）
@@ -36,6 +39,9 @@ export function Header({
   canGoPrev,
   canGoNext,
 }: HeaderProps) {
+
+  const { theme, toggleTheme } = useTheme();
+
   // 日付を日本語フォーマットに変換（例: "2026年2月7日(金)"）
   // toLocaleDateString: ロケールに合わせた日付文字列を生成するメソッド
   const formattedDate = date
@@ -55,6 +61,12 @@ export function Header({
     "hover:bg-[var(--color-surface-hover)] transition-colors " +
     "disabled:opacity-30 disabled:cursor-not-allowed disabled:hover:bg-[var(--color-surface)]";
 
+ // テーマ切り替えボタン用のクラス（文字を入れるので幅は固定しない）
+  const themeButtonClass =
+    "shrink-0 px-2.5 py-1 rounded-full text-xs " +
+    "bg-[var(--color-surface)] text-[var(--color-text-secondary)] " +
+    "hover:bg-[var(--color-surface-hover)] transition-colors";
+
   // JSXで画面を描画して返す
   // className の値はTailwind CSSのクラス名（CSSを短いクラス名で指定するフレームワーク）
   // sticky top-0: 画面上部に固定表示
@@ -62,8 +74,17 @@ export function Header({
   return (
     <header className="sticky top-0 z-10 bg-[var(--color-bg)]/95 backdrop-blur-sm border-b border-[var(--color-border)] px-4 py-3">
       <div className="max-w-2xl mx-auto">
-        {/* アプリタイトル */}
-        <h1 className="text-lg font-bold tracking-tight">IT News Daily</h1>
+        {/* タイトルとテーマ切り替えボタンを左右に配置 */}
+        <div className="flex items-center justify-between">
+          <h1 className="text-lg font-bold tracking-tight">IT News Daily</h1>
+          <button
+            onClick={toggleTheme}
+            aria-label="テーマを切り替え"
+            className={themeButtonClass}
+          >
+            {theme === "dark" ? "light" : "dark"}
+          </button>
+        </div>
         {/* 日付・記事数と、日付を前後に移動するボタン（dateがある場合のみ表示） */}
         {/* {date && (...)} は条件付きレンダリング。dateがnullでなければ()内を表示 */}
         {date && (

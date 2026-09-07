@@ -1,5 +1,19 @@
 @import "tailwindcss";
 
+/*
+ * テーマ（配色）の定義
+ *
+ * ここで定義した CSS変数（--color-xxx）を、各コンポーネントが
+ * bg-[var(--color-surface)] のような形で参照している。
+ * つまり、この変数を差し替えるだけでアプリ全体の色が一斉に変わる。
+ *
+ * 仕組み:
+ *   <html data-theme="dark">  → :root の値がそのまま使われる
+ *   <html data-theme="light"> → 下の [data-theme="light"] で上書きされる
+ * data-theme 属性の付け外しは src/hooks/useTheme.ts が担当する。
+ */
+
+/* --- ダークテーマ（既定値） --- */
 :root {
   --color-primary: #3b82f6;
   --color-bg: #0f172a;
@@ -8,12 +22,31 @@
   --color-text: #f1f5f9;
   --color-text-secondary: #94a3b8;
   --color-border: #334155;
+
+  /* color-scheme: スクロールバーやフォーム部品など、
+     ブラウザが描画する部分の明暗もテーマに合わせる */
+  color-scheme: dark;
+}
+
+/* --- ライトテーマ（<html data-theme="light"> の時だけ適用） --- */
+:root[data-theme="light"] {
+  --color-primary: #2563eb; /* 白背景でも読めるよう、少し濃い青にする */
+  --color-bg: #f8fafc;
+  --color-surface: #ffffff;
+  --color-surface-hover: #f1f5f9;
+  --color-text: #0f172a;
+  --color-text-secondary: #64748b;
+  --color-border: #e2e8f0;
+
+  color-scheme: light;
 }
 
 body {
   margin: 0;
   background-color: var(--color-bg);
   color: var(--color-text);
+  /* テーマ切り替え時に色がパッと変わらず、なめらかに移り変わるようにする */
+  transition: background-color 0.2s ease, color 0.2s ease;
   font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', sans-serif;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;

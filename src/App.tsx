@@ -20,6 +20,7 @@ import { useNews } from "./hooks/useNews";
 import { Header } from "./components/Header";
 import { CategoryFilter } from "./components/CategoryFilter";
 import { NewsList } from "./components/NewsList";
+import { SearchBox } from "./components/SearchBox";
 
 /**
  * addDays — "YYYY-MM-DD" 形式の日付を delta 日ずらして返す
@@ -91,6 +92,9 @@ function App() {
   // setShowUnreadOnly: 未読フラグを更新する関数
   const [showUnreadOnly, setShowUnreadOnly] = useState<boolean>(false);
 
+  // 検索Query
+  const [query, setQuery] = useState<string>("");
+
   // readIds: 既読記事のIDセット（localStorageから復元）
   // localStorage: ブラウザにデータを保存する仕組み（ページを閉じても消えない）
   // Set: 重複を許さないデータ構造（同じIDを2回追加しても1つだけ保持される）
@@ -135,8 +139,15 @@ function App() {
     if (showUnreadOnly === true) {
       items = items.filter((item) => !readIds.has(item.id));
     }
+
+    // Query(検索文字列がブランクでない場合、タイトルか要約に含まれる記事だけを残す)
+    if (query !== "") {
+      const q = query.toLowerCase();
+      items = items.filter((item) => item.title.toLowerCase().includes(q) || item.summary.toLowerCase().includes(q));
+    }
+
     return items;
-  }, [news, selectedCategory, showUnreadOnly, readIds]); // newsまたはカテゴリ,未読フラグ、既読記事IDが変わった時に再計算
+  }, [news, selectedCategory, showUnreadOnly, readIds, query]); // newsまたはカテゴリ,未読フラグ、既読記事IDが変わった時に再計算
 
   // --- メイン画面 ---
   // JSX: HTMLに似た構文でUIを記述。className はHTMLのclassと同じ（CSSクラス指定）
@@ -162,6 +173,8 @@ function App() {
         showUnreadOnly={showUnreadOnly}
         onToggleUnread={() => setShowUnreadOnly(!showUnreadOnly)}
       />
+      {/* キーワード検索 */}
+      <SearchBox value={query} onChange={setQuery} />
 
       {/* 状態に応じて本文を出し分ける（三項演算子のネスト） */}
       {loading ? (

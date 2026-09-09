@@ -6,11 +6,23 @@ import { useState ,useEffect } from "react";
 export type Theme = "dark" | "light";
 
 /**
- * 前回保存したテーマを読み出す。保存がなければダークにする。
+ * 初期テーマを決める。
+ *
+ * 優先順位:
+ *   1. localStorage に保存された設定（一度でも切り替えたなら、その選択を尊重する）
+ *   2. OSの外観モード（matchMedia で prefers-color-scheme を判定）
+ *   3. ダーク（どちらも分からない場合の既定値）
  */
 function getInitialTheme(): Theme {
-  const saved = localStorage.getItem("theme");
-  return saved === "light" ? "light" : "dark";
+    
+    const saved = localStorage.getItem("theme");
+    if (saved === "light" || saved === "dark"){
+        return saved
+    } else if (window.matchMedia("(prefers-color-scheme: light)").matches) {
+        return "light"        
+    } else {
+        return "dark"
+    }
 }
 
 export function useTheme(){

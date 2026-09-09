@@ -44,7 +44,7 @@ GitHub Actions（毎朝 7:00 JST）
   LINE 通知
 ```
 
-## 🛠 技術スタック
+## 技術スタック
 
 | 領域 | 使用技術 |
 |------|----------|
@@ -54,7 +54,7 @@ GitHub Actions（毎朝 7:00 JST）
 | 通知 | LINE Messaging API |
 | 自動化 / ホスティング | GitHub Actions, Vercel |
 
-## 📰 収集対象（RSS ソース）
+## 収集対象（RSS ソース）
 
 Gigazine / ITmedia NEWS / Publickey / GIZMODO Japan / Zenn / はてなブックマーク テクノロジー
 

@@ -110,26 +110,34 @@ ${articleList}`,
  * AIは "[1] 要約文..." という形式で返答するので、
  * 正規表現で番号と要約文を分離して配列にする。
  *
+ * 番号は「何番目の記事か」を表すので、そのまま配列の添字として使う。
+ * 見つけた順に詰めると、AIが番号を1つ飛ばしただけで以降の要約が
+ * すべて別の記事にズレてしまうため（例: [2]が欠けると記事3の要約が
+ * 記事2に付く）、必ず番号の位置に代入すること。
+ *
+ * 番号が欠けた箇所は空文字のまま残る。呼び出し側が記事タイトルで
+ * 代替するので、「ズレた要約が出る」より「要約が出ない」方に倒している。
+ *
  * @param text - AIの返答テキスト全体
  * @param expectedCount - 期待する要約の数
- * @returns 要約文の配列
+ * @returns 要約文の配列（長さは必ず expectedCount。欠けた箇所は空文字）
  */
 function parseSummaries(text: string, expectedCount: number): string[] {
-  const summaries: string[] = [];
-  const lines = text.split("\n"); // 改行で分割
+  // 先に expectedCount 個の空文字で埋めた配列を用意する
+  const summaries: string[] = new Array(expectedCount).fill("");
+  const lines = text.split("\n");
 
   for (const line of lines) {
-    // 正規表現: "[数字] テキスト" のパターンにマッチするか判定
-    // ^ = 行頭、\[ = 角括弧、(\d+) = 1個以上の数字（キャプチャ）、\s* = 空白、(.+) = テキスト
     const match = line.match(/^\[(\d+)\]\s*(.+)/);
-    if (match) {
-      summaries.push(match[2].trim()); // match[2]が要約テキスト部分。trim()で前後の空白を除去
-    }
-  }
+    if (!match) continue;
 
-  // 要約の数が足りない場合、空文字で埋める
-  while (summaries.length < expectedCount) {
-    summaries.push("");
+    // match[1] は "3" のような文字列。数値にして、0始まりの添字に直す
+    const index = Number(match[1]) - 1;
+
+    // 想定外の番号（[0] や [99]）が来ても、範囲外に書き込まない
+    if (index >= 0 && index < expectedCount) {
+      summaries[index] = match[2].trim();
+    }
   }
 
   return summaries;

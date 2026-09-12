@@ -20,6 +20,7 @@ interface NewsCardProps {
   item: NewsItem; // 表示する記事データ
   isRead: boolean; // 既読かどうか
   onMarkRead: () => void; // 既読にする関数
+  query: string;
 }
 
 /**
@@ -40,7 +41,7 @@ const SOURCE_COLORS: Record<string, string> = {
 /**
  * NewsCard — 1つのニュース記事を表示するコンポーネント
  */
-export function NewsCard({ item, isRead, onMarkRead }: NewsCardProps) {
+export function NewsCard({ item, isRead, onMarkRead, query }: NewsCardProps) {
   // 公開日時から「X時間前」「X日前」の文字列を計算
   const timeAgo = getTimeAgo(item.publishedAt);
   // ソース名に対応する色を取得（未定義のソースはグレー）
@@ -112,11 +113,11 @@ export function NewsCard({ item, isRead, onMarkRead }: NewsCardProps) {
         </button>
       </div>
       {/* 記事タイトル */}
-      <h3 className="text-sm font-semibold leading-snug mb-2">{item.title}</h3>
+      <h3 className="text-sm font-semibold leading-snug mb-2">{highlight(item.title, query)}</h3>
       {/* AI要約文（要約がある場合のみ表示） — 全文表示 */}
       {item.summary && (
         <p className="text-xs text-[var(--color-text-secondary)] leading-relaxed">
-          {item.summary}
+          {highlight(item.summary, query)}
         </p>
       )}
     </a>
@@ -138,4 +139,23 @@ function getTimeAgo(dateStr: string): string {
   if (hours < 24) return `${hours}時間前`;
   const days = Math.floor(hours / 24);
   return `${days}日前`;
+}
+
+// 検索文字列をタイトル、要約にハイライト
+function highlight(text: string, query: string): React.ReactNode {
+  if (query === "") return text;
+
+  const idx = text.toLowerCase().indexOf(query.toLowerCase());
+  if (idx === -1) return text; // 見つからなければそのまま返す
+  const before = text.slice(0, idx);                          // 一致より前
+  const match = text.slice(idx, idx + query.length);         // 一致部分
+  const after = text.slice(idx + query.length);              // 一致より後ろ
+
+  return (
+    <>
+      {before}
+      <mark>{match}</mark>
+      {highlight(after, query)}
+    </>
+  );
 }

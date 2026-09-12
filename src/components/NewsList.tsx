@@ -14,13 +14,14 @@ import { NewsCard } from "./NewsCard";
 interface NewsListProps {
   items: NewsItem[]; // 表示する記事データの配列（フィルター済み）
   readIds: Set<string>; // 既読記事のIDセット
+  query: string;
   onMarkRead: (id: string) => void; // 記事を既読にする関数
 }
 
 /**
  * NewsList — ニュースカードを一覧表示するコンポーネント
  */
-export function NewsList({ items, readIds, onMarkRead }: NewsListProps) {
+export function NewsList({ items, readIds, onMarkRead ,query }: NewsListProps) {
   // 記事が0件の場合の表示
   if (items.length === 0) {
     return (
@@ -43,6 +44,7 @@ export function NewsList({ items, readIds, onMarkRead }: NewsListProps) {
           item={item}
           isRead={readIds.has(item.id)}
           onMarkRead={() => onMarkRead(item.id)}
+          query={query}
         />
       ))}
     </div>

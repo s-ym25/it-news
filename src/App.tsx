@@ -208,6 +208,7 @@ function App() {
             items={filteredItems}
             readIds={readIds}
             onMarkRead={markAsRead}
+            query={query}
           />
         </>
       )}

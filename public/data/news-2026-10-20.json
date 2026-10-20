@@ -1,0 +1,507 @@
+{
+  "date": "2026-10-20",
+  "items": [
+    {
+      "id": "8lzuyy",
+      "title": "サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡",
+      "url": "https://www.yomiuri.co.jp/national/20261019-GYT1T00477/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "国内80社へのサイバー攻撃で情報漏えいが発生し、中国語のAIエージェントが悪用された痕跡が発見されました。この事件は、AIツールがサイバー犯罪に利用される新たな脅威を示しており、攻撃者が言語処理能力を持つAIを活用して組織的な攻撃を展開した可能性があります。企業のセキュリティ対策において、AI技術の悪用を想定した防御体制の構築が急務となっています。",
+      "publishedAt": "2026-10-20T01:00:09.151Z",
+      "scrapedAt": "2026-10-20T01:00:09.151Z"
+    },
+    {
+      "id": "s98cf4",
+      "title": "最近Gemini使い始めたけど、明らかにchatGPTの方が優秀じゃないか？「Geminiはやる気あるバカってイメージ」「嘘しかつかないので使うのやめました」",
+      "url": "https://togetter.com/li/2760356",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "AI比較に関する議論で、GeminiよりもChatGPTの方が優秀だという意見が多く寄せられています。ユーザーからは「Geminiはやる気あるバカ」「嘘しかつかない」といった厳しい評価が出ており、実用性や回答精度に課題があることが指摘されています。Google製のGeminiは期待されているものの、現時点ではOpenAIのChatGPTに比べて信頼性や性能面で劣るとの認識が広がっています。",
+      "publishedAt": "2026-10-20T01:00:09.151Z",
+      "scrapedAt": "2026-10-20T01:00:09.151Z"
+    },
+    {
+      "id": "4ajym9",
+      "title": "ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim",
+      "url": "https://note.com/timtarou/n/n5443f159e7bc",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "一人で経営する会社がAIを活用してISMS（情報セキュリティマネジメントシステム）認証を取得した事例が紹介されています。従来は多大な人的リソースと時間が必要とされたISMS取得プロセスを、AIの支援により効率化することに成功しました。この事例は、小規模事業者でもAI活用によって高度な認証取得が可能になることを示し、中小企業のセキュリティ対策推進に新たな道を開いています。",
+      "publishedAt": "2026-10-20T01:00:09.151Z",
+      "scrapedAt": "2026-10-20T01:00:09.151Z"
+    },
+    {
+      "id": "j1c9eg",
+      "title": "イーロン・マスク氏、米国の子ども全員に「SpaceX株を1株ずつ」配布すると宣言",
+      "url": "https://japan.cnet.com/article/35253730/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "イーロン・マスク氏が米国の子ども全員にSpaceX株を1株ずつ配布すると発言しました。この大胆な宣言は若年層への投資教育や資産形成の機会提供を意図したものと見られます。実現すれば数千万人規模への株式配布となり、SpaceXの株主構成や企業価値にも大きな影響を与える可能性があります。マスク氏の典型的な注目を集める発言として、実現可能性や具体的な方法について議論を呼んでいます。",
+      "publishedAt": "2026-10-20T01:00:09.151Z",
+      "scrapedAt": "2026-10-20T01:00:09.151Z"
+    },
+    {
+      "id": "hs53vj",
+      "title": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
+      "url": "https://note.com/yukiedu/n/n4d25f5e1d590",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "Claude Codeに開発を全面的に依存したエンジニアが、1〜2ヶ月後に深刻な問題に直面する事例が警告されています。AIコーディングツールに過度に依存すると、コードの理解不足やデバッグ能力の低下により、後の保守や改修時に対応できなくなる危険性があります。AI支援ツールは便利ですが、エンジニア自身の技術力向上を怠ると長期的には「地獄」を見ることになるという教訓的な内容です。",
+      "publishedAt": "2026-10-20T01:00:09.151Z",
+      "scrapedAt": "2026-10-20T01:00:09.151Z"
+    },
+    {
+      "id": "fzqszu",
+      "title": "Apple、10月28日にイベント開催へ　タッチスクリーン「MacBook Pro」など発表か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "Appleが10月28日にイベントを開催し、タッチスクリーン搭載のMacBook Proなど新製品を発表する見込みです。これまでMacにタッチスクリーンを採用してこなかったAppleの方針転換となる可能性があり、iPadとMacの境界が曖昧になる変化が予想されます。新製品の発表はAppleのハードウェア戦略に大きな影響を与え、PC市場全体にも波及効果をもたらす可能性があります。",
+      "publishedAt": "2026-10-20T01:00:09.151Z",
+      "scrapedAt": "2026-10-20T01:00:09.151Z"
+    },
+    {
+      "id": "cc2c8a",
+      "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261020de61888",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "国内の不正アクセス事件で、情報セキュリティ会社が中国系AIの使用を確認したとNHKが報じています。サイバー攻撃にAI技術が実際に活用されている証拠が示されたことで、AIを用いた攻撃手法の高度化が現実のものとなっています。この発見は日本のサイバーセキュリティ対策において、AI技術の悪用を前提とした防御戦略の必要性を浮き彫りにしています。",
+      "publishedAt": "2026-10-20T01:00:09.151Z",
+      "scrapedAt": "2026-10-20T01:00:09.151Z"
+    },
+    {
+      "id": "3opdel",
+      "title": "JP Incident Monitor",
+      "url": "https://elkentaro.github.io/jp_incidents/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "日本国内のセキュリティインシデントを監視・追跡するサイト「JP Incident Monitor」が公開されています。このサービスは国内で発生した情報漏えいやサイバー攻撃などのインシデント情報を集約し、可視化することで、企業や組織がセキュリティ動向を把握しやすくします。インシデント情報の透明性向上により、業界全体のセキュリティ意識向上とベストプラクティスの共有が期待されます。",
+      "publishedAt": "2026-10-20T01:00:09.151Z",
+      "scrapedAt": "2026-10-20T01:00:09.151Z"
+    },
+    {
+      "id": "q9adao",
+      "title": "GitHub - carnot-tech/jinba-consulting-pptx-skill: AIにまじなPPTXを作らせる Claude Code / Codex スキル",
+      "url": "https://github.com/carnot-tech/jinba-consulting-pptx-skill",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "AIに高品質なPowerPointプレゼンテーション資料を作成させるためのClaude Code/Codexスキルがオープンソースで公開されました。コンサルティングレベルの資料作成をAIで自動化するツールで、ビジネス文書作成の効率化に貢献します。プレゼン資料作成は時間のかかる作業ですが、このスキルを活用することで品質を保ちながら大幅な時間短縮が可能になります。",
+      "publishedAt": "2026-10-20T01:00:09.151Z",
+      "scrapedAt": "2026-10-20T01:00:09.151Z"
+    },
+    {
+      "id": "bolwaf",
+      "title": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
+      "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "AWSがNext.jsやHonoなどのNode.jsフレームワークとアプリをそのままデプロイ・実行できる「AWS Lambda Web Functions」を発表しました。従来はLambda用に特別な調整が必要でしたが、この新機能により既存のWebアプリケーションを容易にサーバーレス環境で動作させることができます。開発者の負担軽減とクラウド移行の促進が期待され、サーバーレスアーキテクチャの採用がさらに加速する可能性があります。",
+      "publishedAt": "2026-10-20T01:00:09.151Z",
+      "scrapedAt": "2026-10-20T01:00:09.151Z"
+    },
+    {
+      "id": "k2pupq",
+      "title": "「My SoftBank」サイト停止中　不正アクセスの試み検知　「My Y!mobile」も",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002410/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "ソフトバンクは「My SoftBank」および「My Y!mobile」のサービスを一時停止した。不正アクセスの試みが検知されたためで、セキュリティ対策として予防的な措置を取った形だ。ユーザーは一時的にアカウント管理や各種手続きができない状況となっており、サービス再開時期については調査と対策完了後に発表される見込み。通信大手のサービス停止は多数のユーザーに影響を与える可能性がある。",
+      "publishedAt": "Tue, 20 Oct 2026 09:16:09 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.478Z"
+    },
+    {
+      "id": "5a4ytq",
+      "title": "コンビニのおにぎり1個に払える金額は？GIGAZINE読者から圧倒的支持を集める3大コンビニは？",
+      "url": "https://gigazine.net/news/20261020-gigazine-convenience-store-rice-ball/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "GIGAZINEがコンビニのおにぎりに関する読者アンケートを実施し、その結果を公開した。調査では読者が1個のおにぎりに支払える適正価格や、支持を集めるコンビニチェーンについて集計された。物価上昇が続く中、消費者の価格感覚やコンビニブランドへの評価が明らかになる興味深いデータとなっている。3大コンビニの人気ランキングも示され、消費者の購買行動の傾向が浮き彫りになった。",
+      "publishedAt": "Tue, 20 Oct 2026 09:00:00 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.083Z"
+    },
+    {
+      "id": "xzae9c",
+      "title": "新型iPad miniの画面、60Hzか120Hzか？ 世に出るのはドッチ!?",
+      "url": "https://www.gizmodo.jp/article/2610-new-ipad-mini-display-refresh-rate/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "新型iPad miniのディスプレイ仕様について、リフレッシュレートが60Hzか120Hzかで情報が錯綜している。より滑らかな表示が可能な120Hz ProMotionテクノロジーの搭載が期待されているが、コストや製品ポジショニングの観点から従来の60Hzに留まる可能性も指摘されている。実際の仕様は製品発表まで不明だが、ユーザーの期待は高まっている。",
+      "publishedAt": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.576Z"
+    },
+    {
+      "id": "a9izpi",
+      "title": "メール配信のユミルリンクに不正アクセス　メアドなど約900万件漏えいか",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002409/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "メール配信サービスを提供するユミルリンクが不正アクセスを受け、約900万件のメールアドレスなどの情報が漏えいした可能性がある。同社のサービスを利用する企業の顧客情報が含まれており、影響範囲は広範に及ぶ見込みだ。漏えいした情報を悪用したフィッシング詐欺などの二次被害が懸念されるため、利用者は不審なメールに注意が必要となる。情報セキュリティ対策の重要性が改めて浮き彫りになった事案である。",
+      "publishedAt": "Tue, 20 Oct 2026 08:59:17 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.478Z"
+    },
+    {
+      "id": "o680vf",
+      "title": "マスク氏、米国のすべての子供にSpaceX株を1株ずつ贈与すると宣言　「Trump Account」経由か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002408/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "イーロン・マスク氏が米国のすべての子供にSpaceX株を1株ずつ贈与すると宣言した。「Trump Account」と呼ばれる仕組みを通じて実施される可能性があるという。実現すれば数千万人規模の子供たちが宇宙企業の株主となる前例のない試みとなる。ただし実施の詳細や法的な実現可能性については不明な点が多く、マスク氏の発言の真意や実行計画に注目が集まっている。",
+      "publishedAt": "Tue, 20 Oct 2026 08:55:56 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.478Z"
+    },
+    {
+      "id": "9qmc8s",
+      "title": "音源販売「SONICWIRE」不正アクセス、「Mythosで状況把握」　会員情報最大42万件漏えいか",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002406/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "音楽制作ソフトウェア販売サイト「SONICWIRE」が不正アクセスを受け、最大42万件の会員情報が漏えいした可能性がある。同社はセキュリティ分析ツール「Mythos」を活用して状況把握を進めているという。音楽制作者やクリエイターが多く利用するサービスであり、個人情報の悪用やアカウントの不正利用が懸念される。専門性の高いサービスでもサイバー攻撃のリスクは避けられず、多層的な防御体制の必要性が示された。",
+      "publishedAt": "Tue, 20 Oct 2026 08:08:04 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.478Z"
+    },
+    {
+      "id": "wc3le7",
+      "title": "エミュレーターを使わずにブラウザ上でPSPゲームが動作するというプロジェクト「PSP Web Recomp」",
+      "url": "https://gigazine.net/news/20261020-psp-web-recomp/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "エミュレーターを使用せず、ブラウザ上で直接PSP（PlayStation Portable）ゲームを動作させる技術プロジェクト「PSP Web Recomp」が公開された。従来はエミュレーターソフトが必要だったが、この技術によりWebブラウザだけでPSPゲームがプレイ可能になる。レトロゲームの保存やアクセシビリティ向上に貢献する可能性がある一方、著作権や配布に関する課題も存在する。ゲーム保存の新たなアプローチとして技術的に注目される取り組みだ。",
+      "publishedAt": "Tue, 20 Oct 2026 08:00:00 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.083Z"
+    },
+    {
+      "id": "wn0tal",
+      "title": "Hugging Faceに次いでReflection AIも？NVIDIAがオープンソース系AI企業を次々買収する理由",
+      "url": "https://www.gizmodo.jp/article/nvidia-acquiring-open-source-ai-startups/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "NVIDIAがHugging Faceに続いてReflection AIも買収する可能性が報じられ、オープンソース系AI企業の積極的な買収戦略が注目されている。同社はAIハードウェアの覇者としての地位を固めるため、ソフトウェアやプラットフォーム分野での影響力拡大を図っている。オープンソースコミュニティで支持される企業を傘下に収めることで、AI開発エコシステム全体での主導権確保を狙っていると見られる。AI産業の垂直統合が加速する動きとして業界に大きな影響を与えそうだ。",
+      "publishedAt": "Mon, 19 Oct 2026 23:00:00 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.576Z"
+    },
+    {
+      "id": "nqg7e3",
+      "title": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002405/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "米国土安全保障省が中国企業DeepSeekの製品を連邦民間機関から排除する命令を出した。中国製AIツールによる情報漏洩やセキュリティリスクを懸念した措置と見られる。米中間の技術覇権競争が激化する中、政府調達や公的機関でのAI利用において安全保障上の考慮が優先される流れが強まっている。この決定は民間企業のDeepSeek利用にも影響を与える可能性があり、AI分野での技術デカップリングが一層進展しそうだ。",
+      "publishedAt": "Tue, 20 Oct 2026 07:07:09 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.478Z"
+    },
+    {
+      "id": "14xyvq",
+      "title": "イギリスとアメリカをつないでいた極秘ホットラインプロジェクト「SIGSALY」とは？",
+      "url": "https://gigazine.net/news/20261020-sigsaly/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "第二次世界大戦中にイギリスとアメリカを結んだ極秘の暗号化音声通信システム「SIGSALY」についての記事。当時としては画期的な技術で、チャーチル首相とルーズベルト大統領などの首脳間通信を敵国の盗聴から守る役割を果たした。巨大な装置と複雑な暗号化技術を用いたこのシステムは、現代の暗号通信技術の先駆けとなった。歴史的な技術革新の事例として、情報セキュリティの重要性を示す興味深い題材である。",
+      "publishedAt": "Tue, 20 Oct 2026 07:00:00 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.083Z"
+    },
+    {
+      "id": "o7bu7u",
+      "title": "いつもの仕事が必殺技っぽくなる。画面切り替えにジョイスティックの出番です",
+      "url": "https://www.gizmodo.jp/article/work-controller-joystick-combox/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "仕事用PCの画面切り替え操作をジョイスティックで行える製品が紹介されています。通常のキーボードショートカットやマウス操作による画面切り替えを、ゲーム感覚でジョイスティック操作に置き換えることで、日常業務が必殺技のような演出になります。作業効率化とエンターテイメント性を両立させた、ユニークなPC周辺機器として注目されています。",
+      "publishedAt": "Mon, 19 Oct 2026 22:00:00 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.576Z"
+    },
+    {
+      "id": "ki2h96",
+      "title": "Apple、10月28日にイベント開催へ　タッチスクリーン「MacBook Pro」など発表か",
+      "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "Appleが2026年10月28日に新製品発表イベントを開催する予定です。注目はタッチスクリーン機能を搭載した新型MacBook Proで、これまでタッチパネルを採用してこなかったMacBookシリーズに大きな変化が訪れる可能性があります。この新機能により、iPadとMacの操作性の垣根が低くなり、ユーザー体験が大きく変わることが期待されています。",
+      "publishedAt": "Tue, 20 Oct 2026 06:32:03 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.478Z"
+    },
+    {
+      "id": "cle2k1",
+      "title": "CSSでテーマ設定を行いMermaidダイアグラムをSVGとしてレンダリングする軽量なオープンソースライブラリ「Pele」をObsidianの作者kepanoがリリース",
+      "url": "https://gigazine.net/news/20261020-pele/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Obsidianの開発者kepanoが、Mermaidダイアグラムを軽量にレンダリングするオープンソースライブラリ「Pele」をリリースしました。このライブラリはCSSでテーマ設定が可能で、ダイアグラムをSVG形式でレンダリングできます。従来のMermaid実装よりも軽量で高速な動作が期待され、ドキュメント作成やノート管理ツールでの図表作成がより効率的になります。",
+      "publishedAt": "Tue, 20 Oct 2026 06:00:00 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.083Z"
+    },
+    {
+      "id": "3ymt0g",
+      "title": "“究極のMacBook Pro”降臨か。Appleが新製品発表イベントを10月29日に開催",
+      "url": "https://www.gizmodo.jp/article/2610-oled-macbook-pro-apple-event-2026/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "Appleが2026年10月29日に新製品発表イベントを開催することが明らかになりました。「究極のMacBook Pro」と称される新モデルには、OLEDディスプレイが搭載される可能性が高いとされています。有機ELディスプレイの採用により、より鮮やかな色彩表現と深い黒の再現が可能になり、クリエイティブ作業での性能が大幅に向上すると期待されています。",
+      "publishedAt": "Mon, 19 Oct 2026 20:45:00 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.576Z"
+    },
+    {
+      "id": "jxo3h6",
+      "title": "対象が広い事業・プロダクトが刺さる気がしない",
+      "url": "https://zenn.dev/fusa_bp/articles/broad-target-reaches-no-one",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "事業やプロダクトのターゲットを広く設定しすぎると、かえって誰にも刺さらない結果になるという問題について論じた記事です。マーケティングにおいて「万人受け」を狙うと特徴が薄れ、具体的なユーザーのニーズに応えられなくなります。成功するプロダクトは明確なターゲット設定と、その層に深く刺さる価値提供が重要であることを指摘しています。",
+      "publishedAt": "Mon, 19 Oct 2026 17:05:28 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.289Z"
+    },
+    {
+      "id": "3uviwl",
+      "title": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
+      "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "AWSが「AWS Lambda Web Functions」を発表し、Next.jsやHonoなどのNode.jsフレームワークで作成したアプリケーションをそのままデプロイ・実行できるようになりました。従来はLambda用に特別な対応が必要でしたが、この新機能により既存のWebアプリケーションをほぼ無改修でサーバーレス環境に移行できます。開発者の負担が大幅に軽減され、サーバーレスアーキテクチャの採用がより容易になると期待されています。",
+      "publishedAt": "2026-10-19T15:49:22.000Z",
+      "scrapedAt": "2026-10-20T01:00:09.235Z"
+    },
+    {
+      "id": "l2iv0w",
+      "title": "AWS Transform、Azure Functions用のコードをAWS Lambda用に変換など、Microsoft AzureからAWSへの移行に対応",
+      "url": "https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "AWSが「AWS Transform」を発表し、Microsoft AzureからAWSへのクラウド移行を支援する機能を提供開始しました。特にAzure FunctionsのコードをAWS Lambda用に自動変換できる機能が含まれており、クラウドプラットフォーム間の移行障壁が大幅に低減されます。マルチクラウド戦略を採用する企業や、クラウドベンダーを変更したい企業にとって有用なツールとなりそうです。",
+      "publishedAt": "2026-10-19T15:47:48.000Z",
+      "scrapedAt": "2026-10-20T01:00:09.235Z"
+    },
+    {
+      "id": "vmokph",
+      "title": "規制が厳しい現代社会に「オトナ」なアニメ表現を届ける気概と工夫を男2人が密室でみっちり語り倒す『ダークサモナーとデキている』『彼女の友達』プロデューサートーク濃密レポート",
+      "url": "https://gigazine.net/news/20261019-darksummoner-kanojo-no-tomodachi-machiasobi31/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "アニメ『ダークサモナーとデキている』と『彼女の友達』のプロデューサーが、規制が厳しい現代において大人向けアニメ表現をどう実現するかについて語ったトークイベントのレポートです。表現規制が強化される中でも、創意工夫と気概を持って成人向けコンテンツを届けるための手法や苦労が詳しく語られました。アニメ業界における表現の自由と商業性のバランスについて、制作現場の生の声が明かされています。",
+      "publishedAt": "Mon, 19 Oct 2026 23:30:00 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.083Z"
+    },
+    {
+      "id": "m7jnxk",
+      "title": "ウィリアム・ギブスンの「ニューロマンサー」で言及された「サイバースペース」という用語が第三者に商標登録されギブスンが報復したという話は本当なのか",
+      "url": "https://gigazine.net/news/20261019-william-gibson-cyberspace-trademark/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "SF作家ウィリアム・ギブスンの代表作『ニューロマンサー』で使われた「サイバースペース」という用語が第三者に商標登録され、ギブスン本人が何らかの報復行動を取ったという逸話の真偽を検証した記事です。この用語は現在広く一般的に使われるようになった概念ですが、創作者の権利と商標登録の関係について興味深い事例を提供しています。SF文学が生み出した造語が社会に与えた影響と、知的財産権の問題を考察しています。",
+      "publishedAt": "Mon, 19 Oct 2026 23:00:00 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.083Z"
+    },
+    {
+      "id": "ytjds9",
+      "title": "永遠に残る化学物質「PFAS」を水から除去する簡単な方法、あります",
+      "url": "https://www.gizmodo.jp/article/how-to-remove-pfas-vwb/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "環境中で分解されず永続的に残る化学物質「PFAS」を水から簡単に除去する方法が紹介されています。PFASは「永遠の化学物質」とも呼ばれ、健康への悪影響が懸念されている汚染物質です。家庭でも実践可能な除去方法が存在することで、飲料水の安全性を高めることができます。環境汚染対策として個人レベルでできる対応策として注目されています。",
+      "publishedAt": "Mon, 19 Oct 2026 14:00:00 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.576Z"
+    },
+    {
+      "id": "wvoew4",
+      "title": "AIとコンテストに参加する",
+      "url": "https://zenn.dev/attgm/articles/d28df25b88254a",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "AIとコンテスト参加に関する技術記事です。開発者がAI技術を活用してプログラミングコンテストやデータサイエンスコンペティションに挑戦する方法や経験を共有していると考えられます。AIツールを使った問題解決のアプローチや、実際の競技での活用事例が紹介されている可能性があります。",
+      "publishedAt": "Mon, 19 Oct 2026 13:42:44 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.289Z"
+    },
+    {
+      "id": "no00uy",
+      "title": "「今日、友だち来るんだった！」数滴でトイレのにおいに焦らず済んだ",
+      "url": "https://www.gizmodo.jp/article/2610-sunday-weekend-mellow-drop-toilet-aroma/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "トイレの消臭剤に関する製品紹介記事です。急な来客時にトイレの臭い対策が必要になった際、数滴垂らすだけで効果的に消臭できる製品が紹介されています。忙しい日常生活での実用性が高く、手軽に使える点が評価されているようです。",
+      "publishedAt": "Mon, 19 Oct 2026 13:15:00 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.576Z"
+    },
+    {
+      "id": "10nl50",
+      "title": "AIの思考を潜在空間で実行して高性能化＆高速化＆低コスト化を実現する「Hybrid Reasoning Agents」",
+      "url": "https://gigazine.net/news/20261019-hybrid-reasoning-agents/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "AI推論の新しい技術「Hybrid Reasoning Agents」についての解説記事です。この技術はAIの思考プロセスを潜在空間で実行することで、処理性能の向上、処理速度の高速化、そして運用コストの削減を同時に実現しています。従来のAI推論手法と比べて効率的な新しいアプローチとして注目されています。",
+      "publishedAt": "Mon, 19 Oct 2026 22:00:00 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.083Z"
+    },
+    {
+      "id": "vxl3xu",
+      "title": "ハリポタの「勝手に動くチェス」が現実に！ 声で駒を動かす魔法の体験",
+      "url": "https://www.gizmodo.jp/article/gochess-wizard-alive/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "ハリー・ポッターシリーズに登場する魔法のチェスを再現した製品の紹介記事です。音声コマンドでチェスの駒を実際に動かすことができる「GoChess Wizard」という製品が登場し、映画の世界観を現実で体験できるようになりました。ファンにとって夢のような魔法体験を提供する革新的なボードゲームです。",
+      "publishedAt": "Mon, 19 Oct 2026 13:00:00 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.576Z"
+    },
+    {
+      "id": "12gkd1",
+      "title": "純正じゃなくても大満足。2,000円台で買えるUGREENのiPadペン",
+      "url": "https://www.gizmodo.jp/article/305668-2610-amazon-ugreenpencil-ano/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "UGREEN製のiPad用スタイラスペンのレビュー記事です。Apple純正のApple Pencilと比較して大幅に安価な2,000円台という価格設定ながら、十分な性能と使い心地を提供していることが評価されています。コストパフォーマンスを重視するユーザーにとって魅力的な選択肢となっています。",
+      "publishedAt": "Mon, 19 Oct 2026 12:55:00 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.576Z"
+    },
+    {
+      "id": "d9njgl",
+      "title": "中身の交換でずっと長持ち。リサイクル素材と3Dプリントで作ったモバイルバッテリー",
+      "url": "https://www.gizmodo.jp/article/2610-zero-modular-power-bank/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "環境に配慮したモバイルバッテリーの製品紹介です。リサイクル素材と3Dプリント技術を使用して製造され、内部のバッテリーセルを交換可能な設計により長期間使用できる仕組みになっています。使い捨て文化からの脱却と持続可能性を重視した製品設計が特徴です。",
+      "publishedAt": "Mon, 19 Oct 2026 12:30:00 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.576Z"
+    },
+    {
+      "id": "7jhxu0",
+      "title": "AIが数学の難問を解く現状について数学者が「建設的に関わっていく方法が見いだせない」と語る",
+      "url": "https://gigazine.net/news/20261019-front-lines-debate-ai-future-math/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "AI技術が数学の難問解決に進出している現状について、数学者の見解を伝える記事です。AIが数学の証明や問題解決に貢献し始めている一方で、現役の数学者たちは従来の研究手法との整合性や、AIとどのように協力していくべきかについて戸惑いを感じています。数学界におけるAIの役割について建設的な関わり方を模索している状況が語られています。",
+      "publishedAt": "Mon, 19 Oct 2026 21:00:00 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.083Z"
+    },
+    {
+      "id": "4pgqfy",
+      "title": "ギタースタジオが片手に収まる。黒ネコAIが音作りを助ける究極のオーディオ・インターフェイス",
+      "url": "https://www.gizmodo.jp/article/00dd8d65-1c72-42c3-bcd7-91d2bf66bdaf/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "ギター演奏用の小型オーディオインターフェイスの製品紹介です。持ち運び可能なコンパクトサイズでありながら、AI機能（黒ネコのキャラクター）が音作りをサポートする機能を搭載しています。従来はスタジオで必要だった機材が手のひらサイズに収まり、場所を選ばず高品質な音楽制作が可能になります。",
+      "publishedAt": "Mon, 19 Oct 2026 12:00:00 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.576Z"
+    },
+    {
+      "id": "gw899a",
+      "title": "普段使いのWindows PCでNodeのサーバーを常駐させて踏んだ罠",
+      "url": "https://zenn.dev/matasuke_t/articles/bf784b79b29e86",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "Windows PC環境でNode.jsサーバーを常駐させる際に遭遇した技術的な問題と解決策について解説した記事です。開発環境ではなく普段使いのPCで本番運用に近い形でサーバーを動かす際の注意点や、実際に直面したトラブルの経験が共有されています。同様の環境構築を考えている開発者にとって有用な情報となっています。",
+      "publishedAt": "Mon, 19 Oct 2026 11:13:05 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.289Z"
+    },
+    {
+      "id": "pw1b7m",
+      "title": "AIのベンチマークテストは人間の仕事の1割しかカバーできていない",
+      "url": "https://gigazine.net/news/20261019-ai-benchmark-mapping/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "AIの性能評価に使われるベンチマークテストの限界について指摘する記事です。現在のAIベンチマークは実際の人間の仕事のわずか1割程度しか評価できておらず、AIの実用性を正確に測定できていない可能性があります。この状況はAI技術の実社会への応用において、過大評価や過小評価のリスクをもたらす可能性があります。",
+      "publishedAt": "Mon, 19 Oct 2026 20:00:00 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.083Z"
+    },
+    {
+      "id": "4wmfty",
+      "title": "ニフティ、54万件超漏えいの可能性　光回線の申し込みシステムに不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002399/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "ニフティの光回線申し込みシステムが不正アクセスを受け、54万件を超える個人情報が漏えいした可能性があることが明らかになりました。光回線サービスの申し込みに関わる顧客データが流出の対象となっており、氏名や住所、連絡先などの情報が含まれていると見られます。同社は事態の詳細を調査中で、影響を受けた顧客への対応を進めています。",
+      "publishedAt": "Mon, 19 Oct 2026 19:34:36 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.478Z"
+    },
+    {
+      "id": "kp0xo1",
+      "title": "Metaが「ニュースサイトからの情報収集を可能とする利用規約」を削除",
+      "url": "https://gigazine.net/news/20261019-meta-removes-scrape/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Metaがニュースサイトからの情報収集を可能にする利用規約の条項を削除したことが報じられました。これまでMetaはニュースサイトのコンテンツをスクレイピングできる規約を設けていましたが、メディア業界やニュースパブリッシャーからの批判を受けて方針を転換したと見られます。この変更により、ニュースメディアとプラットフォーム間の関係性に影響が出る可能性があります。",
+      "publishedAt": "Mon, 19 Oct 2026 19:30:00 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.083Z"
+    },
+    {
+      "id": "qqelee",
+      "title": "スクエニアカウントに不正ログイン、他社で流出の情報使用か　全アカウントのパスワード強制リセットも視野に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002397/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "スクウェア・エニックスのアカウントシステムに不正ログインが発生し、他社サービスから流出した認証情報が悪用された可能性が高いことが判明しました。いわゆる「パスワードリスト攻撃」による被害と見られ、同社は被害拡大を防ぐため全アカウントのパスワード強制リセットも検討しています。ユーザーには複数サービスで同じパスワードを使い回さないよう注意喚起がなされています。",
+      "publishedAt": "Mon, 19 Oct 2026 18:58:47 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.478Z"
+    },
+    {
+      "id": "8560d3",
+      "title": "阪急阪神百貨店などの共通ID、ほぼ全会員分漏えい　約126万件　予約サイトに不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002398/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "阪急阪神百貨店などで利用される共通ID約126万件、ほぼ全会員分の情報が漏えいする重大なセキュリティ事故が発生しました。予約サイトへの不正アクセスが原因とされ、会員の個人情報や利用履歴などが流出した可能性があります。百貨店グループという信頼性の高い企業での大規模漏えいであり、影響を受ける顧客数も多いため、今後の対応が注目されます。",
+      "publishedAt": "Mon, 19 Oct 2026 18:53:08 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.478Z"
+    },
+    {
+      "id": "afyy9u",
+      "title": "Claude Codeの会話を55分放っておいたら、272,422トークンが13,522に圧縮されていました ― アイドル圧縮の観測",
+      "url": "https://zenn.dev/ojisan_ai_lab/articles/claude-code-idle-compaction-20261019",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "Claude Codeで会話を55分間放置したところ、272,422トークンが自動的に13,522トークンに圧縮される「アイドル圧縮」という現象が観測されました。これはAIが長時間使用されない際に、会話履歴を効率的に要約・圧縮する機能と考えられ、トークン消費の最適化やコスト削減に寄与する可能性があります。AI開発における効率性向上の興味深い事例として注目されます。",
+      "publishedAt": "Mon, 19 Oct 2026 09:29:39 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.289Z"
+    },
+    {
+      "id": "6r8323",
+      "title": "「ゲオ」「セカスト」運営元に不正アクセス　公式アプリや通販を停止、メンテナンス実施中",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002392/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "「ゲオ」や「セカンドストリート」を運営する企業のシステムに不正アクセスがあり、公式アプリや通販サイトのサービスが停止されました。現在はメンテナンス中で、セキュリティ対策と影響範囲の調査が行われています。大手レンタル・リユースチェーンでの障害であり、多くの利用者に影響が出ていると見られます。",
+      "publishedAt": "Mon, 19 Oct 2026 17:08:39 +0900",
+      "scrapedAt": "2026-10-20T01:00:09.478Z"
+    },
+    {
+      "id": "mlf6bz",
+      "title": "Kaigi on Rails 2026 感想 ＆ OSTで「ファットモデル」の議論をしたよ！",
+      "url": "https://zenn.dev/progate/articles/b49c75fc6ab1ff",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "日本のRailsコミュニティイベント「Kaigi on Rails 2026」に参加した感想記事です。オープンスペーステクノロジー（OST）セッションで「ファットモデル」問題について議論が行われ、Railsアプリケーション設計における課題や解決策について活発な意見交換がなされました。Rails開発者コミュニティの知見共有の場として有意義なイベントだったようです。",
+      "publishedAt": "Mon, 19 Oct 2026 05:38:03 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.289Z"
+    },
+    {
+      "id": "nlviia",
+      "title": "AWS Lambda Web FunctionsでImpossible Location検知の課題をまとめて解決！ + 昨今の攻撃への有効性",
+      "url": "https://zenn.dev/cscloud_blog/articles/f4ce99ffeb8ee3",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "AWS Lambda Web Functionsを活用して、「Impossible Location」（物理的に不可能な場所からのアクセス）検知における課題を解決する方法が紹介されています。従来の検知システムが抱えていた誤検知や遅延の問題を、Lambda Web Functionsの特性を活かして改善し、昨今増加しているサイバー攻撃に対する有効性も検証されています。",
+      "publishedAt": "Mon, 19 Oct 2026 04:08:01 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.289Z"
+    },
+    {
+      "id": "t6dvtu",
+      "title": "AI時代、配布するPythonコードをどう守るか: 難読化の実験と判断軸",
+      "url": "https://zenn.dev/pksha/articles/0f9c11d1daea2e",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "AI時代におけるPythonコードの保護について、難読化技術の実験結果と判断基準が示されています。オープンソースが主流のPythonにおいて、知的財産やアルゴリズムを保護する必要がある場合の難読化手法の有効性や限界、どのような場合に適用すべきかの判断軸が議論されています。商用AI開発における実務的な課題への対処法として参考になる内容です。",
+      "publishedAt": "Mon, 19 Oct 2026 03:19:32 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.289Z"
+    },
+    {
+      "id": "on0kp",
+      "title": "Claude Codeでプロンプトインジェクションに備える",
+      "url": "https://zenn.dev/luxiar/articles/a341a2df29dcfe",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "Claude Codeを使用する際のプロンプトインジェクション攻撃への対策方法が解説されています。AIコーディングアシスタントが外部入力を処理する際に、悪意のある命令が混入するリスクがあり、これを防ぐための具体的な実装方法やセキュリティ対策が紹介されています。AI開発ツールの安全な利用に向けた重要な知見といえます。",
+      "publishedAt": "Mon, 19 Oct 2026 02:00:05 GMT",
+      "scrapedAt": "2026-10-20T01:00:09.289Z"
+    }
+  ],
+  "dailySummary": "# 今日のまとめ\n\n国内企業を狙ったサイバー攻撃が深刻化しており、中国語のAIエージェントが悪用された痕跡が複数の事件で確認されるなど、AI技術が攻撃手段として利用される新たな脅威が顕在化しています。ソフトバンク、ニフティ、阪急阪神百貨店、ゲオなど大手企業で相次いで不正アクセスやシステム停止が発生し、数十万件から百万件超の個人情報漏えいが報告されるなど、セキュリティインシデントが多発する事態となっています。一方で技術面では、AWSが「Lambda Web Functions」を発表してNode.jsアプリの簡易デプロイを実現するなど開発効率化が進み、AIツールの活用も広がっていますが、Claude Codeへの過度な依存による技術力低下への警鐘や、Geminiの性能に対する厳しい評価など、AI活用における課題も浮き彫りになっています。また、米国土安全保障省が中国DeepSeek製品を政府機関から排除する命令を出すなど、AI分野における米中の技術覇権競争も激化する様相を見せています。",
+  "generatedAt": "2026-10-20T01:03:02.241Z"
+}

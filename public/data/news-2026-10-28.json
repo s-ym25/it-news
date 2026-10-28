@@ -1,0 +1,497 @@
+{
+  "date": "2026-10-28",
+  "items": [
+    {
+      "id": "tzr60p",
+      "title": "【特集】 永続版Officeを使うには最初の設定が肝心！最新Office付きPCの落とし穴",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2151639.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "最新のOffice付きPCを購入する際、永続版Officeを使用するための初期設定に注意が必要という記事です。適切な設定を行わないとサブスクリプション版への誘導や、永続版が正しく認証されないといった問題が発生する可能性があります。PC購入時に付属するOfficeライセンスを確実に利用するため、最初のセットアップ段階での正しい手順を理解しておくことが重要です。",
+      "publishedAt": "2026-10-28T01:05:37.419Z",
+      "scrapedAt": "2026-10-28T01:05:37.419Z"
+    },
+    {
+      "id": "uy31he",
+      "title": "公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」",
+      "url": "https://www.yomiuri.co.jp/national/20261027-GYT1T00367/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "GMOクラウドサービスで情報漏洩が発生し、公開された情報と氏名などが一致する人物が取材に応じ、同サービスを一度も利用したことがないと証言した事件です。これは第三者がその人物の個人情報を不正に使用してサービスに登録していた可能性を示唆しています。個人情報の不正利用や、サービス事業者の本人確認体制の甘さが問題となっています。",
+      "publishedAt": "2026-10-28T01:05:37.419Z",
+      "scrapedAt": "2026-10-28T01:05:37.419Z"
+    },
+    {
+      "id": "8pw55e",
+      "title": "Zero Trust for AI agents",
+      "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "AIエージェント向けのゼロトラストセキュリティに関するClaudeの記事です。AIエージェントが企業システムやデータにアクセスする際、従来の信頼モデルではなく、常に検証を行うゼロトラストアプローチが必要だと提唱しています。AIの自律的な動作が増える中で、セキュリティリスクを最小化するための新しいセキュリティフレームワークの重要性が説明されています。",
+      "publishedAt": "2026-10-28T01:05:37.419Z",
+      "scrapedAt": "2026-10-28T01:05:37.419Z"
+    },
+    {
+      "id": "7kjk3s",
+      "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表",
+      "url": "https://japan.cnet.com/article/35254012/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "OpenAIが計算複雑性理論における長年の予想を覆す研究成果を発表したというニュースです。この成果は理論計算機科学の分野で重要な意味を持つ可能性があり、問題の難易度に関する従来の理解を変える可能性があります。AI研究の副産物として基礎的な数学・計算機科学の問題にも貢献していることを示す事例となっています。",
+      "publishedAt": "2026-10-28T01:05:37.419Z",
+      "scrapedAt": "2026-10-28T01:05:37.419Z"
+    },
+    {
+      "id": "pcpwit",
+      "title": "スライド作成入門_2024.indd",
+      "url": "https://home.riise.hiroshima-u.ac.jp/~ten/slide_20240328.pdf?utm_source=chatgpt.com",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "広島大学が公開したスライド作成に関する入門資料です。学術的なプレゼンテーションや研究発表のためのスライド設計の基本原則、視覚的な情報の整理方法、効果的な伝達手法などがまとめられていると推測されます。研究者や学生向けの教育資料として活用されることを目的とした実践的なガイドと考えられます。",
+      "publishedAt": "2026-10-28T01:05:37.419Z",
+      "scrapedAt": "2026-10-28T01:05:37.419Z"
+    },
+    {
+      "id": "sqfuzd",
+      "title": "GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ、同業者からの悪評と集まった反応がまるでGMOのWikiのよう",
+      "url": "https://togetter.com/li/2763425",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "GMOに関する否定的な評判がSNSで話題になり、まとめられた記事です。ユーザーを誤解させるダークパターンの使用、カスタマーサポートの質の低さ、同業者からの評判の悪さなど、様々な問題点が指摘されています。コメント欄には実体験に基づく批判が多数集まり、まるでGMOの問題点を網羅したWikiのような状態になっています。",
+      "publishedAt": "2026-10-28T01:05:37.419Z",
+      "scrapedAt": "2026-10-28T01:05:37.419Z"
+    },
+    {
+      "id": "8kbjhp",
+      "title": "脱GPUが加速、OracleもGoogle製TPUを選択",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2151701.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "OracleがAI処理向けにNVIDIA製GPUではなくGoogle製TPUを採用したというニュースです。クラウド事業者の間でGPU依存から脱却し、独自のAIアクセラレータや他社製品を選択する動きが加速していることを示しています。コスト効率やパフォーマンス最適化の観点から、AI処理基盤の多様化が進んでいる業界トレンドを反映しています。",
+      "publishedAt": "2026-10-28T01:05:37.419Z",
+      "scrapedAt": "2026-10-28T01:05:37.419Z"
+    },
+    {
+      "id": "k99xzg",
+      "title": "3回つくってわかった、 定期実行ジョブ基盤の本質情報",
+      "url": "https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "定期実行ジョブ基盤を3回構築した経験から得られた本質的な知見をまとめた技術プレゼンテーション資料です。cron的なバッチ処理システムを複数回設計・実装することで見えてきた、アーキテクチャの選択、運用上の課題、設計時に考慮すべき重要なポイントなどが解説されていると考えられます。実践的な経験に基づくノウハウが共有されています。",
+      "publishedAt": "2026-10-28T01:05:37.419Z",
+      "scrapedAt": "2026-10-28T01:05:37.419Z"
+    },
+    {
+      "id": "m48i2y",
+      "title": "アップル、M6搭載の新型「MacBook Pro」発表　11月6日発売",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2151696.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "Appleが新型プロセッサM6を搭載したMacBook Proを発表し、11月6日に発売されるというニュースです。M6チップは前世代からさらなる性能向上が期待され、プロフェッショナルユーザー向けの処理能力が強化されていると推測されます。Appleのシリコン戦略の継続と、Macラインナップの定期的なアップデートを示しています。",
+      "publishedAt": "2026-10-28T01:05:37.419Z",
+      "scrapedAt": "2026-10-28T01:05:37.419Z"
+    },
+    {
+      "id": "m8607s",
+      "title": "GitHub - azu/chizu: 🧀 Chīzu is a small macOS default browser that sends links to a configured browser and, for Dia or Google Chrome, a named profile.",
+      "url": "https://github.com/azu/chizu",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "macOSでリンクをクリックした際に、設定したブラウザや特定のプロファイルに振り分けるための小型デフォルトブラウザアプリです。ChromeやArcなどのブラウザで複数のプロファイル（仕事用・個人用など）を使い分けている場合に、リンクを適切なプロファイルで開くことができます。ブラウザ管理の効率化とコンテキストの分離を実現するユーティリティツールです。",
+      "publishedAt": "2026-10-28T01:05:37.419Z",
+      "scrapedAt": "2026-10-28T01:05:37.419Z"
+    },
+    {
+      "id": "jux33m",
+      "title": "国産シンセファン歓喜。ローランドの名機「JUPITER-8」がミニサイズで復活",
+      "url": "https://www.gizmodo.jp/article/roland-jupiter-08/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "ローランドが1981年に発売した伝説的なアナログシンセサイザー「JUPITER-8」を小型化して復刻したモデルを発表しました。オリジナルは高価で希少価値の高い機材として知られており、その音色を現代的なコンパクトサイズで再現することで、国内のシンセサイザーファンから熱い支持を集めています。名機の復活により、プロからアマチュアまで幅広い層がクラシックなサウンドにアクセスできるようになります。",
+      "publishedAt": "Wed, 28 Oct 2026 01:00:00 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.612Z"
+    },
+    {
+      "id": "6v9cye",
+      "title": "Xbox Cloud Gamingに「時間課金プラン」。買ったゲームでも追加料金が発生!?",
+      "url": "https://www.gizmodo.jp/article/2610-xbox-cloud-gaming-time-based-pricing/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "Microsoftが Xbox Cloud Gaming に時間課金プランを導入する方針を発表しました。これにより、ユーザーが既に購入済みのゲームであっても、クラウド経由でプレイする際には追加の時間制課金が発生する可能性があります。従来のサブスクリプションモデルからの大きな方針転換となり、ユーザーの利用コスト増加への懸念が広がっています。",
+      "publishedAt": "Wed, 28 Oct 2026 00:30:00 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.612Z"
+    },
+    {
+      "id": "b3e0ok",
+      "title": "iPhone Duo画面割れ問題、「交換対応します」Appleがメディアに回答",
+      "url": "https://www.gizmodo.jp/article/2610-iphone-duo-screen-crack-replacement/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "Apple が「iPhone Duo」で発生している画面割れ問題について、メディアからの問い合わせに対して交換対応を行う方針を明らかにしました。特定の条件下で画面にひび割れが発生する不具合が報告されており、Appleは製品の品質問題として認識し対応に乗り出した形です。ユーザーは無償交換などのサポートを受けられる見込みです。",
+      "publishedAt": "Wed, 28 Oct 2026 00:15:00 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.612Z"
+    },
+    {
+      "id": "k5o45n",
+      "title": "AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり",
+      "url": "https://gigazine.net/news/20261028-gigazine-user-otaku/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "GIGAZINEが読者を対象に実施した「オタク趣味」に関する大規模調査の結果が公開されました。AIから園芸まで多岐にわたる趣味について、年代別・性別ごとの傾向や、他の設問との相関関係など詳細な分析が行われています。読者層の嗜好や属性を可視化することで、オタク文化の多様性と広がりが明らかになりました。",
+      "publishedAt": "Wed, 28 Oct 2026 09:00:00 +0900",
+      "scrapedAt": "2026-10-28T01:05:36.826Z"
+    },
+    {
+      "id": "nvh8xu",
+      "title": "新型MacBook Pro発表と「サプライズ」があるっぽい。ロサンゼルスから現地レポをお届け",
+      "url": "https://www.gizmodo.jp/article/apple-experience-macbookpro-la/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "Appleがロサンゼルスで新型MacBook Proの発表イベントを開催し、何らかの「サプライズ」も用意されている模様です。現地から特別レポートが届けられており、新製品の詳細や予期せぬ発表への期待が高まっています。会場の雰囲気や製品の実機体験など、リアルタイムの情報が共有される予定です。",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.612Z"
+    },
+    {
+      "id": "3l8p76",
+      "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "NVIDIAとAMDがそれぞれMetaとのAI分野での提携拡大を発表しました。MetaのAIサービス「Muse」の機能強化や、次世代AIインフラの構築において協力関係を深めます。両GPU大手がMetaと連携することで、AI開発の加速とより高性能なサービス提供が期待され、業界全体のAI技術革新に大きな影響を与える可能性があります。",
+      "publishedAt": "Wed, 28 Oct 2026 08:55:26 +0900",
+      "scrapedAt": "2026-10-28T01:05:37.554Z"
+    },
+    {
+      "id": "l0poe5",
+      "title": "身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」",
+      "url": "https://gigazine.net/news/20261028-colorfigures/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "身近な物を文章で説明すると、AIが手描き風のイラストで描画し、実際に機能するボタンなどのUI要素も付加してくれる「Colorfigures」というサービスが登場しました。デザインとプロトタイピングを同時に行える画期的なツールで、開発者やデザイナーの作業効率化に貢献します。AIによる自然言語からのUI生成技術の進化を示す事例となっています。",
+      "publishedAt": "Wed, 28 Oct 2026 08:00:00 +0900",
+      "scrapedAt": "2026-10-28T01:05:36.826Z"
+    },
+    {
+      "id": "b69k18",
+      "title": "メタのAI「Muse」、共有コンテンツが第三者からも閲覧可能だった",
+      "url": "https://www.gizmodo.jp/article/meta-muse-ghost-share-security-issue/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "MetaのAIサービス「Muse」において、ユーザーが共有したコンテンツが意図せず第三者からも閲覧可能になっていたセキュリティ問題が発覚しました。プライバシー設定の不備により、限定公開のつもりが実際には公開状態になっていた可能性があります。Metaのプライバシー管理体制への信頼性が問われる事態となり、早急な対応と説明が求められています。",
+      "publishedAt": "Tue, 27 Oct 2026 23:00:00 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.612Z"
+    },
+    {
+      "id": "fz0e0e",
+      "title": "auメールで朝から障害　全国で利用しづらい状況に",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002650/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "auメールサービスで朝から大規模な障害が発生し、全国で利用しづらい状況が続いています。メールの送受信ができない、遅延が発生するなどの不具合が報告されており、ビジネスや日常生活に影響が出ています。KDDI側は原因究明と復旧作業を急いでおり、ユーザーへの影響最小化を図っています。",
+      "publishedAt": "Wed, 28 Oct 2026 07:51:10 +0900",
+      "scrapedAt": "2026-10-28T01:05:37.554Z"
+    },
+    {
+      "id": "3zk1ue",
+      "title": "Apple、M6搭載の14インチ「MacBook Pro」発表　AI性能向上、33万9800円から",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002649/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "AppleがM6チップを搭載した14インチ「MacBook Pro」を発表しました。AI処理性能が大幅に向上し、機械学習タスクやクリエイティブ作業がより高速化されます。価格は33万9800円からとなっており、プロフェッショナルユーザーを中心に高性能なモバイルワークステーションを求める層への訴求が期待されます。",
+      "publishedAt": "Wed, 28 Oct 2026 07:30:52 +0900",
+      "scrapedAt": "2026-10-28T01:05:37.554Z"
+    },
+    {
+      "id": "ez1cx8",
+      "title": "AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」",
+      "url": "https://gigazine.net/news/20261028-cve-tracker/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "AIを活用した脆弱性診断ツールの登場により、CVE（共通脆弱性識別子）の発見数が急激に増加している状況を可視化したグラフ「CVE Tracker」が話題となっている。これまで手動で発見されていた脆弱性をAIが効率的に検出できるようになり、セキュリティ分野での技術革新が進んでいることが明確に示されている。この傾向はソフトウェアのセキュリティ管理の重要性をさらに高めるとともに、開発者側の対応負担も増加させる可能性がある。",
+      "publishedAt": "Wed, 28 Oct 2026 07:00:00 +0900",
+      "scrapedAt": "2026-10-28T01:05:36.826Z"
+    },
+    {
+      "id": "rmzcpm",
+      "title": "スマートグラス、ついにメガネ販売チェーンも｢ノー｣。理由はプライバシー問題",
+      "url": "https://www.gizmodo.jp/article/smart-glasses-hans-anders-privacy/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "メガネ販売チェーンがスマートグラスの取り扱いを拒否する動きが出ており、その主な理由はプライバシー侵害への懸念である。カメラや録音機能を備えたスマートグラスは、装着者が無断で他者を撮影・録音できるため、公共の場でのプライバシー保護が大きな課題となっている。小売チェーンレベルでの販売拒否は、スマートグラス普及における社会的受容性の問題を浮き彫りにしている。",
+      "publishedAt": "Tue, 27 Oct 2026 22:00:00 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.612Z"
+    },
+    {
+      "id": "ul7gut",
+      "title": "Google DeepMind、ワールドモデル「Genie 4」発表　音声や会話もリアルタイム生成、Geminiと連携",
+      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "Google DeepMindが新たなワールドモデル「Genie 4」を発表し、リアルタイムで音声や会話を生成できる機能を実装した。このモデルはGeminiと連携することで、より高度なインタラクティブ体験を提供可能になっている。ワールドモデルは仮想環境をAIが理解・生成する技術であり、ゲーム開発やシミュレーション、AIエージェントの訓練などへの応用が期待される。",
+      "publishedAt": "Wed, 28 Oct 2026 06:53:37 +0900",
+      "scrapedAt": "2026-10-28T01:05:37.554Z"
+    },
+    {
+      "id": "13zt09",
+      "title": "GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説",
+      "url": "https://gigazine.net/news/20261028-kv-cache-exposure-remediation/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "CloudflareがGLM-5.3 Workers AIモデルにおいて、異なるリクエスト間でKVキャッシュ（キー・バリューキャッシュ）が漏洩する脆弱性を発見し、その対策について解説している。この問題はSGLangというフレームワークを使用することで解決されたとされる。KVキャッシュの漏洩は他のユーザーの会話内容が流出する重大なセキュリティリスクであり、AIサービス提供における安全性確保の重要性が改めて示された。",
+      "publishedAt": "Wed, 28 Oct 2026 06:00:00 +0900",
+      "scrapedAt": "2026-10-28T01:05:36.826Z"
+    },
+    {
+      "id": "u2tl0n",
+      "title": "Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026",
+      "url": "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "Oracle CloudがGoogle製のTPU（Tensor Processing Unit）を2027年から提供開始すると発表した。これはOracle AI World 2026での発表で、クラウドサービス間の協業が進んでいることを示している。GoogleのAI専用チップであるTPUをOracleのクラウドで利用可能になることで、企業はより多様なAIインフラの選択肢を得ることになり、競争力の向上につながる。",
+      "publishedAt": "2026-10-27T16:33:51.000Z",
+      "scrapedAt": "2026-10-28T01:05:37.130Z"
+    },
+    {
+      "id": "4ujzi4",
+      "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
+      "url": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "JavaScriptランタイム「Bun」が、広く使われているコードフォーマッタPrettierと互換性を持ちながら300倍以上高速なフォーマッタを提供開始した。既存のPrettier設定ファイルをそのまま使用できるため、移行が容易である点が特徴。開発ツールの高速化は開発者の生産性向上に直結するため、JavaScript開発環境の改善として注目される。",
+      "publishedAt": "2026-10-27T15:27:52.000Z",
+      "scrapedAt": "2026-10-28T01:05:37.130Z"
+    },
+    {
+      "id": "puxo7n",
+      "title": "【速報】M6チップ搭載の新型MacBook Proが登場。タスクは高速に、お値段は据え置きで",
+      "url": "https://www.gizmodo.jp/article/m6-macbook-pro-release/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "AppleがM6チップを搭載した新型MacBook Proを発表し、処理性能が向上しながらも価格は据え置きとなっている。M6チップにより各種タスクの実行速度が大幅に向上し、特にプロフェッショナル向けの作業効率が改善される。性能向上と価格維持のバランスは、Appleのシリコン戦略の成功を示している。",
+      "publishedAt": "Tue, 27 Oct 2026 14:45:00 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.612Z"
+    },
+    {
+      "id": "hajb8o",
+      "title": "会議中にバレずに使える。330円のリングが仕事効率UPに効く",
+      "url": "https://www.gizmodo.jp/article/finger-massage-cht/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "会議中に目立たずに使用できる330円のリングが、指へのマッサージ効果により仕事の効率向上に役立つとして紹介されている。低価格ながら実用的なアイテムとして、デスクワークやオンライン会議が多い現代の働き方に適した製品である。ストレス軽減や集中力維持といった効果が期待されている。",
+      "publishedAt": "Tue, 27 Oct 2026 14:00:00 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.612Z"
+    },
+    {
+      "id": "upcfu4",
+      "title": "【速報】新型iMac発表。M6チップでAIは5倍高速、価格は据え置き！ ",
+      "url": "https://www.gizmodo.jp/article/m6-imac-release/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "AppleがM6チップを搭載した新型iMacを発表し、AI処理性能が従来比5倍に向上しながら価格は据え置きとなった。デスクトップ型のiMacでもM6チップの恩恵を受けられることで、クリエイティブ作業やAI関連のタスクが大幅に高速化される。MacBook Proと同様の価格戦略により、コストパフォーマンスの高い製品ラインナップとなっている。",
+      "publishedAt": "Tue, 27 Oct 2026 13:50:00 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.612Z"
+    },
+    {
+      "id": "7jfbj8",
+      "title": "広瀬章人九段が王座を獲得、伊藤匠二冠は叡王の一冠に後退",
+      "url": "https://gigazine.net/news/20261027-hirose-akihito-ouza/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "将棋の第73期王座戦で広瀬章人九段が勝利し、王座のタイトルを獲得した。これにより防衛に失敗した伊藤匠は二冠から叡王のみの一冠に後退することとなった。トップ棋士間のタイトル争いは常に激しく、この結果は将棋界の勢力図に影響を与える重要な一戦となった。",
+      "publishedAt": "Tue, 27 Oct 2026 22:47:00 +0900",
+      "scrapedAt": "2026-10-28T01:05:36.826Z"
+    },
+    {
+      "id": "mfwqdc",
+      "title": "顔が別人になる「DLSS 5」は改善した？ 最新版を実際に見てきた",
+      "url": "https://www.gizmodo.jp/article/091738e6-31da-44f9-99ad-58e43ce35ba1/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "NVIDIAの画像アップスケーリング技術「DLSS 5」について、実際の最新版が公開された。従来バージョンでは、AI処理により顔が別人のように変わってしまう問題が指摘されていた。今回の最新版ではこの問題がどの程度改善されたのか、実機でのデモンストレーションが行われた。DLSS 5はゲームのパフォーマンス向上とグラフィック品質の両立を目指す技術だが、顔の再現性という重要な課題への対応が注目されている。",
+      "publishedAt": "Tue, 27 Oct 2026 13:00:00 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.612Z"
+    },
+    {
+      "id": "mletbb",
+      "title": "「ナイフと同じように刃物が往復運動する鉛筆削り」を自作した猛者が登場",
+      "url": "https://gigazine.net/news/20261027-reinventing-pencil-sharpener/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "従来の鉛筆削りの回転式削り方式を覆す、ナイフのように刃物が前後に往復運動して鉛筆を削る独創的な鉛筆削りを自作した人物が現れた。一般的な鉛筆削りは円筒形の刃を回転させて削るが、この作品は全く異なるアプローチを採用している。既存の日用品の仕組みを根本から見直し、新しい機構で実現する技術力とアイデアが評価されている。",
+      "publishedAt": "Tue, 27 Oct 2026 21:00:00 +0900",
+      "scrapedAt": "2026-10-28T01:05:36.826Z"
+    },
+    {
+      "id": "iv7zfz",
+      "title": "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」　Anthropicが示した規格外の見立て",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002644/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "AI企業Anthropicが上場に向けた目論見書で、AIが人類の存亡に関わるリスクを持つ可能性を明記し、さらに自社コードの9割が自社AI「Claude」によって生成されていることを開示した。AI企業が公式文書でAIの潜在的危険性を率直に認めるのは異例で、透明性の高い姿勢を示している。同時に、AI開発企業自身がAIを大規模に活用している実態も明らかになり、AI技術の進展と課題が浮き彫りになっている。",
+      "publishedAt": "Tue, 27 Oct 2026 20:30:12 +0900",
+      "scrapedAt": "2026-10-28T01:05:37.554Z"
+    },
+    {
+      "id": "xanb80",
+      "title": "コードを読まずにマージするために必要なこと",
+      "url": "https://zenn.dev/nrs/articles/c777388530aa84",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "ソフトウェア開発において、すべてのコードを詳細にレビューせずにマージ（統合）するために必要な条件や体制について解説した記事。開発速度を維持しつつ品質を保証するには、適切なテスト、チーム間の信頼関係、明確なコーディング規約などが重要となる。大規模開発やアジャイル開発において、効率的なコードレビュープロセスの構築は重要な課題となっている。",
+      "publishedAt": "Tue, 27 Oct 2026 11:00:05 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.123Z"
+    },
+    {
+      "id": "e76c7v",
+      "title": "AIが答えを教える代わりにあえて質問攻めにすることで開発者を鍛えるデバッグツール「Nietzschian Debugger」",
+      "url": "https://gigazine.net/news/20261027-nietzschian-debugger/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "開発者のスキル向上を目的とした独特なデバッグツール「Nietzschian Debugger」が登場した。このツールはAIが直接的に答えを提示するのではなく、ソクラテス式問答のように質問を投げかけることで、開発者自身に問題を考えさせる仕組みを採用している。AIによる即座の問題解決が一般化する中、あえて学習プロセスを重視した哲学者ニーチェにちなんだアプローチが注目されている。",
+      "publishedAt": "Tue, 27 Oct 2026 20:00:00 +0900",
+      "scrapedAt": "2026-10-28T01:05:36.826Z"
+    },
+    {
+      "id": "e97gs9",
+      "title": "GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "GMOインターネットグループが、過去に受けた不正アクセス事件の実行犯特定につながる情報提供者に対し、1億5000万円規模の懸賞金を設定した。サイバー攻撃による被害が深刻化する中、民間企業が高額懸賞金を提示して犯人特定を図るのは異例の対応となる。情報セキュリティインシデントへの企業の強硬な姿勢と、サイバー犯罪への対応の難しさが表れている。",
+      "publishedAt": "Tue, 27 Oct 2026 19:58:09 +0900",
+      "scrapedAt": "2026-10-28T01:05:37.554Z"
+    },
+    {
+      "id": "6zx9on",
+      "title": "So-net、会員情報約259万件が漏えい　一部メールサービスではパスワードも流出",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002643/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "インターネットプロバイダーのSo-netで大規模な情報漏えい事故が発生し、約259万件の会員情報が流出した。特に一部のメールサービス利用者についてはパスワードも漏えいしており、被害の深刻度が高い。流出した情報には個人を特定できるデータが含まれている可能性があり、二次被害のリスクも懸念される。通信事業者における顧客情報管理の重要性が改めて問われている。",
+      "publishedAt": "Tue, 27 Oct 2026 19:48:13 +0900",
+      "scrapedAt": "2026-10-28T01:05:37.554Z"
+    },
+    {
+      "id": "5sjn6f",
+      "title": "Go で動く新世代の補完プラグイン goda-cmp.vim",
+      "url": "https://zenn.dev/shougo/articles/goda-cmp-vim-beta",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "Go言語で実装された新世代のVim用補完プラグイン「goda-cmp.vim」が公開された。従来の補完プラグインと比較して、Go言語のパフォーマンスを活かした高速動作が特徴となっている。Vimエディタのプラグイン開発において、実行速度の向上は重要な課題であり、Go言語による実装は新しいアプローチとして注目される。",
+      "publishedAt": "Tue, 27 Oct 2026 10:25:24 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.123Z"
+    },
+    {
+      "id": "kllhfl",
+      "title": "わらび餅がたっぷり1kg入った「業務用 本造り笑来美餅」を買ったので食べてみた、常温保存できる高品質わらび餅",
+      "url": "https://gigazine.net/news/20261027-bashoudo-warabimochi/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "常温保存が可能な業務用わらび餅「本造り笑来美餅」を1kg購入して実食レポートが行われた。業務用として大容量でありながら品質が高く、常温保存できる利便性も備えている。家庭でも業務用食品を購入する需要が高まる中、コストパフォーマンスと品質を両立した商品として紹介されている。",
+      "publishedAt": "Tue, 27 Oct 2026 19:22:00 +0900",
+      "scrapedAt": "2026-10-28T01:05:36.826Z"
+    },
+    {
+      "id": "mn9zv",
+      "title": "「インクジェットプリンターが印刷している瞬間」の写真はどうやって撮影されたのか？",
+      "url": "https://gigazine.net/news/20261027-inkjet-printer-droplets-photomicrography/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "インクジェットプリンターがインク滴を噴射している瞬間を捉えた写真の撮影方法について解説された記事。高速で動くインク滴を可視化するには、特殊な照明技術や高速シャッター、顕微鏡撮影技術などが必要となる。肉眼では見えない一瞬の現象を写真に収める技術的な工夫と、精密機器の動作原理を可視化する科学写真の面白さが紹介されている。",
+      "publishedAt": "Tue, 27 Oct 2026 19:00:00 +0900",
+      "scrapedAt": "2026-10-28T01:05:36.826Z"
+    },
+    {
+      "id": "je62qn",
+      "title": "2026年10月27日のヘッドラインニュース",
+      "url": "https://gigazine.net/news/20261027-headline/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Gigazineの2026年10月27日付ヘッドラインニュースです。具体的な内容は不明ですが、同サイトの定番企画として、その日の主要なニュースやトピックスをまとめた記事と思われます。テクノロジー、科学、エンタメなど幅広いジャンルの話題が取り上げられている可能性があります。",
+      "publishedAt": "Tue, 27 Oct 2026 18:57:00 +0900",
+      "scrapedAt": "2026-10-28T01:05:36.826Z"
+    },
+    {
+      "id": "ak6hg",
+      "title": "GMO、攻撃者の公開情報に「アクセスは絶対に控えて」　悪質な拡散者には法的措置を準備",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002640/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "GMOがサイバー攻撃を受け、攻撃者が何らかの情報を公開したことに対する注意喚起です。GMOは顧客や一般ユーザーに対し、攻撃者が公開した情報へのアクセスを控えるよう強く呼びかけています。また、情報を悪質に拡散する行為に対しては法的措置を検討していることを表明し、二次被害の防止と事態の沈静化を図っています。",
+      "publishedAt": "Tue, 27 Oct 2026 17:58:00 +0900",
+      "scrapedAt": "2026-10-28T01:05:37.554Z"
+    },
+    {
+      "id": "ma50h5",
+      "title": "GMO、攻撃者による情報公開を確認　顧客データ含むか調査中　追加の見舞金も検討",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002630/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "GMOがサイバー攻撃による情報漏洩事件について公式に確認したことを報じています。攻撃者によって実際に情報が公開されており、その中に顧客データが含まれているかどうかを現在調査中とのことです。GMOは被害を受けた顧客への補償として、追加の見舞金の支払いも検討していることを明らかにし、事態の対応に追われています。",
+      "publishedAt": "Tue, 27 Oct 2026 16:40:32 +0900",
+      "scrapedAt": "2026-10-28T01:05:37.554Z"
+    },
+    {
+      "id": "bx35y2",
+      "title": "タイムズカー、お見舞金3000円の算定基準は？　パーク24に聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002627/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "タイムズカーのカーシェアサービスで情報漏洩があった際に提示された見舞金3000円について、その算定根拠を運営元のパーク24に取材した記事です。情報漏洩事件における見舞金の金額設定は企業によって異なりますが、この記事では3000円という具体的な金額がどのような基準で決定されたのか、企業側の説明を紹介しています。利用者の納得感や業界標準との比較が注目されます。",
+      "publishedAt": "Tue, 27 Oct 2026 16:34:57 +0900",
+      "scrapedAt": "2026-10-28T01:05:37.554Z"
+    },
+    {
+      "id": "t52agb",
+      "title": "AAIF に加わった Open Responses を Amazon Bedrock で試す",
+      "url": "https://zenn.dev/exwzd/articles/20261023-open-responses",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "Amazon BedrockでAAIF（AI Agent Interoperability Framework）に新たに追加されたOpen Responsesという機能を実際に試した技術記事です。AAIFは異なるAIエージェント間の相互運用性を高めるためのフレームワークで、Open Responsesの追加により新たな可能性が広がったと考えられます。実装方法や使用感について技術的な解説がなされている記事と思われます。",
+      "publishedAt": "Tue, 27 Oct 2026 06:52:28 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.123Z"
+    },
+    {
+      "id": "vh9n8g",
+      "title": "Kiro から Backlog・Chat・ドライブを横断検索できるようにしてみた（公式MCP）",
+      "url": "https://zenn.dev/senuma/articles/588fb50a8f56ce",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "AI開発プラットフォームKiroから、プロジェクト管理ツールBacklogやチャットツール、ドライブなどを横断的に検索できるようにした実装事例を紹介する技術記事です。公式のMCP（Model Context Protocol）を活用することで、複数のサービスをまたいだ情報検索が可能になり、業務効率が大幅に向上すると期待されます。具体的な実装手順が解説されていると思われます。",
+      "publishedAt": "Tue, 27 Oct 2026 06:28:21 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.123Z"
+    },
+    {
+      "id": "ohwzkk",
+      "title": "Vue Fes Japan 2026 に参加してきました！",
+      "url": "https://zenn.dev/koutyuke/articles/vuefes-japan-2026",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "2026年に開催されたVue.jsの日本最大級カンファレンス「Vue Fes Japan 2026」の参加レポート記事です。Vue.jsはJavaScriptのフレームワークで人気が高く、このイベントでは最新技術動向やベストプラクティスが共有されたと考えられます。セッション内容や会場の雰囲気、得られた知見などが参加者の視点から紹介されている記事でしょう。",
+      "publishedAt": "Tue, 27 Oct 2026 04:28:58 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.123Z"
+    },
+    {
+      "id": "1h2lgv",
+      "title": "Jevに問い合わせメッセージを仕分けてもらう",
+      "url": "https://zenn.dev/chot/articles/980c44e5a19736",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "AIアシスタント「Jev」を活用して、問い合わせメッセージを自動的に分類・仕分けする仕組みを構築した事例を紹介する技術記事です。カスタマーサポートや社内ヘルプデスクにおいて、問い合わせ内容を自動で振り分けることで対応効率が向上します。実装方法や精度、実用上の課題などが解説されていると思われます。",
+      "publishedAt": "Tue, 27 Oct 2026 03:00:16 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.123Z"
+    },
+    {
+      "id": "5o8bcd",
+      "title": "GASで素のJSを埋め込むと < がエスケープされて動かない：getContent() の落とし穴と直し方",
+      "url": "https://zenn.dev/kimura0314/articles/gas-htmloutput-getcontent-escapes-lt",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "Google Apps Script（GAS）でHTMLにJavaScriptコードを埋め込む際、getContent()メソッドを使うと「<」記号が自動的にエスケープされてコードが正常に動作しなくなる問題とその解決方法を解説した技術記事です。GAS開発でよくあるトラブルの一つで、この記事では原因の説明と具体的な回避策が提示されており、同様の問題に直面した開発者にとって有益な情報となっています。",
+      "publishedAt": "Tue, 27 Oct 2026 01:16:10 GMT",
+      "scrapedAt": "2026-10-28T01:05:37.123Z"
+    }
+  ],
+  "dailySummary": "今日のニュースでは、AppleがM6チップを搭載した新型MacBook ProとiMacを発表し、AI処理性能が大幅に向上しながらも価格は据え置きという注目の製品発表が行われました。一方で、GMOとSo-netで相次いで大規模な情報漏洩事件が発生し、GMOは不正アクセス実行犯の情報提供に1億5000万円規模の懸賞金を設定するなど、企業のセキュリティ対策とインシデント対応の深刻さが浮き彫りになっています。AI技術関連では、OpenAIが計算複雑性理論の予想を覆す成果を発表し、Google DeepMindが音声や会話をリアルタイム生成できる「Genie 4」を公開するなど、基礎研究から実用化まで幅広い進展が見られました。また、OracleがGoogle製TPUを採用するなどGPU依存からの脱却が加速しており、AI処理基盤の多様化が業界全体で進んでいることが明らかになっています。",
+  "generatedAt": "2026-10-28T01:08:17.041Z"
+}

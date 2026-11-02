@@ -1,0 +1,387 @@
+{
+  "date": "2026-11-02",
+  "items": [
+    {
+      "id": "cziorr",
+      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+      "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "GitHubが「Copilot Fusion」を正式リリースしました。この機能はタスクに応じて最適なAIモデルを自動選択することで、高性能な開発支援を低コストで実現します。GitHub Universe 2026で発表されたこの技術により、開発者は用途に合わせた効率的なAI活用が可能になります。複数のAIモデルを適切に使い分けることで、コストパフォーマンスと生産性の両立を図っています。",
+      "publishedAt": "2026-11-02T14:36:38.000Z",
+      "scrapedAt": "2026-11-02T01:24:50.166Z"
+    },
+    {
+      "id": "x8txcb",
+      "title": "米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み解く巨額AI投資の“台所事情”",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2611/02/news029.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "Microsoftが最大6万人に早期退職を打診している背景には、巨額のAI投資による財務圧迫があります。決算資料の分析から、同社がAI関連のインフラやデータセンターに莫大な投資を行っており、その資金確保のため人件費削減が必要になっていることが明らかになりました。AI事業への大規模な経営資源の集中により、従来の事業構造を見直す必要に迫られています。これはテック業界全体におけるAI投資の影響を示す象徴的な事例と言えます。",
+      "publishedAt": "2026-11-02T01:24:50.360Z",
+      "scrapedAt": "2026-11-02T01:24:50.360Z"
+    },
+    {
+      "id": "uzvld5",
+      "title": "「作曲って難しいと思うじゃん？だったら遊びにしちゃえばいいんじゃね？」ということで、音楽理論やコード進行が全くわからなくても音楽が作れる作曲ツールを作った",
+      "url": "https://togetter.com/li/2765526",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "音楽理論やコード進行の知識がなくても誰でも作曲できる革新的なツールが開発されました。開発者は「作曲を遊びにしちゃえばいい」というコンセプトで、専門知識の壁を取り払うことを目指しています。このツールにより、音楽制作の敷居が大幅に下がり、初心者でも気軽に音楽創作を楽しめるようになります。音楽制作の民主化を進める試みとして注目されています。",
+      "publishedAt": "2026-11-02T01:24:50.360Z",
+      "scrapedAt": "2026-11-02T01:24:50.360Z"
+    },
+    {
+      "id": "hnhnmi",
+      "title": "自作PWAをTailscale Serveで配るのが便利だった話",
+      "url": "https://zenn.dev/6uclz1/articles/43e803ec9d54dd",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "自作のPWA（Progressive Web App）をTailscale Serveを使って配信する方法が紹介されています。Tailscaleの新機能であるServeを活用することで、セキュアなネットワーク内でのアプリ配布が簡単に実現できます。この手法は特に個人開発者や小規模チームにとって、複雑なインフラ設定なしでアプリを共有できる便利なソリューションとなります。実装の具体的な手順と利点が解説されています。",
+      "publishedAt": "2026-11-02T01:24:50.360Z",
+      "scrapedAt": "2026-11-02T01:24:50.360Z"
+    },
+    {
+      "id": "z25kzz",
+      "title": "いまのダークウェブでは二段階認証も無力化する「ブラウザのクローンデータ」が売買されており、その対策にはブラウザを使い分けることが有効らしい",
+      "url": "https://togetter.com/li/2765521",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "ダークウェブでは二段階認証を無力化する「ブラウザのクローンデータ」が売買されており、深刻なセキュリティ脅威となっています。このデータにはセッション情報やCookieが含まれ、認証を突破できるため、従来のセキュリティ対策では不十分です。対策としてブラウザの使い分け（重要な用途とそれ以外で別のブラウザを使用）が有効とされています。サイバー犯罪の手口が高度化する中、ユーザー側も防御策を多層化する必要性が高まっています。",
+      "publishedAt": "2026-11-02T01:24:50.360Z",
+      "scrapedAt": "2026-11-02T01:24:50.360Z"
+    },
+    {
+      "id": "vb3x46",
+      "title": "【特集】 メモリ・SSDの値下がりはAIバブル崩壊後？そのときは価格どころではない ～2028年まで逼迫と各社が予測、ただしその先も値下がりの保証なし",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2152921.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "メモリやSSDの価格は2028年まで逼迫が続くと各社が予測しており、値下がりはAIバブル崩壊後になる可能性があります。しかしAIバブルが崩壊した場合、価格どころではない深刻な業界への影響が懸念されています。現在のAI需要によるメモリ・ストレージの需要増加が市場を圧迫しており、一般消費者向け製品の価格高騰が続く見込みです。仮にバブルが崩壊しても値下がりの保証はなく、PC自作ユーザーにとっては厳しい状況が続きそうです。",
+      "publishedAt": "2026-11-02T01:24:50.360Z",
+      "scrapedAt": "2026-11-02T01:24:50.360Z"
+    },
+    {
+      "id": "r5cc44",
+      "title": "Amazon ECS の新機能 「ECS Gateway」 を試してみた | DevelopersIO",
+      "url": "https://dev.classmethod.jp/articles/try-amazon-ecs-gateway/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "Amazon ECSの新機能「ECS Gateway」が実際に試用され、その使用感がレポートされています。この機能はECSサービスへのアクセスを簡素化し、ネットワーク構成の管理を容易にする目的で導入されました。具体的な設定手順や動作確認の結果が詳しく解説されており、AWSユーザーにとって実用的な情報となっています。コンテナサービスの運用効率向上に寄与する機能として期待されます。",
+      "publishedAt": "2026-11-02T01:24:50.360Z",
+      "scrapedAt": "2026-11-02T01:24:50.360Z"
+    },
+    {
+      "id": "65heul",
+      "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+      "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "[記事1と同一内容] GitHubが「Copilot Fusion」を正式リリースし、タスクに応じて最適なAIモデルを選択することで高性能かつ低コストな開発支援を実現します。GitHub Universe 2026での発表となり、開発者は用途に合わせた効率的なAI活用が可能になります。",
+      "publishedAt": "2026-11-02T01:24:50.360Z",
+      "scrapedAt": "2026-11-02T01:24:50.360Z"
+    },
+    {
+      "id": "v5qa2o",
+      "title": "【速報】GMO不正アクセス、北朝鮮関与か",
+      "url": "https://www.47news.jp/15170287.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "GMOへの不正アクセス事件に北朝鮮の関与が疑われていることが速報で伝えられました。サイバー攻撃の背後に国家レベルの組織が存在する可能性が高まっており、企業のセキュリティ対策の重要性が改めて浮き彫りになっています。北朝鮮によるサイバー攻撃は資金調達や情報収集を目的とすることが多く、今後の捜査と対策強化が注目されます。",
+      "publishedAt": "2026-11-02T01:24:50.360Z",
+      "scrapedAt": "2026-11-02T01:24:50.360Z"
+    },
+    {
+      "id": "na8uay",
+      "title": "アップル、Chromeを名指しで挑発。「Safariは あなたを守る、Chromeは あなたを晒す」 - すまほん!!",
+      "url": "https://smhn.info/202611-apple-switch-to-safari-campaign-targets-chrome",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "AppleがChromeを名指しで批判する広告キャンペーン「Safariはあなたを守る、Chromeはあなたを晒す」を展開しています。プライバシー保護を重視するSafariと、データ収集が懸念されるChromeの違いを強調し、ユーザーのブラウザ切り替えを促しています。これはAppleのプライバシー重視戦略の一環であり、Googleとの競争が激化していることを示しています。ブラウザ市場におけるプライバシー保護が主要な差別化要因となっています。",
+      "publishedAt": "2026-11-02T01:24:50.360Z",
+      "scrapedAt": "2026-11-02T01:24:50.360Z"
+    },
+    {
+      "id": "t54cwl",
+      "title": "【独自】GMO攻撃、北朝鮮ハッカーか　複数の痕跡、政府に報告",
+      "url": "https://www.47news.jp/15170379.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "GMOグループへのサイバー攻撃について、政府の調査により北朝鮮のハッカー集団が関与した可能性が高いことが明らかになりました。攻撃の手口や痕跡から北朝鮮系組織の特徴が複数確認され、政府に正式な報告がなされています。国家的なサイバー攻撃として、日本企業へのセキュリティリスクが改めて浮き彫りになった形です。",
+      "publishedAt": "2026-11-02T01:24:50.360Z",
+      "scrapedAt": "2026-11-02T01:24:50.360Z"
+    },
+    {
+      "id": "51vn0h",
+      "title": "「ミュートになってますよ」オンライン会議でひとり熱弁していたあなたを救いたい",
+      "url": "https://www.gizmodo.jp/article/2610-muteme-original-review/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "オンライン会議で音声がミュートになっていることに気づかず話し続けてしまう失敗を防ぐためのツールやサービスが紹介されています。テレワークやオンライン会議が一般化する中、音声のオン・オフ状態を視覚的に分かりやすく通知する機能の重要性が増しています。こうした支援ツールにより、会議のコミュニケーションミスを削減できることが期待されます。",
+      "publishedAt": "Mon, 02 Nov 2026 01:00:00 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.513Z"
+    },
+    {
+      "id": "jh4ctb",
+      "title": "誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除",
+      "url": "https://gigazine.net/news/20261102-adguard-adblocking/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "スマートフォンで利用できる広告ブロックアプリ「AdGuard」のインストール方法と使い方が解説されています。AndroidとiPhoneの両方に対応しており、迷惑広告や詐欺広告を効果的に除去できる機能を持っています。モバイルブラウジング時の広告による煩わしさやセキュリティリスクを軽減し、快適なネット環境を実現するツールとして注目されています。",
+      "publishedAt": "Mon, 02 Nov 2026 09:00:00 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.065Z"
+    },
+    {
+      "id": "o8o1xi",
+      "title": "「米粒より小さい」カメラ、完成。その用途は“スマートグラスの内側を撮るため”",
+      "url": "https://www.gizmodo.jp/article/rice-grain-sized-metaeye-camera/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "米粒よりも小さい超小型カメラが開発されました。この「MetaEye」カメラの主な用途は、スマートグラスの内側からユーザーの目の動きや表情を撮影することで、より高度なアイトラッキングやインタラクション機能を実現することです。AR/VRデバイスの小型化と機能向上に貢献する技術として期待されています。",
+      "publishedAt": "Mon, 02 Nov 2026 00:00:00 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.513Z"
+    },
+    {
+      "id": "uaoo6k",
+      "title": "Google、宇宙のTPUから初のAI応答を受信　「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "Googleが試作衛星「Project Suncatcher」に搭載したTPU（AI専用プロセッサ）から、初めてAIによる応答を受信することに成功しました。宇宙空間で動作するAI「Gemma 4」が俳句を詠むという実験が行われました。この成果は、衛星上でのAI処理が実用段階に入ったことを示し、今後の宇宙開発におけるAI活用の可能性を広げるものです。",
+      "publishedAt": "Mon, 02 Nov 2026 08:59:31 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.567Z"
+    },
+    {
+      "id": "1j4kzh",
+      "title": "GoogleのAIがメガネの中へ。XREAL AURA、ついに日本で予約スタート",
+      "url": "https://www.gizmodo.jp/article/2611-xreal-aura-google-ai-glasses/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "XREALのスマートグラス「XREAL AURA」に、GoogleのAI機能が統合されて日本での予約が開始されました。AR技術とAIアシスタント機能の融合により、より実用的で知的なウェアラブルデバイスとして進化しています。次世代のスマートグラスとして、日常生活やビジネスシーンでの活用が期待されます。",
+      "publishedAt": "Sun, 01 Nov 2026 23:40:00 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.513Z"
+    },
+    {
+      "id": "khzaee",
+      "title": "Apple Watch、まさかのiPhone以外のスマホで使えるように！ 機能はまだ限定的",
+      "url": "https://www.gizmodo.jp/article/2611-apple-watch-huawei-smartphone-support/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "Apple WatchがiPhone以外のスマートフォン、特にHuaweiのスマートフォンでも使用可能になったことが報じられています。現時点では機能が限定的ではあるものの、これまでiPhoneとの組み合わせが必須だったApple Watchのエコシステムに変化が生じています。今後の対応拡大により、Apple製品の囲い込み戦略に影響を与える可能性があります。",
+      "publishedAt": "Sun, 01 Nov 2026 23:30:00 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.513Z"
+    },
+    {
+      "id": "oybtbp",
+      "title": "画面共有中のパスワード、自動で隠してくれます。ただしAndroid限定",
+      "url": "https://www.gizmodo.jp/article/2610-android-screen-share-hide-password/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "Androidで画面共有中にパスワード入力欄が自動的に隠される新機能が実装されました。オンライン会議や画面共有時に、意図せずパスワードなどの機密情報が表示されてしまうリスクを軽減します。現時点ではAndroid限定の機能ですが、セキュリティとプライバシー保護の観点から重要なアップデートとなっています。",
+      "publishedAt": "Sun, 01 Nov 2026 23:00:00 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.513Z"
+    },
+    {
+      "id": "ggzjk4",
+      "title": "FBI、Binanceからの60億ドル超の暗号資産窃盗は北朝鮮「TraderTraitor」の犯行と発表",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002778/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "FBIが、暗号資産取引所Binanceから60億ドル以上が窃取された事件について、北朝鮮のハッカー集団「TraderTraitor」による犯行と公式に発表しました。これは暗号資産関連犯罪として過去最大級の規模とみられます。北朝鮮による国家主導のサイバー犯罪が継続しており、仮想通貨業界のセキュリティ対策強化が急務となっています。",
+      "publishedAt": "Mon, 02 Nov 2026 07:28:21 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.567Z"
+    },
+    {
+      "id": "8jpfwj",
+      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
+      "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "AnthropicがAIアシスタント「Claude」の最上位プラン名を「Max 20x」から「Ultra」に変更しました。月額200ドルで、従来あった5時間ごとの利用制限が撤廃され、無制限に使用できるようになります。企業ユーザーやヘビーユーザー向けに、より柔軟で実用的なサービス展開を図る戦略と見られます。",
+      "publishedAt": "Mon, 02 Nov 2026 07:00:23 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.567Z"
+    },
+    {
+      "id": "m8dteh",
+      "title": "Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚",
+      "url": "https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "AnthropicのClaude Codeにおいて、バックグラウンドで動作する各エージェントのやり取り記録（トランスクリプト）が定期的にモデルに送信されている仕様が明らかになりました。この動作はユーザーには直接見えない部分で行われており、プライバシーやデータ処理の透明性に関する懸念を引き起こす可能性があります。AI開発ツールの内部動作に関する情報開示の重要性が改めて浮き彫りになった形です。",
+      "publishedAt": "Mon, 02 Nov 2026 07:00:00 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.065Z"
+    },
+    {
+      "id": "bk1c88",
+      "title": "「雨だから太陽光発電できない」はもう言い訳にならない時代に",
+      "url": "https://www.gizmodo.jp/article/2610-all-weather-perovskite-solar-cells/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "雨天時でも発電可能な全天候型ペロブスカイト太陽電池の開発が進んでいます。従来の太陽光発電の最大の弱点は天候依存性でしたが、この新技術により曇天や雨天でも効率的な発電が可能になることが期待されています。再生可能エネルギーの安定供給という課題解決に向けた画期的な技術革新となり、太陽光発電の普及をさらに加速させる可能性があります。",
+      "publishedAt": "Sun, 01 Nov 2026 14:00:00 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.513Z"
+    },
+    {
+      "id": "wk2x0j",
+      "title": "アニメ『ぼっち・ざ・ろっく！』前日譚を描く『映画ぼっち・ざ・ろっく！ 星のあしあと』2027年公開決定で特報映像登場",
+      "url": "https://gigazine.net/news/20261101-bocchi-the-rock-hoshi-no-ashiato/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "人気アニメ『ぼっち・ざ・ろっく！』の前日譚を描く劇場版作品『映画ぼっち・ざ・ろっく！ 星のあしあと』が2027年に公開されることが発表され、特報映像が公開されました。本編以前の物語を描くことで、キャラクターたちの背景やバンド結成前のエピソードが明らかになると期待されます。人気作品の劇場版展開として、ファンの注目を集めています。",
+      "publishedAt": "Sun, 01 Nov 2026 22:32:00 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.065Z"
+    },
+    {
+      "id": "t2u3o5",
+      "title": "無料ストレージベンチマークアプリ「ATTO Disk Benchmark」の使い方まとめ、「小さいサイズのファイルでも高速に読み書きできるか？」といった観点でSSDの性能を分析して適切な用途を見極め可能",
+      "url": "https://gigazine.net/news/20261101-atto-disk-benchmark/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "無料のストレージ性能測定ツール「ATTO Disk Benchmark」の詳細な使い方が紹介されています。このアプリは、小さいファイルサイズでの読み書き速度など、様々な条件下でのSSD性能を詳細に分析できる点が特徴です。ファイルサイズ別の性能データを取得することで、用途に応じた最適なストレージ選択が可能になり、特にランダムアクセスが多い作業環境での性能評価に有用です。",
+      "publishedAt": "Sun, 01 Nov 2026 22:32:00 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.065Z"
+    },
+    {
+      "id": "5tb3w0",
+      "title": "ISUCON 2026 Writeup / チーム nicklegr",
+      "url": "https://zenn.dev/nicklegr/articles/de0a6fd86b6ce3",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "ISUCON 2026にチームnicklegr として参加したメンバーによる技術記録（Writeup）が公開されています。ISUCONは高負荷なWebアプリケーションのパフォーマンス改善を競う競技で、このWriteupでは採用した戦略や技術的アプローチ、遭遇した課題などが詳しく記録されていると考えられます。同様の技術課題に取り組むエンジニアにとって貴重な知見共有となっています。",
+      "publishedAt": "Sun, 01 Nov 2026 12:20:12 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.152Z"
+    },
+    {
+      "id": "ng8c5t",
+      "title": "ISUCON2026 にツールを捨てて勝ちたかった",
+      "url": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "ISUCON2026に参加したエンジニアが、既存のツールに頼らずに問題解決を試みた経験をまとめた記事です。通常はプロファイリングツールなどを活用するところを、基本的な技術や手法のみで勝利を目指すという挑戦的なアプローチが取られました。このような制約下での問題解決は、技術の本質的な理解を深める良い機会となり、ツール依存からの脱却という意味でも意義深い試みです。",
+      "publishedAt": "Sun, 01 Nov 2026 12:16:33 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.152Z"
+    },
+    {
+      "id": "qcmp0c",
+      "title": "疑っても止まれない。AIの「都合のいい思考」を読んでみよう",
+      "url": "https://www.gizmodo.jp/article/2610-claude-mythos-ai-cot-momentum/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "AIの思考過程（Chain of Thought）における「勢い任せの推論」について解説した記事です。ClaudeなどのAIモデルは、一度推論の方向性を決めると、疑問を持ちながらもその思考を継続してしまう傾向があることが指摘されています。この「都合のいい思考」メカニズムを理解することは、AIの出力を適切に評価し、誤った結論を見抜くために重要です。AI利用者がその限界を認識する必要性が強調されています。",
+      "publishedAt": "Sun, 01 Nov 2026 12:00:00 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.513Z"
+    },
+    {
+      "id": "g8x5ti",
+      "title": "いま4Kゲーミングしたいならこれが最低限。「RDY Element Pulse X B02」",
+      "url": "https://www.gizmodo.jp/article/2610-ibuypower-rdy-element-pulse-x-b02-review/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "4K解像度でのゲーミングを快適に楽しむための最低限必要なスペックを備えたゲーミングPC「RDY Element Pulse X B02」のレビュー記事です。4Kゲーミングには高性能なグラフィックカードとCPUが必要とされ、このモデルはそれらの要件を満たす構成になっていると考えられます。価格と性能のバランスを考慮した、現実的な4Kゲーミング入門機としての評価がなされています。",
+      "publishedAt": "Sun, 01 Nov 2026 11:30:00 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.513Z"
+    },
+    {
+      "id": "nigr5w",
+      "title": "トランプ政権、地球温暖化の加速に成功。CO2排出量をさらに1億3300万トン上乗せ",
+      "url": "https://www.gizmodo.jp/article/the-us-has-retreated-from-climate-action-a-new-report-reveals-the-global-consequences/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "トランプ政権下のアメリカにおいて、気候変動対策の後退により二酸化炭素排出量が1億3300万トンも追加で増加したことが報告されています。環境規制の緩和や化石燃料産業への支援などの政策が、地球温暖化を加速させる結果となりました。アメリカは世界有数の排出国であるため、この政策転換は世界的な気候変動対策に深刻な悪影響を及ぼしており、国際社会の懸念が高まっています。",
+      "publishedAt": "Sun, 01 Nov 2026 11:00:00 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.513Z"
+    },
+    {
+      "id": "vvm72t",
+      "title": "“水中の日傘”がサンゴ礁を、そして人間の暮らしを守る救世主になるかもしれない",
+      "url": "https://www.gizmodo.jp/article/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "サンゴ礁を保護するための「水中日傘」という革新的な技術が開発され、実際に効果を上げている可能性が報告されています。この装置は海水温上昇によるサンゴの白化現象を防ぐため、直射日光を遮る役割を果たします。サンゴ礁は海洋生態系の維持や沿岸防護など人間生活にも重要な役割を持つため、この技術は生物多様性保全だけでなく、人間社会の持続可能性にも貢献する可能性があります。",
+      "publishedAt": "Sun, 01 Nov 2026 10:30:00 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.513Z"
+    },
+    {
+      "id": "19yh7u",
+      "title": "Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？",
+      "url": "https://gigazine.net/news/20261101-wikipedia-ai-content/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Wikipediaでは、AI生成テキストの混入が問題となっており、編集者たちが独自の方法でこれらを検出・除去している。AI生成コンテンツは百科事典としての信頼性や正確性を損なう可能性があるため、編集者コミュニティが文体の不自然さや事実確認の欠如などを手がかりに識別作業を行っている。この取り組みは、AIツールの普及により増加する自動生成コンテンツに対抗し、Wikipediaの品質を維持するための重要な活動となっている。",
+      "publishedAt": "Sun, 01 Nov 2026 19:00:00 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.065Z"
+    },
+    {
+      "id": "2id32x",
+      "title": "近未来的な外観のワイヤレスヘッドホン「Headphone (1) Pro」レビュー、3個のドライバー搭載＆10個のマイクでノイズリダクション",
+      "url": "https://gigazine.net/news/20261101-nothing-headphone-1-pro/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Nothingブランドから近未来的なデザインのワイヤレスヘッドホン「Headphone (1) Pro」がリリースされ、レビューが公開された。このヘッドホンは3個のドライバーを搭載し、高音質を実現しているほか、10個のマイクを搭載することで高性能なノイズキャンセリング機能を提供している。同社の特徴的なミニマルで透明感のあるデザインを踏襲しながら、音質とノイズ低減性能の両面で優れた製品となっている。",
+      "publishedAt": "Sun, 01 Nov 2026 18:30:00 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.065Z"
+    },
+    {
+      "id": "5i2ogy",
+      "title": "無料で完全にWindowsでローカル動作できるElevenLabs代替ツール「VoiceStudio」、音声クローン・音声デザイン・動画吹き替え・音声入力・文字起こし・オーディオブック作成を多言語で可能",
+      "url": "https://gigazine.net/news/20261101-voicestudio/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Windowsでローカル動作する無料の音声AI総合ツール「VoiceStudio」が公開された。このツールはElevenLabsの代替として、音声クローン、音声デザイン、動画吹き替え、音声入力、文字起こし、オーディオブック作成など多彩な機能を搭載している。完全にローカルで動作するためプライバシーが保護され、多言語対応により幅広い用途で利用可能となっており、クラウドサービスに依存しない音声AI活用の選択肢として注目される。",
+      "publishedAt": "Sun, 01 Nov 2026 18:00:00 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.065Z"
+    },
+    {
+      "id": "dzjmuf",
+      "title": "Amazonのクラウドサービス「AWS」がカードゲームになった「AWS BuilderCards」を実際に遊んでみた",
+      "url": "https://gigazine.net/news/20261101-aws-buldercards/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Amazonのクラウドサービス「AWS」が教育・学習用のカードゲーム「AWS BuilderCards」として製品化され、実際のプレイレビューが紹介されている。このゲームはAWSの各種サービスや概念をカードゲーム化したもので、楽しみながらクラウドサービスの仕組みや構成を学べる教材となっている。技術者の教育やチームビルディングのツールとして、複雑なクラウドインフラの理解を促進する効果が期待される。",
+      "publishedAt": "Sun, 01 Nov 2026 16:45:00 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.065Z"
+    },
+    {
+      "id": "yp37ak",
+      "title": "パフォーマンスチューニング経験ゼロ、事前準備ゼロでISUCON2026に出て、良い経験になった話",
+      "url": "https://zenn.dev/go_furu93/articles/isucon2026-solo-retro-20261031-bc4f82",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "パフォーマンスチューニングの経験や事前準備なしでISUCON 2026に単独参加した体験記が公開された。ISUCONは高負荷なWebアプリケーションの最適化を競う競技で、初心者にとっては難易度が高いが、実践を通じて多くの学びを得られたという内容となっている。事前準備の重要性や実際の競技での課題、今後の学習の方向性など、初参加者の視点から貴重な知見が共有されている。",
+      "publishedAt": "Sun, 01 Nov 2026 04:39:46 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.152Z"
+    },
+    {
+      "id": "8jv5dp",
+      "title": "ISUCON 2026 参加記",
+      "url": "https://zenn.dev/catatsuy/articles/159edffe202c0c",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "ISUCON 2026への参加体験記が公開され、競技の詳細や取り組み内容が記録されている。高負荷環境下でのWebアプリケーション最適化という実践的な課題に挑戦した経験から、パフォーマンスチューニングの技術や問題解決のアプローチが紹介されている。競技を通じて得られた技術的な学びやチームでの協働経験が、実務にも活かせる知識として共有されている。",
+      "publishedAt": "Sun, 01 Nov 2026 03:40:42 GMT",
+      "scrapedAt": "2026-11-02T01:24:50.152Z"
+    },
+    {
+      "id": "ux9k8f",
+      "title": "なぜアメリカにはあんなにたくさん普段使わないモノを収納するための「セルフストレージ施設」があるのか？",
+      "url": "https://gigazine.net/news/20261101-american-religion-of-self-storage-facilities/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "アメリカで「セルフストレージ施設」が非常に普及している背景と文化的要因が解説されている。アメリカでは普段使わない物品を自宅外の貸倉庫に保管する習慣が一般化しており、広い住宅や消費文化、頻繁な引っ越しといった社会的要因が関係している。この現象は「物を捨てられない」というアメリカの消費文化や、所有物への執着を反映しており、独特の産業として発展している実態が紹介されている。",
+      "publishedAt": "Sun, 01 Nov 2026 12:00:00 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.065Z"
+    },
+    {
+      "id": "g3nylx",
+      "title": "Apple純正マップがNASAやアメリカ軍基地の航空写真をぼかしはじめる",
+      "url": "https://gigazine.net/news/20261101-apple-maps-blur-nasa-space-force-bases/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Apple純正の地図アプリ「Apple Maps」が、NASAやアメリカ宇宙軍基地などの軍事・宇宙関連施設の航空写真にぼかし処理を施し始めた。これはセキュリティ上の配慮によるもので、機密性の高い施設の詳細が一般に公開されることを防ぐ措置と考えられる。Googleマップなどでもすでにこうした対策が取られているが、Appleも同様のセキュリティポリシーを強化している動きが確認された。",
+      "publishedAt": "Sun, 01 Nov 2026 11:00:00 +0900",
+      "scrapedAt": "2026-11-02T01:24:50.065Z"
+    }
+  ],
+  "dailySummary": "# 今日のまとめ\n\nAI技術の進化と実用化が多方面で進展しています。GitHubが複数のAIモデルを使い分ける「Copilot Fusion」を正式リリースした一方、Microsoftは巨額のAI投資により最大6万人への早期退職を打診するなど、AI投資の光と影が同時に浮き彫りになっています。セキュリティ面では、GMOへの不正アクセスやBinanceからの暗号資産窃盗に北朝鮮ハッカー集団の関与が指摘され、ダークウェブでは二段階認証を突破する「ブラウザクローンデータ」が売買されるなど、サイバー脅威が高度化しています。また、宇宙空間でのAI動作実験成功や全天候型太陽電池の開発など、技術革新による社会課題解決への取り組みも活発化しており、Appleによるプライバシー重視のChrome批判キャンペーンなど、テック企業間の競争も激化しています。",
+  "generatedAt": "2026-11-02T01:27:03.855Z"
+}

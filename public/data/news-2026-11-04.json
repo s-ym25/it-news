@@ -1,0 +1,477 @@
+{
+  "date": "2026-11-04",
+  "items": [
+    {
+      "id": "6p04bb",
+      "title": "アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う - Weekend Researcher Tsurezure Diary",
+      "url": "https://disconinja.hatenablog.com/entry/2026/11/03/230647",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "アダルト動画サイトに情報窃取を目的としたスクリプトが組み込まれている実態を調査した記事。攻撃者はアダルトサイトの訪問者をターゲットに、ブラウザ上で動作する悪意あるJavaScriptなどを仕掛けて個人情報やログイン情報を盗み取ろうとしている。こうしたサイトは利用者が被害を報告しにくい性質を利用しており、セキュリティ研究者による詳細な追跡調査が行われている。",
+      "publishedAt": "2026-11-04T02:04:41.933Z",
+      "scrapedAt": "2026-11-04T02:04:41.933Z"
+    },
+    {
+      "id": "dcgyy2",
+      "title": "E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み",
+      "url": "https://blog.kuniwak.com/entry/e2ebok",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "E2E（End-to-End）テストに関する包括的な技術解説記事。単なるテスト手法の紹介にとどまらず、E2Eテストの理論的背景や周辺知識について深く掘り下げた内容となっている。テスト設計の考え方、実装時の注意点、メンテナンス方法など、実務で役立つ知見が体系的にまとめられており、ソフトウェア品質向上を目指す開発者にとって有益な情報源となっている。",
+      "publishedAt": "2026-11-04T02:04:41.933Z",
+      "scrapedAt": "2026-11-04T02:04:41.933Z"
+    },
+    {
+      "id": "ecabwy",
+      "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？　NECに聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "NECのルーター「Aterm」の設定画面URLが「.php」拡張子で終わっているにもかかわらず、実際にはPHPを使用していない理由についてNECに取材した記事。歴史的経緯や互換性、ユーザーの混乱を避けるための配慮などが背景にあると考えられる。組み込み機器では軽量化のため独自の実装を行いながらも、一般的なWeb技術に見せかける手法が取られることがある実例として興味深い。",
+      "publishedAt": "2026-11-04T02:04:41.933Z",
+      "scrapedAt": "2026-11-04T02:04:41.933Z"
+    },
+    {
+      "id": "8dpkww",
+      "title": "freeeにおけるSoftware Factory",
+      "url": "https://speakerdeck.com/freee/freee-niokeru-software-factory",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "freee社におけるSoftware Factoryの取り組みについて解説したプレゼンテーション資料。開発生産性を向上させるための仕組みや、開発プロセスの標準化・自動化について紹介されている。ツールチェーンの整備や開発者体験の改善を通じて、効率的なソフトウェア開発を実現する組織的な取り組みが示されており、エンタープライズ企業における開発基盤構築の参考となる内容。",
+      "publishedAt": "2026-11-04T02:04:41.933Z",
+      "scrapedAt": "2026-11-04T02:04:41.933Z"
+    },
+    {
+      "id": "nd6ads",
+      "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
+      "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "AIエージェントがデスクトップアプリケーションを自動操作できるCLIツール「agent-desktop」の紹介記事。コマンドラインから指示を出すことで、AIが画面を認識しながらマウスやキーボード操作を行い、通常のデスクトップアプリを自動制御できる。作業の自動化や反復タスクの効率化に活用でき、AIによるコンピュータ操作の新しい可能性を示す技術として注目される。",
+      "publishedAt": "2026-11-04T02:04:41.933Z",
+      "scrapedAt": "2026-11-04T02:04:41.933Z"
+    },
+    {
+      "id": "v728lo",
+      "title": "薄く・軽く。画質も「プロ級」になった新iPad mini【西田宗千佳のRandomTracking】",
+      "url": "https://av.watch.impress.co.jp/docs/series/rt/2153275.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "新型iPad miniのレビュー記事で、西田宗千佳氏が薄型軽量化と画質向上について評価している。従来モデルと比較して本体が薄く軽くなり携帯性が向上しつつ、ディスプレイ品質がプロフェッショナル用途にも耐えるレベルに達している。コンパクトなタブレットでありながら高品質な画面を求めるユーザーにとって、モバイル性能と表示性能を両立した魅力的な選択肢となっている。",
+      "publishedAt": "2026-11-04T02:04:41.933Z",
+      "scrapedAt": "2026-11-04T02:04:41.933Z"
+    },
+    {
+      "id": "oop0t5",
+      "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "AndroidでSMSを受信するだけで通話が切断されたり再起動ループに陥る深刻な脆弱性「SMS of Death」（CVE-2026-58882）をGoogleが修正した。ユーザーの操作なしに攻撃が成立するゼロクリック攻撃が可能で、Googleは最高レベルの「Critical」として評価している。特定のSMSメッセージを送りつけるだけで端末を使用不能にできるため、早急なアップデート適用が推奨される。",
+      "publishedAt": "2026-11-04T02:04:41.933Z",
+      "scrapedAt": "2026-11-04T02:04:41.933Z"
+    },
+    {
+      "id": "jkt4pm",
+      "title": "ライフカード「Vプリカ」で個人情報漏えいの可能性、委託先のGMOペイメントゲートウェイで「不正ユーザーによる行為」　",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2153282.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "ライフカードが提供するプリペイドサービス「Vプリカ」で個人情報漏えいの可能性が発生した。決済処理を委託しているGMOペイメントゲートウェイにおいて不正ユーザーによる行為が確認されたことが原因。利用者の個人情報や決済情報が流出した可能性があり、両社は調査を進めるとともに利用者への注意喚起を行っている。委託先のセキュリティ管理の重要性が改めて浮き彫りになった事例。",
+      "publishedAt": "2026-11-04T02:04:41.933Z",
+      "scrapedAt": "2026-11-04T02:04:41.933Z"
+    },
+    {
+      "id": "a8g7wj",
+      "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
+      "url": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "GitHubがイベント「GitHub Universe 2026」で、より高度なコードレビュー機能「Copilot Code Review Max」を発表した。AI技術を活用してコードの品質チェックや潜在的な問題の指摘をより詳細に行える機能で、開発者のレビュー作業を支援する。GitHub Copilotシリーズの拡張として、コード生成だけでなくレビュー工程においてもAIによる開発支援が強化されることになる。",
+      "publishedAt": "2026-11-04T02:04:41.933Z",
+      "scrapedAt": "2026-11-04T02:04:41.933Z"
+    },
+    {
+      "id": "mm3bxp",
+      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "url": "https://blog.cloudflare.com/zero-wire/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "Cloudflareが、インターネット上の重大な脆弱性を調査するための新しいハブ「Zero Wire」を発表した。クリティカルなセキュリティ脆弱性に関する情報を集約し、研究者やセキュリティ専門家が協力して調査・対応できるプラットフォームを提供する。インターネットインフラの安全性向上に向けて、脆弱性情報の共有と迅速な対応を促進する取り組みとして期待される。",
+      "publishedAt": "2026-11-04T02:04:41.933Z",
+      "scrapedAt": "2026-11-04T02:04:41.933Z"
+    },
+    {
+      "id": "gjg3f0",
+      "title": "Steamの調査でメモリ16GBのユーザーが32GBを逆転、ストレージ容量1TB超のPCも大幅減少",
+      "url": "https://gigazine.net/news/20261104-steam-hardware-survey-202610/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Steamのハードウェア調査によると、メモリ16GBを搭載するユーザーが32GBユーザーを上回る結果となった。この逆転現象は、ゲーミングPCにおいて16GBが主流となっていることを示している。一方で、ストレージ容量1TB超のPCユーザーが大幅に減少しており、PC構成のトレンドに変化が見られる。この調査結果は、ゲーマーのハードウェア選択における実用性重視の傾向を反映していると考えられる。",
+      "publishedAt": "Wed, 04 Nov 2026 10:55:00 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.730Z"
+    },
+    {
+      "id": "3y2un7",
+      "title": "予約初日に供給不足のお詫び。「Sigma FP2」、注文殺到です！",
+      "url": "https://www.gizmodo.jp/article/2611-sigma-fp2-supply-shortage/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "シグマの新型フルサイズミラーレスカメラ「FP2」が予約初日から注文殺到により供給不足に陥った。メーカー側は予想を上回る需要に対して供給が追いつかない事態となり、公式に謝罪を表明している。前モデルFPの人気を受けた後継機として期待が高まっていたことが背景にある。カメラ市場において、コンパクトなフルサイズ機への需要の高さが改めて示された形となった。",
+      "publishedAt": "Wed, 04 Nov 2026 01:00:00 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.627Z"
+    },
+    {
+      "id": "6n8yso",
+      "title": "アソビュー、会員情報1582万件流出　最終ログイン日や利用施設も　メール委託先・アララ不正アクセスで",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002854/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "レジャー予約サービス「アソビュー」で会員情報1582万件が流出する大規模な情報漏洩が発生した。原因はメール配信を委託していたアララ社への不正アクセスで、最終ログイン日や利用施設情報などの個人情報が含まれている。委託先のセキュリティ対策の脆弱性が招いた事態であり、サービス提供企業における委託先管理の重要性が問われている。利用者は不審なメールや二次被害への警戒が必要な状況となっている。",
+      "publishedAt": "Wed, 04 Nov 2026 09:42:16 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.775Z"
+    },
+    {
+      "id": "ra3qjo",
+      "title": "Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "Appleが刷新した「Siri AI」を全開発者に開放し、サードパーティアプリとの連携を可能にした。新しいSiriはアプリを横断して予約や注文などの複雑な操作を音声で実行できるようになる。これによりユーザー体験が大幅に向上し、iOSエコシステム全体の利便性が高まると期待される。AI技術の進化により、音声アシスタントがより実用的なツールへと進化している。",
+      "publishedAt": "Wed, 04 Nov 2026 09:37:42 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.775Z"
+    },
+    {
+      "id": "tmtpc",
+      "title": "TVアニメ放送から2年を経て劇場版新作『ガールズバンドクライ THE MOVIE』特報映像公開、「怒りも喜びも哀しさも全部ぶちこめ。」",
+      "url": "https://gigazine.net/news/20261104-girls-band-cry-the-movie/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "TVアニメ放送から2年を経て、『ガールズバンドクライ』の劇場版新作の特報映像が公開された。「怒りも喜びも哀しさも全部ぶちこめ。」というキャッチコピーが印象的な本作は、テレビシリーズの人気を受けての映画化となる。ファンの期待に応える形で制作が進められており、感情を込めたバンド表現がテーマとなっている。アニメ放送終了後も根強い人気を維持していることが劇場版制作の背景にある。",
+      "publishedAt": "Wed, 04 Nov 2026 09:15:00 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.730Z"
+    },
+    {
+      "id": "ybo9jm",
+      "title": "セブン-イレブン「7NOW」の利用者情報16万件超漏えい　配達委託先に不正アクセス、出前館でも約800件",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002852/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "セブン-イレブンの宅配サービス「7NOW」で利用者情報16万件超が漏洩した。配達委託先への不正アクセスが原因で、同じ委託先を利用する出前館でも約800件の情報漏洩が確認されている。複数のサービスで被害が発生したことから、物流・配達業界における委託先のセキュリティ管理が課題として浮き彫りになった。利用者は個人情報の不正利用に注意が必要な状況となっている。",
+      "publishedAt": "Wed, 04 Nov 2026 09:09:00 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.775Z"
+    },
+    {
+      "id": "no4qcx",
+      "title": "スマホの容量足りてる？クラウドは利用してる？どんなサービスを利用してる？",
+      "url": "https://gigazine.net/news/20261104-gigazine-smartphone-cloud-storage/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Gigazineがスマートフォンのストレージ容量とクラウドサービス利用状況についてのアンケート調査を実施した。スマホの大容量化が進む中、ユーザーがどの程度クラウドストレージを活用しているか、またどのようなサービスを利用しているかを調べている。写真や動画の増加によりストレージ需要が高まる中、クラウド活用の実態を把握することが目的と考えられる。",
+      "publishedAt": "Wed, 04 Nov 2026 09:00:00 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.730Z"
+    },
+    {
+      "id": "jr3r5k",
+      "title": "Microsoft、メモリ8GBのWindows 11 PCを高速化　マルチタスク処理は最大40％向上",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "Microsoftがメモリ8GBのWindows 11 PCに対する最適化アップデートを実施し、システム性能を大幅に向上させた。特にマルチタスク処理では最大40％の高速化を実現している。メモリ容量が少ないエントリーモデルのPCでも快適に動作するよう改善されたことで、幅広いユーザー層の利便性が向上する。OSレベルでの最適化により、ハードウェア制約を補う取り組みが進んでいる。",
+      "publishedAt": "Wed, 04 Nov 2026 08:33:38 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.775Z"
+    },
+    {
+      "id": "5opll",
+      "title": "Amazonの現金収支がマイナス6兆円超。主な原因はやっぱりAI投資だった",
+      "url": "https://www.gizmodo.jp/article/2611-amazon-ai-investment-free-cash-flow/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "Amazonの現金収支がマイナス6兆円超となり、主な原因はAI投資であることが明らかになった。生成AIやクラウドサービスのインフラ強化など、大規模なAI関連投資を積極的に行っている。短期的には現金収支が悪化しているが、将来的な競争力確保のための戦略的投資と位置づけられる。テック業界全体でAI分野への巨額投資競争が激化している状況を象徴する事例となっている。",
+      "publishedAt": "Tue, 03 Nov 2026 23:30:00 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.627Z"
+    },
+    {
+      "id": "i46xey",
+      "title": "GMOペイメント、決済支援システムで「不正なユーザーによる行為」　「Vプリカ」69件漏えい、3件はセキュリティコードも",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "GMOペイメントの決済支援システムで「不正なユーザーによる行為」が発生し、プリペイドカード「Vプリカ」69件の情報が漏洩した。このうち3件についてはセキュリティコードも流出している。決済システムという重要なインフラでのセキュリティ侵害であり、不正利用のリスクが高い。金融関連サービスにおけるセキュリティ対策の強化が改めて求められる事態となっている。",
+      "publishedAt": "Wed, 04 Nov 2026 08:22:40 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.775Z"
+    },
+    {
+      "id": "6sf5tt",
+      "title": "Hacker Newsのコメント3万9834件から収集した6454本の動画をYouTube風のUIで表示する「HackerTube」",
+      "url": "https://gigazine.net/news/20261104-hacker-tube/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Hacker Newsのコメント欄で共有された動画リンクを収集し、YouTube風のインターフェースで視聴できるサービス「HackerTube」が公開されました。約4万件のコメントから6454本の動画を抽出し、技術系コミュニティで話題になった良質なコンテンツを探しやすくしています。Hacker Newsユーザーが推薦する動画を効率的に発見できるプラットフォームとして注目されています。",
+      "publishedAt": "Wed, 04 Nov 2026 08:00:00 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.730Z"
+    },
+    {
+      "id": "28vr8u",
+      "title": "Wi-Fi 8はまだ完成していないのに…ASUSがルーターをフライング発売。日本でも買えます",
+      "url": "https://www.gizmodo.jp/article/ab2354d4-d612-49b8-b2ff-f158617924f8/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "ASUSが次世代規格Wi-Fi 8対応ルーターを、規格の正式策定前に日本市場で発売開始しました。Wi-Fi 8の標準化作業はまだ完了していない段階での製品投入となり、異例のフライング発売として話題になっています。最新技術への早期対応を求めるユーザー向けの製品ですが、規格変更のリスクも存在します。",
+      "publishedAt": "Tue, 03 Nov 2026 23:00:00 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.627Z"
+    },
+    {
+      "id": "7m5bhe",
+      "title": "Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "Googleが教育機関向けにAI機能をデフォルトでオフにする方針を発表しました。学校の生徒がGoogle検索を利用する際、AI Overview機能が原則無効化されます。しかし完全にAIなしの検索体験は選択できないため、教育現場や保護者から批判の声も上がっており、AI機能の教育への影響について議論が続いています。",
+      "publishedAt": "Wed, 04 Nov 2026 07:31:04 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.775Z"
+    },
+    {
+      "id": "p3duem",
+      "title": "ノジマオンライン、会員情報約700万件漏えい　不正アクセスでサイト休止、再開未定",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002848/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "家電量販店ノジマのオンラインサイトが不正アクセスを受け、約700万件の会員情報が漏えいする大規模なセキュリティ事故が発生しました。サイトは緊急で休止され、再開時期は未定となっています。個人情報保護への懸念が高まる中、ECサイトのセキュリティ対策の重要性が改めて浮き彫りになりました。",
+      "publishedAt": "Wed, 04 Nov 2026 07:04:35 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.775Z"
+    },
+    {
+      "id": "tov3db",
+      "title": "AIモデルのコモディティ化で富は開発企業から流通・決済システムへ移るという予測「The Commanding Heights」",
+      "url": "https://gigazine.net/news/20261104-the-commanding-heights/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "AIモデルが汎用化・コモディティ化することで、開発企業から富が流通・決済を担うインフラ企業へ移行するという予測「The Commanding Heights」が提示されました。AI技術そのものよりも、AIサービスを提供・管理するプラットフォームやシステムに経済的価値が集中するという分析です。AI産業の構造変化と今後のビジネスモデルの展望を示す重要な視点となっています。",
+      "publishedAt": "Wed, 04 Nov 2026 07:00:00 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.730Z"
+    },
+    {
+      "id": "ccfhnc",
+      "title": "LINEが使えない?! 今日でLINEアプリ旧バージョンがサポート終了。今すぐアプデを",
+      "url": "https://www.gizmodo.jp/article/line-support-ended-update-now/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "LINEアプリの旧バージョンがサポート終了となり、古いバージョンを使用しているユーザーはアプリが利用できなくなります。継続して使用するには最新版へのアップデートが必須となります。セキュリティや機能維持のための措置ですが、更新していないユーザーは突然LINEが使えなくなる可能性があるため、早急な対応が呼びかけられています。",
+      "publishedAt": "Tue, 03 Nov 2026 22:00:00 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.627Z"
+    },
+    {
+      "id": "8852le",
+      "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？　NECに聞いた",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "NECのAtermルーター設定画面のURLに「.php」拡張子が使われているのに、実際にはPHPが使用されていない理由について、ITmediaがNECに取材しました。セキュリティ上の理由や実装の詳細について説明がなされ、見かけ上の拡張子と実際の技術スタックが異なる設計の背景が明らかになりました。ネットワーク機器の開発における技術的な工夫が注目されています。",
+      "publishedAt": "Wed, 04 Nov 2026 06:32:05 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.775Z"
+    },
+    {
+      "id": "i1eknl",
+      "title": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
+      "url": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "GitHubが来年初頭に従来比180倍のスループット性能向上を実現すると「GitHub Universe 2026」で発表しました。AIエージェントが大量のコード操作を行う時代に対応するためのインフラ強化です。AI開発の加速に伴い、コード管理プラットフォームにも大幅な性能改善が求められており、開発体験の向上が期待されます。",
+      "publishedAt": "2026-11-03T15:16:22.000Z",
+      "scrapedAt": "2026-11-04T02:04:41.330Z"
+    },
+    {
+      "id": "pvtxk9",
+      "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
+      "url": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "GitHubが高度なコードレビュー機能「Copilot Code Review Max」を「GitHub Universe 2026」で発表しました。AI技術を活用してより詳細で的確なコードレビューを自動化する機能で、開発者の生産性向上とコード品質の改善を目指しています。Copilotシリーズの拡張により、ソフトウェア開発プロセス全体でのAI活用が進展しています。",
+      "publishedAt": "2026-11-03T15:14:57.000Z",
+      "scrapedAt": "2026-11-04T02:04:41.330Z"
+    },
+    {
+      "id": "lsqm0e",
+      "title": "Radeon VIIとUbuntu 26.04でROCmを動かし、Flash-NextをOpenCodeにつないだ",
+      "url": "https://zenn.dev/masanork/articles/radeon-vii-rocm-strata-opencode",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "AMD Radeon VIIグラフィックカードとUbuntu 26.04環境でROCmを動作させ、AI推論エンジンFlash-NextをOpenCodeに接続する技術検証記事です。NVIDIAが主流のAI開発環境において、AMD製GPUでもオープンソースツールチェーンを活用できることを実証しています。コスト面や選択肢の多様化の観点から、代替GPU環境の構築方法として参考になる内容です。",
+      "publishedAt": "Tue, 03 Nov 2026 14:15:49 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.182Z"
+    },
+    {
+      "id": "8ip9o3",
+      "title": "ガソリンも消毒液もへっちゃら。軍用基準×化学耐性の現場向けケータイ",
+      "url": "https://www.gizmodo.jp/article/hmd-terra-m-phone/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "HMDが軍用規格に準拠した現場向け携帯電話「Terra M」を発表しました。この端末はガソリンや消毒液などの化学物質に対する耐性を備えており、過酷な環境下での使用を想定した設計となっています。建設現場や工場、医療現場など、通常のスマートフォンでは対応が難しい環境での業務利用が期待されます。",
+      "publishedAt": "Tue, 03 Nov 2026 14:00:00 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.627Z"
+    },
+    {
+      "id": "4d77e1",
+      "title": "歩くのと同じくらいゆっくりなランニングでも気分が良くなって認知機能が向上する",
+      "url": "https://gigazine.net/news/20261103-very-slow-running-benefit-brain/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "最新の研究により、歩行とほぼ同じ速度の非常にゆっくりとしたランニングでも、脳に良い効果があることが明らかになりました。この運動方法は気分の改善や認知機能の向上をもたらすことが確認されており、激しい運動が苦手な人でも取り組みやすい健康法として注目されます。高齢者や運動初心者にとっても実践しやすい選択肢となりそうです。",
+      "publishedAt": "Tue, 03 Nov 2026 22:00:00 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.730Z"
+    },
+    {
+      "id": "h2tr8v",
+      "title": "サイバー攻撃がここにも…。米軍「冷凍庫がハッキングされてアイスが全部溶けた、許せない」",
+      "url": "https://www.gizmodo.jp/article/2611-us-military-freezer-cyberattack-ice-cream/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "米軍施設がサイバー攻撃を受け、冷凍庫のシステムがハッキングされるという事態が発生しました。この攻撃により冷凍庫内のアイスクリームが全て溶けてしまい、軍関係者が強い憤りを表明しています。重要インフラだけでなく、日常的な設備もサイバー攻撃の標的となる現代の脅威を示す事例として、IoT機器のセキュリティ対策の重要性が改めて浮き彫りになりました。",
+      "publishedAt": "Tue, 03 Nov 2026 13:00:00 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.627Z"
+    },
+    {
+      "id": "njnfez",
+      "title": "億万長者のイーロン・マスクによると「貯金なんて意味ない」らしいけど...？",
+      "url": "https://www.gizmodo.jp/article/elon-musk-ai-retirement-savings/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "イーロン・マスク氏がAI時代における貯金の意味について「意味がない」と発言し、話題を呼んでいます。億万長者である同氏の発言は、AIの発展により経済や労働の在り方が根本的に変化する可能性を示唆しているとみられます。しかし、一般市民の立場からは現実的な生活防衛手段としての貯金の重要性は変わらないという指摘もあり、富裕層と一般層の経済観の違いが浮き彫りになっています。",
+      "publishedAt": "Tue, 03 Nov 2026 12:30:00 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.627Z"
+    },
+    {
+      "id": "xtazhw",
+      "title": "Uberはリトライストームからどのように身を守っているのか",
+      "url": "https://gigazine.net/news/20261103-protecting-against-retry-storms/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Uberがシステム障害時に発生する「リトライストーム」からサービスを保護する技術的手法について解説されています。リトライストームとは、エラー発生時にユーザーやシステムが一斉に再試行を繰り返すことでサーバー負荷が急増する現象です。Uberは段階的なバックオフや負荷制限などの対策を実装することで、大規模サービスの安定性を維持しています。",
+      "publishedAt": "Tue, 03 Nov 2026 21:00:00 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.730Z"
+    },
+    {
+      "id": "9v5md8",
+      "title": "カジノで稼ぐ米先住民族に新たな脅威。その正体はスマホの「予測アプリ」",
+      "url": "https://www.gizmodo.jp/article/2611-native-american-casino-prediction-app/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "米国の先住民族が運営するカジノが、スマートフォンの予測アプリによる新たな脅威に直面しています。これらのアプリはゲームの結果を予測する機能を持ち、カジノの収益に影響を与える可能性があります。先住民族コミュニティにとってカジノ収入は重要な財源であり、テクノロジーを悪用したこうした行為への対策が急務となっています。",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:00 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.627Z"
+    },
+    {
+      "id": "srfpqz",
+      "title": "車で踏んでも壊れないLEDテープライトを買ったので実際に車で踏んでみた",
+      "url": "https://gigazine.net/news/20261103-hataya-led-light/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Gigazineが車で踏んでも壊れないと謳われるハタヤのLEDテープライトを実際に購入し、検証実験を行いました。本当に車で踏んで耐久性をテストするという実践的なレビューとなっています。現場作業や屋外での使用を想定した頑丈なLED照明の性能を、実際の使用環境に近い形で確認する興味深い試みです。",
+      "publishedAt": "Tue, 03 Nov 2026 20:00:00 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.730Z"
+    },
+    {
+      "id": "4mttwe",
+      "title": "eBayで“GPUが9600基”まとめて出品される怪現象。お値段なんと94億円、ラック300台つき",
+      "url": "https://www.gizmodo.jp/article/ebay-gpu-9600-sale/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "eBayに9,600基ものGPUとラック300台がセットで、総額94億円という驚異的な価格で出品される異例の事態が発生しました。これはAIブームによるGPU需要の高まりを背景にした大規模な設備売却とみられます。データセンターやAI企業向けの大型案件と思われますが、個人向けオークションサイトでの出品という点が注目を集めています。",
+      "publishedAt": "Tue, 03 Nov 2026 11:00:00 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.627Z"
+    },
+    {
+      "id": "cdj22w",
+      "title": "新型iMac（M6）触ってきた。2年ぶりのアップグレードで何が変わった？",
+      "url": "https://www.gizmodo.jp/article/m6-imac-hands-on/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "AppleがM6チップを搭載した新型iMacを発表し、2年ぶりのアップグレードとなりました。実機のハンズオンレビューでは、処理性能の向上やデザインの変更点などが報告されています。M6チップによる性能強化により、クリエイティブ作業やプロフェッショナル用途での使い勝手がどの程度向上したのかが焦点となっています。",
+      "publishedAt": "Tue, 03 Nov 2026 10:00:00 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.627Z"
+    },
+    {
+      "id": "s0shp",
+      "title": "(備忘録) お名前.comからRoute 53へドメイン移管し、お名前メールをさくらのメールボックスへ移す",
+      "url": "https://zenn.dev/momura/articles/896dbde5e42491",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "お名前.comからAWS Route 53へのドメイン移管と、お名前メールからさくらのメールボックスへのメール環境移行手順をまとめた技術備忘録です。ドメイン管理サービスの変更は専門的な知識を要する作業であり、同様の移行を検討している技術者にとって有用な情報となります。クラウドサービスの選択肢が増える中、コストやサービス品質を考慮した最適な構成を求める動きが見られます。",
+      "publishedAt": "Tue, 03 Nov 2026 09:56:38 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.182Z"
+    },
+    {
+      "id": "wyc789",
+      "title": "Aurora とDynamoDBとTimestreamとBigQueryを2400万レコードで性能比較してみた",
+      "url": "https://zenn.dev/ncdc/articles/c47df2c1f32e0c",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "Aurora、DynamoDB、Timestream、BigQueryの4つのデータベースサービスを2400万件のレコードを用いて性能比較した検証記事です。各データベースの特性や用途が異なる中で、クエリ速度、コスト、スケーラビリティなどの観点から実測データに基づく比較が行われています。リレーショナル、NoSQL、時系列、データウェアハウスという異なるタイプのデータベースの選定において、実務で参考になる知見が提供されています。",
+      "publishedAt": "Tue, 03 Nov 2026 09:39:55 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.182Z"
+    },
+    {
+      "id": "7qfxjw",
+      "title": "バックグラウンドで動作するAIエージェント用のメールっぽい受信箱「Pizza Bot」、Windows/macOS/Linuxに対応したセルフホスト型のデスクトップアプリでローカルAIモデルなどあらゆるAIモデルに対応して通知によるアクション管理が可能",
+      "url": "https://gigazine.net/news/20261103-pizza-bot/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "Pizza BotはAIエージェントがバックグラウンドで動作する際の通知やタスク管理を、メールの受信箱のようなインターフェースで管理できるデスクトップアプリケーションです。Windows、macOS、Linuxのクロスプラットフォームに対応し、ローカルAIモデルを含むあらゆるAIモデルと連携可能です。セルフホスト型のため、プライバシーを保ちながらAIエージェントからの通知を一元管理し、アクションを実行できる利点があります。",
+      "publishedAt": "Tue, 03 Nov 2026 18:00:00 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.730Z"
+    },
+    {
+      "id": "c3s5l0",
+      "title": "ADRをregoでlintする",
+      "url": "https://zenn.dev/babarot/articles/regomark-adr-checker",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "ADR（Architecture Decision Records）をrego言語を使ってlint（静的解析）する手法についての記事です。regoはOpen Policy Agent（OPA）で使用されるポリシー記述言語で、これを活用してアーキテクチャ決定記録の品質や一貫性をチェックする仕組みを構築しています。ADRの記述ルールや必須項目を自動的に検証することで、チーム内でのドキュメント品質を保ち、アーキテクチャガバナンスを強化できます。",
+      "publishedAt": "Tue, 03 Nov 2026 07:59:33 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.182Z"
+    },
+    {
+      "id": "kk0ucl",
+      "title": "1 人チームでKiro CLI とISUCON2026に参加した記録：エージェントに任せたこと、任せきれなかったこと",
+      "url": "https://zenn.dev/ndmxjp/articles/isucon2026-kiro-agent-ops",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "ISUCON2026に1人チームでKiro CLIというAIエージェントツールを活用して参加した際の体験記録です。AIエージェントに任せられたタスクと、人間の判断が必要だった部分の境界線について具体的に記述されています。パフォーマンスチューニングコンテストという性質上、AIの自動化と人間の意思決定のバランスが重要であり、今後のAI支援開発の可能性と課題が浮き彫りになっています。",
+      "publishedAt": "Tue, 03 Nov 2026 06:33:45 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.182Z"
+    },
+    {
+      "id": "6t178s",
+      "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
+      "url": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "Claude（Anthropic社のAI）を使ったバイブコーディング（AI支援コーディング）で機能を継ぎ足していく中で発見された、Claudeのコード実装における特徴的な癖やパターンについての考察記事です。AIが生成するコードの傾向や、繰り返し使われる実装パターンを分析することで、より効率的にAIと協働するためのヒントが得られます。AI支援開発を実践する上で、AIの「思考の癖」を理解することの重要性が示されています。",
+      "publishedAt": "Tue, 03 Nov 2026 03:30:05 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.182Z"
+    },
+    {
+      "id": "94m74n",
+      "title": "アメリカ産基板を中国産の2倍の速さで爆速納品可能な工業規模ロボット「The Grid」、注文に応じて回路基板を製造可能",
+      "url": "https://gigazine.net/news/20261103-circuithub-the-grid/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "CircuitHub社が開発した「The Grid」は、注文に応じて回路基板を工業規模で自動製造できるロボットシステムです。アメリカ国内で製造するため、中国産の基板と比較して2倍の速度で納品が可能となっています。サプライチェーンの地政学的リスクや納期短縮のニーズに対応するもので、製造業の自動化とオンデマンド生産の新しい形を示しています。",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:00 +0900",
+      "scrapedAt": "2026-11-04T02:04:41.730Z"
+    },
+    {
+      "id": "hwyazl",
+      "title": "quench を管理者アカウントから卒業させる：シャットダウン専用の Windows アカウント svc-power",
+      "url": "https://zenn.dev/ryuchama/articles/forge-svc-power-account",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "Windowsシステムをシャットダウンするツール「quench」を、管理者アカウントではなく専用の制限されたアカウント「svc-power」で動作させるための設定方法についての記事です。セキュリティのベストプラクティスとして、必要最小限の権限でプログラムを実行する原則に基づいており、シャットダウン権限のみを持つサービスアカウントを作成することで、システムの安全性を高めています。",
+      "publishedAt": "Tue, 03 Nov 2026 02:25:50 GMT",
+      "scrapedAt": "2026-11-04T02:04:41.182Z"
+    }
+  ],
+  "dailySummary": "今日のニュースでは、大規模な個人情報流出事件が相次いで報告されました。ノジマオンラインで約700万件、アソビューで1582万件、セブン-イレブンの「7NOW」で16万件超、Vプリカで69件など、多くが委託先企業への不正アクセスが原因となっており、サプライチェーン全体でのセキュリティ管理の重要性が浮き彫りになっています。技術面では、GitHubが「Copilot Code Review Max」や180倍のスループット向上を発表し、AppleがSiri AIを全開発者に開放するなど、AI技術の開発支援への統合が加速しており、AIエージェントがデスクトップアプリを操作するツールも登場するなど、開発環境のAI化が急速に進展しています。また、AndroidのSMS受信だけで端末が使用不能になる「SMS of Death」脆弱性の修正や、アダルトサイトに仕組まれた情報窃取スクリプトの調査報告など、モバイルやWeb環境でのセキュリティ脅威も深刻化しています。ハードウェア関連では、Steam調査でメモリ16GBが主流となったことや、Sigma FP2カメラの予約殺到、Wi-Fi 8ルーターのフライング発売など、市場動向や製品トレンドの変化も見られました。",
+  "generatedAt": "2026-11-04T02:07:25.369Z"
+}

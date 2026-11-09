@@ -1,0 +1,427 @@
+{
+  "date": "2026-11-09",
+  "items": [
+    {
+      "id": "2lqrej",
+      "title": "「エントロピーを下げれる奴が偉い」、｜ラクビル株式会社",
+      "url": "https://note.com/rakbil/n/n16a0b62cd206",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "ラクビル株式会社が組織運営における「エントロピー」の概念について論じた記事。組織の混沌や無秩序を減らし、整理整頓や効率化を実現できる人材が組織にとって価値が高いという考え方を提示している。情報やプロセスの散逸を防ぎ、秩序を保つことができるリーダーシップの重要性について解説していると推測される。",
+      "publishedAt": "2026-11-09T01:34:54.387Z",
+      "scrapedAt": "2026-11-09T01:34:54.387Z"
+    },
+    {
+      "id": "huyklc",
+      "title": "Shizuku-Duplex：自然な間合いで話す日本語 Full-Duplex モデル",
+      "url": "https://shizuku.ai/blog/1/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "Shizuku AIが開発した日本語対応のFull-Duplex（全二重通信）対話モデルについての発表。従来の音声対話AIと異なり、人間同士の会話のように自然な間合いやタイミングで話すことができる技術を実現している。リアルタイムで双方向の会話が可能となり、より人間らしいコミュニケーションが可能な音声AIの実現を目指した技術革新と考えられる。",
+      "publishedAt": "2026-11-09T01:34:54.387Z",
+      "scrapedAt": "2026-11-09T01:34:54.387Z"
+    },
+    {
+      "id": "ie9nv5",
+      "title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "医療現場でローカルLLM（大規模言語モデル）を導入したクリニックの実例レポート。PCに詳しい院長が独自にシステムを構築し、患者データのプライバシーを保護しながらAIを活用している。クラウド型AIと異なり、院内のPCで動作するため情報漏洩リスクが低く、医療現場特有のニーズに対応した先進的な取り組みとして注目される。",
+      "publishedAt": "2026-11-09T01:34:54.387Z",
+      "scrapedAt": "2026-11-09T01:34:54.387Z"
+    },
+    {
+      "id": "ck6h5o",
+      "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "Webサイト、アプリ、ゲームのURLを入力するだけで、AIが解析して類似のものを自動生成する無料ツール「Craft Anything」の紹介。ソースコードが公開されていない製品でも、見た目や機能を分析して再現可能な点が特徴。開発の効率化に寄与する一方、著作権や模倣に関する倫理的課題も議論を呼ぶ可能性がある。",
+      "publishedAt": "2026-11-09T01:34:54.387Z",
+      "scrapedAt": "2026-11-09T01:34:54.387Z"
+    },
+    {
+      "id": "w2zw42",
+      "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
+      "url": "https://shoei05.com/articles/3001/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "日本の公開統計データを視覚的にマップ化した「JapanStatsMAPs」が公開された。香田将英氏による研究プロジェクトで、散在する日本の公的統計データを整理し、研究者や一般ユーザーが活用しやすい形で提供している。データドリブンな意思決定や研究を支援するオープンデータの利活用促進に貢献すると期待される。",
+      "publishedAt": "2026-11-09T01:34:54.387Z",
+      "scrapedAt": "2026-11-09T01:34:54.387Z"
+    },
+    {
+      "id": "bf00sv",
+      "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査　本人は不倫認め謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "NVIDIAのジェンスン・フアンCEOに対する中国のスパイ工作疑惑について、同社が独立調査を実施することを発表。フアン氏本人は不倫関係を認めて謝罪している。半導体技術の覇権をめぐる米中対立が激化する中、AI半導体大手トップへのハニートラップ疑惑として国際的な注目を集めており、企業ガバナンスへの影響が懸念される。",
+      "publishedAt": "2026-11-09T01:34:54.387Z",
+      "scrapedAt": "2026-11-09T01:34:54.387Z"
+    },
+    {
+      "id": "nlg78l",
+      "title": "人生タイムライン",
+      "url": "https://ltimeline.com/ja/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "人生の出来事をタイムライン形式で可視化できるWebサービス。ユーザーが自分の人生における重要なイベントや節目を時系列で記録・管理できるツールと推測される。ライフログやキャリアの振り返り、自己分析などに活用でき、人生設計や目標設定の支援ツールとしての用途が考えられる。",
+      "publishedAt": "2026-11-09T01:34:54.387Z",
+      "scrapedAt": "2026-11-09T01:34:54.387Z"
+    },
+    {
+      "id": "dvcusv",
+      "title": "iPhoneでmacOSが動くエミュレーター「Henge」公開！ - すまほん!!",
+      "url": "https://smhn.info/202611-henge-macos-emulator-iphone-ipad-release",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "iPhoneやiPad上でmacOSを動作させることができるエミュレーター「Henge」が公開された。iOS端末でデスクトップOSを体験できる画期的なツールで、技術的な実験やデモンストレーションとして注目を集めている。ただし実用性やAppleの規約との整合性、パフォーマンス面での課題も存在すると考えられる。",
+      "publishedAt": "2026-11-09T01:34:54.387Z",
+      "scrapedAt": "2026-11-09T01:34:54.387Z"
+    },
+    {
+      "id": "60sr0c",
+      "title": "GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "GoogleがオープンソースとしてリリースしたAIエージェント向けのソフトウェア設計・レビュースキルに関するプロジェクト「elephant-goldfish-model」。AIがソフトウェア開発プロセスにおける設計や コードレビューを支援するための技術やノウハウを提供している。開発者コミュニティがAI支援ツールを構築・改善するための基盤として活用が期待される。",
+      "publishedAt": "2026-11-09T01:34:54.387Z",
+      "scrapedAt": "2026-11-09T01:34:54.387Z"
+    },
+    {
+      "id": "a82v01",
+      "title": "シネフィルおじさん便",
+      "url": "https://claude.ai/artifact/5rGviSNATjR6aF6A54XALj",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "Claude AIが生成したアーティファクト（成果物）へのリンク。「シネフィルおじさん便」というタイトルから、映画愛好家向けのコンテンツやツールがClaude上で作成・共有されていると推測される。AI生成コンテンツの共有プラットフォームとしてのClaude Artifactの活用例を示している。",
+      "publishedAt": "2026-11-09T01:34:54.387Z",
+      "scrapedAt": "2026-11-09T01:34:54.387Z"
+    },
+    {
+      "id": "ybym1v",
+      "title": "128信金の大規模障害、約6時間で復旧　「原因はサイバー攻撃ではない」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002999/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "128の信用金庫で大規模なシステム障害が発生したが、約6時間で復旧した。システム運営側は障害の原因がサイバー攻撃ではないことを明言している。多数の金融機関に影響を与える広範囲な障害であったが、比較的短時間で正常化したことで被害は最小限に抑えられた。今後は障害の詳細な原因究明と再発防止策が求められる。",
+      "publishedAt": "Mon, 09 Nov 2026 09:26:19 +0900",
+      "scrapedAt": "2026-11-09T01:34:54.438Z"
+    },
+    {
+      "id": "wi3wlc",
+      "title": "【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー",
+      "url": "https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "動画処理ソフト「VideoProc Converter AI」と画質向上ソフト「Aiarty Video Enhancer」が期間限定で最大75％オフのセール中。VideoProc Converter AIは1000以上の動画サイトからのダウンロード機能を備え、Aiarty Video Enhancerは低解像度動画を自然に4K高画質化できる。実際の使用レビューを通じて、両ソフトの機能性と使いやすさが紹介されている。",
+      "publishedAt": "Mon, 09 Nov 2026 09:00:00 +0900",
+      "scrapedAt": "2026-11-09T01:34:53.670Z"
+    },
+    {
+      "id": "6c1fh",
+      "title": "発売間近？ Samsungがスポーツタイプのイヤホンを準備中",
+      "url": "https://www.gizmodo.jp/article/2611-samsung-galaxy-t1-sports-earphones/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "Samsungがスポーツ向けの新型イヤホンを準備していることが明らかになった。発売が間近に迫っている可能性が高い。運動時の使用を想定した設計となっており、Galaxy製品ラインナップの拡充が図られる見込み。フィットネスや屋外活動をするユーザー層をターゲットにした製品展開と考えられる。",
+      "publishedAt": "Mon, 09 Nov 2026 00:00:00 GMT",
+      "scrapedAt": "2026-11-09T01:34:54.329Z"
+    },
+    {
+      "id": "u47513",
+      "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "情報漏えい事件の多発により、フィッシング詐欺の手法が進化している懸念が指摘されている。漏えいした個人情報を悪用して、特定の個人向けにカスタマイズされた「その人専用の詐欺メール」が登場する可能性がある。従来の不特定多数を狙った画一的な詐欺メールと異なり、個人情報に基づいた巧妙な攻撃は見破ることが困難になる。セキュリティ対策の一層の強化が求められる状況となっている。",
+      "publishedAt": "Mon, 09 Nov 2026 08:00:00 +0900",
+      "scrapedAt": "2026-11-09T01:34:54.438Z"
+    },
+    {
+      "id": "24s8yu",
+      "title": "新しいMacBook Proの光るリンゴを消す方法",
+      "url": "https://www.gizmodo.jp/article/2611-macbook-pro-turn-off-illuminated-apple-logo/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "新しいMacBook Proに搭載された光るAppleロゴを消す方法が紹介されている。この機能は復活した特徴的なデザイン要素だが、利用者の好みや使用環境によっては不要な場合もある。設定方法を知ることで、ユーザーは自分の好みに合わせてカスタマイズできる。デザインと機能性のバランスを個人で調整可能になっている。",
+      "publishedAt": "Sun, 08 Nov 2026 23:00:00 GMT",
+      "scrapedAt": "2026-11-09T01:34:54.329Z"
+    },
+    {
+      "id": "7gypoh",
+      "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査　本人は不倫認め謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "NVIDIAのジェンスン・フアンCEOに対する中国のスパイ工作疑惑が浮上し、同社は独立調査を開始した。フアンCEO本人は不倫関係があったことは認めて謝罪している。半導体業界のトップ企業であるNVIDIAのCEOをめぐるスキャンダルは、企業統治や機密情報保護の観点から重大な問題となっている。調査結果次第では企業経営や米中関係にも影響を及ぼす可能性がある。",
+      "publishedAt": "Mon, 09 Nov 2026 07:44:13 +0900",
+      "scrapedAt": "2026-11-09T01:34:54.438Z"
+    },
+    {
+      "id": "ciat4l",
+      "title": "アップルの嘘つき！ 新型iPad mini、バッテリー14時間持つらしいじゃん！",
+      "url": "https://www.gizmodo.jp/article/2611-new-ipad-mini-battery-life/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "新型iPad miniのバッテリー持続時間が約14時間と優秀な性能を示している。Appleの公称スペックに対して懐疑的な見方があったが、実際のテストで長時間駆動が確認された。タイトルは皮肉を込めた表現だが、実際には期待以上の性能を評価している内容と思われる。携帯性に優れたタブレットとしての実用性が向上している。",
+      "publishedAt": "Sun, 08 Nov 2026 22:30:00 GMT",
+      "scrapedAt": "2026-11-09T01:34:54.329Z"
+    },
+    {
+      "id": "xv97uy",
+      "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
+      "url": "https://gigazine.net/news/20261109-pjit-21k/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "超低コストで効率的な学習を実現した画像生成AIモデル「P-JiT」が開発され、オープンウェイトで公開されている。従来の画像生成AIと比較して学習コストを大幅に削減しながら高品質な画像生成が可能。オープンソースでの公開により、研究者や開発者が自由に利用・改良できる環境が整った。AI開発の民主化と技術革新の加速が期待される。",
+      "publishedAt": "Mon, 09 Nov 2026 07:00:00 +0900",
+      "scrapedAt": "2026-11-09T01:34:53.670Z"
+    },
+    {
+      "id": "8r2l4m",
+      "title": "充電不要、ノイズはキャンセル、もちろん光る。ゲーミング・有線イヤホンはこうなる",
+      "url": "https://www.gizmodo.jp/article/2611-razer-hammerhead-v3-chroma/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "Razerから充電不要の有線ゲーミングイヤホン「Hammerhead V3 Chroma」が登場。ノイズキャンセリング機能を搭載し、ゲーミングデバイスらしくLEDライティングにも対応している。有線接続のため充電の心配がなく、長時間のゲームプレイに適している。ゲーマー向けの機能性とデザイン性を両立した製品となっている。",
+      "publishedAt": "Sun, 08 Nov 2026 22:00:00 GMT",
+      "scrapedAt": "2026-11-09T01:34:54.329Z"
+    },
+    {
+      "id": "d10zmh",
+      "title": "古代のグラボ（GTX 1080）でも動くローカルLLMを動かしてみた",
+      "url": "https://zenn.dev/koheidisney/articles/729394f8be42c5",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "旧世代のグラフィックボードであるGTX 1080でもローカルLLM（大規模言語モデル）を動作させることに成功した実践レポート。最新の高性能GPUがなくても、工夫次第でAI技術を活用できることが示された。古いハードウェアでのLLM運用は、導入コストを抑えたい個人ユーザーや開発者にとって有益な情報となる。技術的なハードルが下がることでAI利用の裾野が広がる可能性がある。",
+      "publishedAt": "Sun, 08 Nov 2026 16:01:13 GMT",
+      "scrapedAt": "2026-11-09T01:34:53.769Z"
+    },
+    {
+      "id": "yxkdfg",
+      "title": "Excelで帳票レイアウトを作成、CSVデータから簡単に単票や明細付きの帳票を生成できる「AS-DataReport」が新登場［PR］",
+      "url": "https://www.publickey1.jp/blog/26/excelcsvas-datareportpr.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "Excel上で帳票レイアウトを作成し、CSVデータを読み込むだけで単票や明細付き帳票を自動生成できる新ツール「AS-DataReport」が発表されました。従来の帳票作成業務における煩雑な作業を大幅に簡素化し、プログラミング知識がなくても扱えることが特徴です。請求書や納品書などのビジネス文書作成の効率化が期待されます。",
+      "publishedAt": "2026-11-08T15:16:44.000Z",
+      "scrapedAt": "2026-11-09T01:34:54.011Z"
+    },
+    {
+      "id": "ruj2v0",
+      "title": "MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と",
+      "url": "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "MCP（Model Context Protocol）の仕様を完全サポートした公式のRuby SDKがリリースされました。このSDKは「MCP SDK Tier 1」のステータスに到達したことが発表されています。これによりRuby開発者もMCPを活用したAIアプリケーション開発が容易になり、エコシステムの拡大が見込まれます。",
+      "publishedAt": "2026-11-08T15:12:29.000Z",
+      "scrapedAt": "2026-11-09T01:34:54.011Z"
+    },
+    {
+      "id": "iqy3ef",
+      "title": "ターミナル用ライブラリ［Libghostty 1.0」リリース。Windows版マルチプレクサ「Rex」もまもなく登場予定",
+      "url": "https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "ターミナルエミュレータ向けライブラリ「Libghostty 1.0」が正式リリースされ、安定版として利用可能になりました。また、Windows環境向けのターミナルマルチプレクサ「Rex」も近日中に登場予定とのことです。開発者向けのターミナル環境がより充実し、クロスプラットフォーム対応が進展することが期待されます。",
+      "publishedAt": "2026-11-08T15:09:07.000Z",
+      "scrapedAt": "2026-11-09T01:34:54.011Z"
+    },
+    {
+      "id": "uecp3v",
+      "title": "海岸に導入された「サメ監視用ドローン」に鳥がマジギレ、海に沈める",
+      "url": "https://www.gizmodo.jp/article/2611-birds-vs-beach-drones/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "オーストラリアなどの海岸で導入されたサメ監視用ドローンが、鳥に攻撃されて海に落とされる事例が発生しました。鳥がドローンを縄張りへの侵入者とみなして攻撃的な行動に出たと考えられます。海洋安全対策と野生動物保護の両立が新たな課題として浮上しています。",
+      "publishedAt": "Sun, 08 Nov 2026 14:00:00 GMT",
+      "scrapedAt": "2026-11-09T01:34:54.329Z"
+    },
+    {
+      "id": "5a47nc",
+      "title": "アメリカの空、フロッピーディスクが守ってました。連邦航空局が数十年ぶりにシステム更新",
+      "url": "https://www.gizmodo.jp/article/2611-faa-floppy-disk-system-update/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "アメリカ連邦航空局（FAA）が数十年にわたりフロッピーディスクを使用していた航空管制システムをようやく更新したことが明らかになりました。旧式システムが長年にわたりアメリカの空の安全を支えてきたことになります。重要インフラのデジタル化とセキュリティ向上が進められることで、航空安全性の更なる向上が期待されます。",
+      "publishedAt": "Sun, 08 Nov 2026 13:30:00 GMT",
+      "scrapedAt": "2026-11-09T01:34:54.329Z"
+    },
+    {
+      "id": "q37fb5",
+      "title": "個人情報を守りきるブラウザゲーム「個人情報漏洩のお知らせ」をプレイしてみた、同名楽曲が流れる中で大量のエラーが警告を消し続ける",
+      "url": "https://gigazine.net/news/20261108-leakgame/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "個人情報保護の重要性を体験できるブラウザゲーム「個人情報漏洩のお知らせ」が紹介されました。同名楽曲をBGMに、プレイヤーは大量のエラーメッセージや警告を処理し続けるゲーム内容となっています。情報セキュリティの重要性を楽しみながら学べる教育的なコンテンツとして注目されています。",
+      "publishedAt": "Sun, 08 Nov 2026 22:14:00 +0900",
+      "scrapedAt": "2026-11-09T01:34:53.670Z"
+    },
+    {
+      "id": "sm5jkl",
+      "title": "「貯金は無意味」発言から3日後、イーロン・マスクがAI代に音を上げる",
+      "url": "https://www.gizmodo.jp/article/2611-elon-musk-ai-cost-grok-bot/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "イーロン・マスク氏が「貯金は無意味」と発言した3日後に、自社のAI「Grok」の運用コストの高さに悩んでいることが報じられました。AI開発や運用には莫大な費用がかかることが改めて明らかになりました。AI業界全体でコスト効率化が重要な課題となっていることが浮き彫りになっています。",
+      "publishedAt": "Sun, 08 Nov 2026 12:00:00 GMT",
+      "scrapedAt": "2026-11-09T01:34:54.329Z"
+    },
+    {
+      "id": "mvy8r4",
+      "title": "『SPY×FAMILY』TVアニメSeason 4＆劇場版第2弾の2027年展開が決定",
+      "url": "https://gigazine.net/news/20261108-spy-family-season4-film2/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "人気アニメ『SPY×FAMILY』のテレビアニメSeason 4と劇場版第2弾が2027年に展開されることが正式発表されました。大ヒットシリーズの続編展開により、ファンの期待が高まっています。アニメ・映画の両方で展開することで、作品の世界観がさらに広がることが期待されます。",
+      "publishedAt": "Sun, 08 Nov 2026 20:00:00 +0900",
+      "scrapedAt": "2026-11-09T01:34:53.670Z"
+    },
+    {
+      "id": "u1p3zu",
+      "title": "生後しばらく母乳のみで育てられた子どもはADHDの症状が軽減される可能性",
+      "url": "https://gigazine.net/news/20261108-breastfeeding-fewer-adhd-symptoms-children/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "生後数ヶ月間を母乳のみで育てられた子どもは、ADHDの症状が軽減される可能性があるという研究結果が発表されました。母乳育児が子どもの神経発達に好影響を与えることが示唆されています。乳幼児期の栄養摂取方法が長期的な発達に影響を及ぼす可能性について、さらなる研究が期待されます。",
+      "publishedAt": "Sun, 08 Nov 2026 20:00:00 +0900",
+      "scrapedAt": "2026-11-09T01:34:53.670Z"
+    },
+    {
+      "id": "jgrek4",
+      "title": "夏に太陽光で作った電気を「鉄の粉」で蓄えておこう！ そしたら冬に使えるし",
+      "url": "https://www.gizmodo.jp/article/2611-iron-powder-energy-storage/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "夏季に太陽光で発電した電力を鉄粉の形で長期保存し、冬季に利用する新しいエネルギー貯蔵技術が紹介されました。鉄は酸化・還元反応を利用してエネルギーを蓄えられ、季節間のエネルギー貯蔵が可能になります。再生可能エネルギーの安定供給と効率的利用に向けた革新的なソリューションとして注目されています。",
+      "publishedAt": "Sun, 08 Nov 2026 11:00:00 GMT",
+      "scrapedAt": "2026-11-09T01:34:54.329Z"
+    },
+    {
+      "id": "4qm8ej",
+      "title": "彗星が地球に「生命の種」を運んだ説、実はかなり無理があったかも",
+      "url": "https://www.gizmodo.jp/article/2611-comet-origin-of-life-theory-challenged/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "彗星が地球に生命の材料を運んだという「パンスペルミア説」に疑問を投げかける研究が発表されました。これまで彗星が有機物を地球にもたらした可能性が議論されてきましたが、新たな分析により、彗星の環境条件や物質の保存状態などの観点から、この仮説には物理的・化学的に無理があることが示唆されています。生命の起源に関する従来の有力説の見直しが求められる可能性があります。",
+      "publishedAt": "Sun, 08 Nov 2026 11:00:00 GMT",
+      "scrapedAt": "2026-11-09T01:34:54.329Z"
+    },
+    {
+      "id": "e6guxv",
+      "title": "アメリカ産のAIでオープンモデル「Ripple-65B Preview」登場、パラメーター数10倍の大型モデルを上回る性能で開発費は10分の1",
+      "url": "https://gigazine.net/news/20261108-ripple-65b-preview/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "アメリカで開発されたオープンソースAIモデル「Ripple-65B Preview」が公開されました。パラメーター数65Bと比較的小規模ながら、10倍のパラメーター数を持つ大型モデルを上回る性能を達成しています。開発費用は従来の大型モデルの10分の1に抑えられており、効率的なモデル設計により高性能と低コストを両立した画期的な成果として注目されています。",
+      "publishedAt": "Sun, 08 Nov 2026 19:00:00 +0900",
+      "scrapedAt": "2026-11-09T01:34:53.670Z"
+    },
+    {
+      "id": "cn3awg",
+      "title": "AIを使う人 vs 使わない人、働く時間が長いのはどっち？ 最大で1日90分の差がつくケースも",
+      "url": "https://www.gizmodo.jp/article/2611-ai-work-hours-comparison/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "AI利用者と非利用者の労働時間を比較した調査結果が報告されました。AIを活用している人は使わない人と比べて労働時間が短く、ケースによっては1日あたり最大90分もの差が生じることが明らかになりました。AIツールの活用により業務効率が大幅に向上し、作業時間の削減につながっていることが実証された形です。働き方改革やデジタルスキルの重要性が改めて浮き彫りになっています。",
+      "publishedAt": "Sun, 08 Nov 2026 10:00:00 GMT",
+      "scrapedAt": "2026-11-09T01:34:54.329Z"
+    },
+    {
+      "id": "szaedh",
+      "title": "無料で高速・暗号化・重複排除対応のバックアップができる「rustic」",
+      "url": "https://gigazine.net/news/20261108-rustic/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "無料で利用できるバックアップツール「rustic」が紹介されています。高速処理、データの暗号化、重複排除機能に対応しており、効率的かつセキュアなバックアップが可能です。オープンソースソフトウェアとして提供されているため、コストをかけずに企業レベルのバックアップ体制を構築できる点が特徴です。",
+      "publishedAt": "Sun, 08 Nov 2026 18:00:00 +0900",
+      "scrapedAt": "2026-11-09T01:34:53.670Z"
+    },
+    {
+      "id": "s0m94g",
+      "title": "自宅サーバーにClaude Codeを常駐させ、スマホから24時間指示を出す（Remote Control＋systemd）",
+      "url": "https://zenn.dev/samurai_works/articles/114a5e654ca295",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "自宅サーバーにClaude Code（AIアシスタント）を常駐させ、スマートフォンから24時間いつでも指示を出せるシステムの構築方法が解説されています。Remote ControlとLinuxのsystemdを組み合わせることで、サービスとして常時稼働させる仕組みを実現しています。個人開発環境におけるAI活用の新しい形として、自動化や遠隔操作の可能性を広げる取り組みです。",
+      "publishedAt": "Sun, 08 Nov 2026 08:59:05 GMT",
+      "scrapedAt": "2026-11-09T01:34:53.769Z"
+    },
+    {
+      "id": "81jlod",
+      "title": "AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること",
+      "url": "https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "AWSから4.3億円という異常な高額請求を受けた事例とその対処法が報告されています。システムのバグや設定ミスによる誤請求の可能性がある場合、まず冷静に請求内容を確認し、AWSサポートに速やかに連絡することが重要です。クラウドサービス利用者にとって、請求監視の重要性と異常値検知の必要性を示す警鐘となる事例です。",
+      "publishedAt": "Sun, 08 Nov 2026 08:56:07 GMT",
+      "scrapedAt": "2026-11-09T01:34:53.769Z"
+    },
+    {
+      "id": "8k9uzb",
+      "title": "AI画像を検出できるブラウザ拡張機能「Pangram AI Detection」を実際に使って本当に検出できるのか試してみた",
+      "url": "https://gigazine.net/news/20261108-pangram-image-ai-image-detection/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "AI生成画像を検出できるブラウザ拡張機能「Pangram AI Detection」の実証テストが行われました。実際にさまざまなAI生成画像と人間が作成した画像を用いて検出精度を検証し、その有効性と限界が確認されています。AIコンテンツの真贋判定が重要となる中、こうした検出ツールの実用性が試されており、デジタルメディアの信頼性確保に向けた取り組みとして注目されます。",
+      "publishedAt": "Sun, 08 Nov 2026 17:45:00 +0900",
+      "scrapedAt": "2026-11-09T01:34:53.670Z"
+    },
+    {
+      "id": "cydmn",
+      "title": "SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話",
+      "url": "https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "PostgreSQLで単純なSELECT文しか実行していないにもかかわらず、マイグレーション作業がロック待ちで失敗したトラブル事例が報告されています。読み取り専用のクエリであってもデータベース内部のロック機構との相互作用により、予期しない競合が発生する可能性があることが示されました。データベース運用における微妙なロック挙動の理解の重要性を示す事例です。",
+      "publishedAt": "Sun, 08 Nov 2026 08:41:46 GMT",
+      "scrapedAt": "2026-11-09T01:34:53.769Z"
+    },
+    {
+      "id": "hx33l8",
+      "title": "正規性検定による正規性チェック後の統計的仮説検定について",
+      "url": "https://zenn.dev/tomoshige_n/articles/22e19d310acf88",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "統計分析において正規性検定を行った後に統計的仮説検定を実施する際の注意点や問題点について解説されています。正規性チェックの結果に基づいて検定方法を選択する一般的な手法には統計学的な落とし穴があり、検定の多重性や前提条件の誤解などが問題となります。適切な統計解析手法の選択と解釈の重要性が強調されています。",
+      "publishedAt": "Sun, 08 Nov 2026 07:42:36 GMT",
+      "scrapedAt": "2026-11-09T01:34:53.769Z"
+    },
+    {
+      "id": "ra90xh",
+      "title": "会議では上司が話す時間を減らして部下の話を聞くべきだと研究者が指摘、質問するだけでは逆効果になる可能性も",
+      "url": "https://gigazine.net/news/20261108-bosses-should-avoid-speaking-during-meetings/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "会議における上司の発言時間と部下の発言機会に関する研究結果が発表されました。上司は会議で自らの話す時間を減らし、部下の意見を積極的に聞くべきだと研究者が指摘しています。ただし単に質問するだけでは逆効果になる可能性もあり、真に傾聴する姿勢が重要です。効果的な会議運営と組織コミュニケーションの改善に向けた示唆を与える研究です。",
+      "publishedAt": "Sun, 08 Nov 2026 15:00:00 +0900",
+      "scrapedAt": "2026-11-09T01:34:53.670Z"
+    },
+    {
+      "id": "8vtoi6",
+      "title": "AI生成の証拠「透かし」がユーザー追跡の「スパイマーク」と化している",
+      "url": "https://gigazine.net/news/20261108-spymarks-not-watermarks/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "AI生成コンテンツの真正性を証明するために導入された「透かし(ウォーターマーク)」技術が、本来の目的を逸脱してユーザー追跡のツールとして機能している問題が指摘されています。透かしはAI生成コンテンツと人間作成コンテンツを区別する目的で開発されましたが、実際には個々のユーザーを識別・追跡する「スパイマーク」として悪用される懸念が高まっています。この技術がプライバシー侵害の手段となる可能性があり、AI技術の透明性確保とユーザープライバシー保護のバランスが重要な課題となっています。",
+      "publishedAt": "Sun, 08 Nov 2026 12:00:00 +0900",
+      "scrapedAt": "2026-11-09T01:34:53.670Z"
+    },
+    {
+      "id": "x56o73",
+      "title": "Go の defer の動きをちょっと調べてみた",
+      "url": "https://zenn.dev/wakame_atsushi/articles/8c45ac07bac534",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "Go言語における「defer」文の動作メカニズムについて技術的な検証を行った記事です。deferは関数の終了時に特定の処理を遅延実行する機能で、リソースの解放やクリーンアップ処理に広く使われています。記事では、deferの実行順序、スコープ、パフォーマンスへの影響などを実際のコード例を用いて詳しく調査しています。Go言語のプログラミングにおいて、deferの正確な理解はエラーハンドリングやリソース管理の実装に不可欠であり、開発者にとって有益な技術情報となっています。",
+      "publishedAt": "Sun, 08 Nov 2026 02:01:23 GMT",
+      "scrapedAt": "2026-11-09T01:34:53.769Z"
+    }
+  ],
+  "dailySummary": "今日のニュースでは、AI技術と実用化に関する話題が多く見られました。医療現場でのローカルLLM導入事例や、旧型GPU（GTX 1080）でもLLMが動作可能であることが報告され、AI活用のハードルが下がっていることが示されています。また、AI利用者と非利用者の労働時間には最大90分もの差が生じるという調査結果から、AIツールが業務効率化に大きく貢献していることが明らかになりました。一方で、NVIDIAのCEOに対する中国スパイ工作疑惑や、AI生成画像の透かし技術がユーザー追跡に悪用される懸念など、AI・テクノロジー分野における安全性やプライバシー保護の課題も浮き彫りになっています。加えて、数十年ぶりに米連邦航空局がフロッピーディスク使用システムを更新したことや、128信金の大規模障害が約6時間で復旧したことなど、重要インフラのシステム更新と運用に関するニュースも注目を集めました。",
+  "generatedAt": "2026-11-09T01:37:11.042Z"
+}

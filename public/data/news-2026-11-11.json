@@ -1,0 +1,527 @@
+{
+  "date": "2026-11-11",
+  "items": [
+    {
+      "id": "gi1wuy",
+      "title": "【国のデータをしゃぶり尽くせ！】無料で使える公共データ100選【永久保存版】 - Qiita",
+      "url": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "日本政府が公開している統計データ、地理情報、オープンデータなど無料で利用可能な公共データ100種類を網羅的に紹介した技術記事。人口統計、経済指標、気象データ、地図情報など多様なデータソースが含まれており、データ分析や研究、アプリケーション開発に活用できる。政府のオープンデータ政策により、これらのデータは誰でもアクセス可能で、ビジネスや学術研究での利用が推奨されている。",
+      "publishedAt": "2026-11-11T01:48:08.624Z",
+      "scrapedAt": "2026-11-11T01:48:08.624Z"
+    },
+    {
+      "id": "i67cop",
+      "title": "おやすみ、インターネットの時代",
+      "url": "https://wirelesswire.jp/2026/11/94886/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "インターネットの時代が転換期を迎えているという論考記事。従来の自由でオープンなインターネットの理念が、プラットフォーム企業による寡占化、規制強化、分断化などにより変質しつつある現状を分析している。SNSの衰退、AI技術の台頭、プライバシー保護の強化など、複数の要因が絡み合い、これまでとは異なるインターネットの新時代への移行が進んでいることを指摘している。",
+      "publishedAt": "2026-11-11T01:48:08.624Z",
+      "scrapedAt": "2026-11-11T01:48:08.624Z"
+    },
+    {
+      "id": "9xx8la",
+      "title": "氏名や電話番号、聞きません　漏洩問題で企業側、個人情報手放す動き：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCB0H13VCBUTIL009M.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "個人情報漏洩問題の頻発を受けて、企業が氏名や電話番号などの個人情報収集を控える動きが広がっている。サービス提供に必要最小限の情報のみを取得し、不要な個人情報は保持しない方針に転換する企業が増加している。セキュリティリスクの軽減とプライバシー保護の両立を図る取り組みで、個人情報保護法の厳格化や消費者意識の高まりが背景にある。",
+      "publishedAt": "2026-11-11T01:48:08.624Z",
+      "scrapedAt": "2026-11-11T01:48:08.624Z"
+    },
+    {
+      "id": "mivkho",
+      "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計",
+      "url": "https://gigazine.net/news/20261110-leantime/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "ADHDや自閉症など神経多様性を持つユーザーを考慮して設計された無料のプロジェクト管理ツール「Leantime」が紹介されている。カンバンボード、ガントチャート、タイムブロッキング、ホワイトボードなど多様な視覚化機能を組み合わせることで、認知負荷を軽減する設計になっている。タスク管理やプロジェクト進行において、多様な思考スタイルに対応できるインクルーシブなツールとして注目されている。",
+      "publishedAt": "2026-11-11T01:48:08.624Z",
+      "scrapedAt": "2026-11-11T01:48:08.624Z"
+    },
+    {
+      "id": "vmpu6k",
+      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡　海外では大ヒットなのに、日本での普及は限定的　ビジネスでの活用事例を探る",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "カメラを搭載したAI眼鏡が海外で人気を博している一方、日本では盗撮規制により普及が限定的となっている状況を解説。法規制による制約がある中で、日本ではビジネス用途での活用が模索されている。製造現場での遠隔支援や医療分野での記録補助など、業務効率化のツールとしての可能性が探られており、プライバシー保護と技術活用のバランスが課題となっている。",
+      "publishedAt": "2026-11-11T01:48:08.624Z",
+      "scrapedAt": "2026-11-11T01:48:08.624Z"
+    },
+    {
+      "id": "o3afwq",
+      "title": "【独自】Suica「ウォークスルー改札」対応の裏側　iPhoneとAndroidが「UWB乗車」に27年後半対応へ（鈴木淳也）",
+      "url": "https://japan.cnet.com/article/35254664/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "Suicaの次世代改札システム「ウォークスルー改札」において、iPhoneとAndroidスマートフォンが2027年後半にUWB（超広帯域無線）技術を使った非接触乗車に対応する見通し。従来のタッチ式ではなく、スマートフォンを取り出さずに通過できる技術で、利便性が大幅に向上する。JR東日本と端末メーカーが技術開発を進めており、交通系ICカードの利用体験に革新をもたらす可能性がある。",
+      "publishedAt": "2026-11-11T01:48:08.624Z",
+      "scrapedAt": "2026-11-11T01:48:08.624Z"
+    },
+    {
+      "id": "9bkvbt",
+      "title": "AMD次世代CPUコア「Zen 6」公開！Zen 5の最適化版で効くのはL3キャッシュ",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2155080.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "AMDが次世代CPUアーキテクチャ「Zen 6」を公開し、前世代のZen 5を最適化したバージョンであることが明らかになった。特にL3キャッシュの改善に注力しており、処理性能とエネルギー効率の向上が期待される。インテルとの競争が激化する中、AMDは段階的な最適化戦略でパフォーマンス向上を図っている。",
+      "publishedAt": "2026-11-11T01:48:08.624Z",
+      "scrapedAt": "2026-11-11T01:48:08.624Z"
+    },
+    {
+      "id": "4htfjn",
+      "title": "Claude Code ハーネス�Deep Dive – 君はどこまで制御する？ -",
+      "url": "https://speakerdeck.com/takateeen_knj/20261110-claude-deepdive",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "Anthropic社のAIアシスタント「Claude」のコード実行機能について技術的に深掘りした発表資料。Claude Code Harnessの制御方法や活用方法を詳細に解説しており、開発者がどこまでAIの挙動を制御できるかを探求している。AIコーディング支援ツールの実装や運用における技術的な知見が共有されている。",
+      "publishedAt": "2026-11-11T01:48:08.624Z",
+      "scrapedAt": "2026-11-11T01:48:08.624Z"
+    },
+    {
+      "id": "jrceef",
+      "title": "2026年度 新卒研修『AWS インフラハンズオン』の資料を公開します | CyberAgent Developers Blog",
+      "url": "https://developers.cyberagent.co.jp/blog/archives/66422/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "サイバーエージェントが2026年度新卒社員向けに実施したAWSインフラ研修の資料を一般公開。クラウドインフラの基礎からハンズオン形式で学べる実践的な内容となっており、EC2、S3、RDSなどAWSの主要サービスの構築・運用方法を網羅している。企業の研修ノウハウが公開されることで、クラウド技術を学ぶ人々にとって貴重な学習リソースとなっている。",
+      "publishedAt": "2026-11-11T01:48:08.624Z",
+      "scrapedAt": "2026-11-11T01:48:08.624Z"
+    },
+    {
+      "id": "sij794",
+      "title": "NVIDIAの「長文コンテキスト不要」論文",
+      "url": "https://zenn.dev/knowledgesense/articles/bd917ed6829121",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "NVIDIAが発表した「長文コンテキストが必ずしも必要ではない」とする研究論文についての解説記事。大規模言語モデルにおいて、長大なコンテキストウィンドウを持つことよりも、効率的な情報検索や要約技術の方が実用的である可能性を示唆している。AI開発における計算リソースとコストの最適化に向けた新たなアプローチとして注目されている。",
+      "publishedAt": "2026-11-11T01:48:08.624Z",
+      "scrapedAt": "2026-11-11T01:48:08.624Z"
+    },
+    {
+      "id": "yql2uq",
+      "title": "子ども向けの検査、もうぜんぶ飴型でよくない？",
+      "url": "https://www.gizmodo.jp/article/lollylab-lollipop-saliva-sensor/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "子どもの医療検査において、飴型センサーを活用する取り組みが注目されています。従来の検査は子どもにとって苦痛や恐怖を伴うことが多く、検査の実施が困難なケースがありました。飴をなめるだけで唾液から健康状態を検査できる技術は、子どもの心理的負担を大幅に軽減できます。この革新的なアプローチにより、小児医療における検査の受容性が向上し、より早期の疾患発見につながる可能性があります。",
+      "publishedAt": "Wed, 11 Nov 2026 01:00:00 GMT",
+      "scrapedAt": "2026-11-11T01:48:08.357Z"
+    },
+    {
+      "id": "ksxvt5",
+      "title": "「iCloud」で朝から障害　「ログインできない」ユーザー混乱、メールやカレンダーも",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "Appleのクラウドサービス「iCloud」で朝から大規模な障害が発生しました。多くのユーザーがログインできない状態となり、メールやカレンダーなどの主要機能にアクセスできない事態が生じています。iCloudは多くのAppleユーザーが日常的に利用するサービスであるため、業務や個人の予定管理に支障が出るなど、広範囲に影響が及んでいます。ユーザーからは混乱の声が上がっており、早期の復旧が求められています。",
+      "publishedAt": "Wed, 11 Nov 2026 09:42:26 +0900",
+      "scrapedAt": "2026-11-11T01:48:08.395Z"
+    },
+    {
+      "id": "fmn3s",
+      "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "AnthropicのAI「Claude」に、共同作業を可能にする新機能「Sheets」と「Whiteboards」が追加されました。さらに、外部アプリケーションをClaude内で直接開いて作業できる機能も実装されています。これによりユーザーは複数のアプリを切り替えることなく、Claude上で効率的に共同作業を進められるようになります。AI支援ツールと協働作業環境の統合により、業務の生産性向上が期待されます。",
+      "publishedAt": "Wed, 11 Nov 2026 09:33:03 +0900",
+      "scrapedAt": "2026-11-11T01:48:08.395Z"
+    },
+    {
+      "id": "jl84sr",
+      "title": "GMOあおぞらネット銀、「不正な通信」検知でAPI一時停止　「予防的な措置」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003087/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "GMOあおぞらネット銀行が、システムに対する「不正な通信」を検知したため、予防措置としてAPIを一時停止しました。セキュリティリスクを未然に防ぐための迅速な対応とみられます。API停止により、同行のサービスと連携する外部アプリケーションやサービスが一時的に利用できなくなる可能性があります。金融機関におけるサイバーセキュリティの重要性が改めて浮き彫りになった事例といえます。",
+      "publishedAt": "Wed, 11 Nov 2026 09:18:27 +0900",
+      "scrapedAt": "2026-11-11T01:48:08.395Z"
+    },
+    {
+      "id": "exuud5",
+      "title": "GIGAZINE読者は記事広告で何をレビューしてほしいのか？",
+      "url": "https://gigazine.net/news/20261111-gigazine-review-survey/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "GIGAZINEが読者を対象に、記事広告でどのような製品やサービスをレビューしてほしいかについてのアンケート調査を実施しました。メディアとして読者のニーズを把握し、より関心の高いコンテンツを提供することが目的とみられます。読者参加型のコンテンツ制作により、記事広告の質と読者満足度の向上が期待されます。この取り組みは、メディアと読者の双方向コミュニケーションを重視する姿勢の表れといえます。",
+      "publishedAt": "Wed, 11 Nov 2026 09:00:00 +0900",
+      "scrapedAt": "2026-11-11T01:48:07.733Z"
+    },
+    {
+      "id": "371xcd",
+      "title": "Anthropic、IPOの仮条件を1株70?78ドルに　調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003085/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "AI企業AnthropicがIPO（新規株式公開）の仮条件を1株70〜78ドルに設定し、最大約644億ドルの資金調達を目指しています。さらにGoogleとNVIDIAがそれぞれ100億ドルを別途出資する計画です。この大規模な資金調達は、AI開発競争における同社の重要性を示しています。巨額の投資により、AnthropicはAI技術のさらなる研究開発を加速させ、業界での競争力を強化することが見込まれます。",
+      "publishedAt": "Wed, 11 Nov 2026 08:02:05 +0900",
+      "scrapedAt": "2026-11-11T01:48:08.395Z"
+    },
+    {
+      "id": "ynduv9",
+      "title": "「AIはバブルではない」との主張、まだAI企業が成長する余地はあるのか？",
+      "url": "https://gigazine.net/news/20261111-not-convinced-ai-bubble-exists/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "AI技術の急速な発展に対して「バブルではない」との主張が展開されており、AI企業にはまだ成長の余地があるとの見方が示されています。一部では過熱感を指摘する声もある中、実際のビジネス応用や技術革新が継続していることが根拠とされています。AI市場の持続的成長の可能性について、投資家や業界関係者の間で議論が続いています。今後の市場動向や技術的ブレークスルーが、この議論の帰趨を左右することになりそうです。",
+      "publishedAt": "Wed, 11 Nov 2026 08:00:00 +0900",
+      "scrapedAt": "2026-11-11T01:48:07.733Z"
+    },
+    {
+      "id": "yujbd7",
+      "title": "世界でのスマホ売上UPも販売台数は減少。第3四半期はAppleが売上50％をしめる",
+      "url": "https://www.gizmodo.jp/article/smartphone_sales_q3_apple_market_share/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "2023年第3四半期のスマートフォン市場では、世界全体の売上高は増加したものの、販売台数は減少する傾向が見られました。Appleが売上高の50％を占め、市場での圧倒的な存在感を示しています。これは高価格帯製品へのシフトが進んでいることを示唆しており、消費者が台数よりも高性能・高品質な製品を選好する傾向が強まっています。スマートフォン市場の成熟化と高付加価値化が進行していることが窺えます。",
+      "publishedAt": "Tue, 10 Nov 2026 23:00:00 GMT",
+      "scrapedAt": "2026-11-11T01:48:08.357Z"
+    },
+    {
+      "id": "wwrlm7",
+      "title": "簿記などの受験者情報最大98万人分漏えいか　合否や得点も　日商ネット試験に不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003084/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "日本商工会議所のネット試験システムに不正アクセスがあり、簿記などの受験者情報最大98万人分が漏えいした可能性があります。漏えいした情報には合否結果や得点も含まれており、個人情報保護の観点から重大な事態です。資格試験という公的性格の強いシステムへの攻撃であり、受験者への影響や信頼性の低下が懸念されます。今後、セキュリティ対策の強化と被害者への適切な対応が求められます。",
+      "publishedAt": "Wed, 11 Nov 2026 07:49:32 +0900",
+      "scrapedAt": "2026-11-11T01:48:08.395Z"
+    },
+    {
+      "id": "ouq2p1",
+      "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "GoogleがAI「Gemini 4 Carbon」の一般提供を開始しましたが、Geminiアプリでの利用は最上位プラン「AI Ultra」の契約者に限定されています。新世代AIモデルの提供により、Googleはプレミアムユーザー向けに高度なAI機能を展開する戦略を取っています。段階的な展開により、技術の安定性確保とビジネスモデルの構築を図っているとみられます。AI競争が激化する中、Googleの市場戦略が注目されます。",
+      "publishedAt": "Wed, 11 Nov 2026 07:03:30 +0900",
+      "scrapedAt": "2026-11-11T01:48:08.395Z"
+    },
+    {
+      "id": "l4wh40",
+      "title": "無料で使える「SketchUp」代替の3Dモデリングツール「BenchUp」が登場、ブラウザ上で家具の設計が可能",
+      "url": "https://gigazine.net/news/20261111-benchup/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "ブラウザ上で動作する無料の3Dモデリングツール「BenchUp」が登場しました。SketchUpの代替として家具設計に特化しており、インストール不要で手軽に利用できる点が特徴です。3Dモデリングツールの選択肢が広がることで、より多くのユーザーが気軽に家具デザインに取り組めるようになると期待されます。",
+      "publishedAt": "Wed, 11 Nov 2026 07:00:00 +0900",
+      "scrapedAt": "2026-11-11T01:48:07.733Z"
+    },
+    {
+      "id": "gd9u6n",
+      "title": "レトロな楽器を腕に巻こう。カシオの新作はインジケーターに技あり",
+      "url": "https://www.gizmodo.jp/article/2611-casio-classic-lf40w-retro-watch/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "カシオから新作のレトロデザイン腕時計が発売されました。クラシックな楽器を思わせるデザインが特徴で、インジケーター部分に独特の工夫が施されています。レトロブームが続く中、カシオの定番デザインを踏襲しながらも新しい要素を加えた製品として注目されています。",
+      "publishedAt": "Tue, 10 Nov 2026 22:00:00 GMT",
+      "scrapedAt": "2026-11-11T01:48:08.357Z"
+    },
+    {
+      "id": "35v9cm",
+      "title": "11年間にわたるリバースエンジニアリングでDOS版「ウイングコマンダー」の2人同時協力プレイ実現に成功",
+      "url": "https://gigazine.net/news/20261111-wing-commander-together/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "11年間という長期にわたるリバースエンジニアリングの結果、DOS版ゲーム「ウイングコマンダー」の2人協力プレイが実現しました。元々は単独プレイ専用だったクラシックゲームに新たな遊び方が加わった形です。レトロゲームコミュニティの技術力と情熱を示す事例として、ゲーム保存の観点からも意義深い成果となっています。",
+      "publishedAt": "Wed, 11 Nov 2026 06:00:00 +0900",
+      "scrapedAt": "2026-11-11T01:48:07.733Z"
+    },
+    {
+      "id": "uw8go3",
+      "title": "HAC125DX 用の無線カメラを Pi Zero 2 W で作って、ライブスタックしてみた",
+      "url": "https://zenn.dev/tsukitsukiss/articles/livestack-hac125dx-wireless-camera",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "天体望遠鏡HAC125DX用の無線カメラをRaspberry Pi Zero 2 Wを使って自作し、ライブスタック撮影に成功した技術記事です。市販品に頼らず低コストで天体撮影システムを構築する手法が紹介されています。天体写真愛好家にとって、DIYでの撮影システム構築の参考となる実践的な内容です。",
+      "publishedAt": "Tue, 10 Nov 2026 20:52:00 GMT",
+      "scrapedAt": "2026-11-11T01:48:07.789Z"
+    },
+    {
+      "id": "bwg1vg",
+      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡　海外では大ヒットなのに、日本での普及は限定的　ビジネスでの活用事例を探る",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "盗撮問題で法規制が検討されているAI搭載眼鏡が、海外では大ヒットしている一方、日本では普及が限定的な状況です。プライバシー懸念がある一方で、ビジネス分野での活用可能性も探られています。技術革新と規制のバランス、日本市場特有の慎重な姿勢が浮き彫りになっており、今後のウェアラブルAI技術の方向性を占う重要なケースとなっています。",
+      "publishedAt": "Wed, 11 Nov 2026 05:00:00 +0900",
+      "scrapedAt": "2026-11-11T01:48:08.395Z"
+    },
+    {
+      "id": "qqgc22",
+      "title": "GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる",
+      "url": "https://www.gizmodo.jp/article/2611-google-antigravity-swarm/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "GoogleのAIツール「Antigravity」に、複数のAIエージェントが掲示板を使って協働する新機能が実装されました。AI同士がコミュニケーションを取りながらタスクを進める仕組みで、その影響力の大きさが注目されています。AIの自律的な協働作業が現実化することで、業務効率化が進む一方、制御やセキュリティ面での課題も懸念されます。",
+      "publishedAt": "Tue, 10 Nov 2026 18:30:00 GMT",
+      "scrapedAt": "2026-11-11T01:48:08.357Z"
+    },
+    {
+      "id": "teynns",
+      "title": "マイクロソフト、.NET 11正式リリース。C#に共用型を導入、JITやAOTコンパイラの高速化、コマンドラインツール強化など新機能",
+      "url": "https://www.publickey1.jp/blog/26/net_11cjitaot.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "マイクロソフトが.NET 11を正式リリースしました。C#言語に共用型（union type）が導入され、JITおよびAOTコンパイラの高速化、コマンドラインツールの強化など多数の新機能が追加されています。開発効率とパフォーマンスの両面で改善が図られ、.NETエコシステムのさらなる進化が期待されます。",
+      "publishedAt": "2026-11-10T17:58:43.000Z",
+      "scrapedAt": "2026-11-11T01:48:07.720Z"
+    },
+    {
+      "id": "p80xbm",
+      "title": "「.NET MAUI 11」がついにXamarin由来のMonoランタイムから脱却、CoreCLRに統一",
+      "url": "https://www.publickey1.jp/blog/26/net_maui_11xamarinmonocoreclr.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": ".NET MAUI 11がXamarinから引き継いだMonoランタイムから脱却し、CoreCLRに統一されました。これによりランタイムの一貫性が向上し、パフォーマンスや保守性の改善が見込まれます。クロスプラットフォーム開発フレームワークとしての.NET MAUIの基盤が強化され、モバイルアプリ開発の効率化が進むと考えられます。",
+      "publishedAt": "2026-11-10T17:51:47.000Z",
+      "scrapedAt": "2026-11-11T01:48:07.720Z"
+    },
+    {
+      "id": "9iybm",
+      "title": ".NET 8と.NET 9のサポートは昨日で終了。脆弱性が社会問題化している現在、.NET 10への移行を推奨",
+      "url": "https://www.publickey1.jp/blog/26/net_8net_9net_10.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": ".NET 8と.NET 9のサポートが終了し、脆弱性対策の観点から.NET 10への移行が推奨されています。近年、ソフトウェアの脆弱性が社会問題化している状況を受け、古いバージョンの使用継続はセキュリティリスクが高まります。企業や開発者は早急なアップグレード対応が求められており、セキュリティ管理の重要性が改めて強調されています。",
+      "publishedAt": "2026-11-10T17:45:42.000Z",
+      "scrapedAt": "2026-11-11T01:48:07.720Z"
+    },
+    {
+      "id": "pvkp3q",
+      "title": "Googleが新AI「Gemini 4 Carbon」をリリース。サブスクはUltraのみ利用可",
+      "url": "https://www.gizmodo.jp/article/2611-gemini-4-carbon-release/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "Googleが新しいAIモデル「Gemini 4 Carbon」をリリースしました。利用はUltraサブスクリプション契約者のみに限定されています。AI技術の進化が続く中、高性能モデルを有料プランの差別化要素とする戦略が採られており、AIサービスの収益化モデルが確立されつつあることを示しています。",
+      "publishedAt": "Tue, 10 Nov 2026 16:35:00 GMT",
+      "scrapedAt": "2026-11-11T01:48:08.357Z"
+    },
+    {
+      "id": "ndv2nr",
+      "title": "LiteLLM Adaptive Routerを検証する（後編）：学習シグナルと運用上の注意",
+      "url": "https://zenn.dev/aws_japan/articles/4399262cf00559",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 14:30:35 GMT",
+      "scrapedAt": "2026-11-11T01:48:07.789Z"
+    },
+    {
+      "id": "md4t2i",
+      "title": "LiteLLM Adaptive Router を検証する（前編）：モデル選択と学習の仕組み",
+      "url": "https://zenn.dev/aws_japan/articles/ac9ae548d57323",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 14:28:03 GMT",
+      "scrapedAt": "2026-11-11T01:48:07.789Z"
+    },
+    {
+      "id": "qj7ce4",
+      "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計",
+      "url": "https://gigazine.net/news/20261110-leantime/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 23:00:00 +0900",
+      "scrapedAt": "2026-11-11T01:48:07.733Z"
+    },
+    {
+      "id": "bp6kxu",
+      "title": "セーラームーンみたいな深海魚が発見される。ツインテールの正体に…ゾッ",
+      "url": "https://www.gizmodo.jp/article/deep-sea-fish-has-hair-ish-qczy/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 14:00:00 GMT",
+      "scrapedAt": "2026-11-11T01:48:08.357Z"
+    },
+    {
+      "id": "kkyjxz",
+      "title": "NVIDIAはジェンスン・フアンCEOのもと「家族経営」で強固に支配されているという指摘",
+      "url": "https://gigazine.net/news/20261110-jensen-huang-has-a-tight-grip-on-nvidia/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 22:40:00 +0900",
+      "scrapedAt": "2026-11-11T01:48:07.733Z"
+    },
+    {
+      "id": "dc3120",
+      "title": "車を遠隔解錠できる脆弱性が存在していたことが発覚、トヨタが対象の可能性あり",
+      "url": "https://gigazine.net/news/20261110-unlock-any-car-from-x-brand/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 22:00:00 +0900",
+      "scrapedAt": "2026-11-11T01:48:07.733Z"
+    },
+    {
+      "id": "5r9gnd",
+      "title": "トランプ氏、｢AI｣呼びを禁止へ。｢スーパーインテリジェンス｣は定着する？",
+      "url": "https://www.gizmodo.jp/article/2611-trump-ban-ai-super-intelligence/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 13:00:00 GMT",
+      "scrapedAt": "2026-11-11T01:48:08.357Z"
+    },
+    {
+      "id": "h33b6u",
+      "title": "Clojureのマクロによるメタプログラミングで業務ルールのDSLを作る",
+      "url": "https://zenn.dev/pksha/articles/b7e4c1a9d38f52",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 12:55:14 GMT",
+      "scrapedAt": "2026-11-11T01:48:07.789Z"
+    },
+    {
+      "id": "605gwg",
+      "title": "1回14円でお布団ぽかぽか！ ホース不要の「ふとんジェット」が冬の快眠を助けてくれる",
+      "url": "https://www.gizmodo.jp/article/2611-futon-jet-futon-dryer/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 12:30:00 GMT",
+      "scrapedAt": "2026-11-11T01:48:08.357Z"
+    },
+    {
+      "id": "855qn5",
+      "title": "地球に「第2の月」が誕生",
+      "url": "https://www.gizmodo.jp/article/2611-earth-second-moon-2026-qq8/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 12:15:00 GMT",
+      "scrapedAt": "2026-11-11T01:48:08.357Z"
+    },
+    {
+      "id": "u0v5w9",
+      "title": "よく飛ぶ紙飛行機の作り方をまとめて難易度や用紙の種類で絞り込みもできるサイト「Foldable Flight」",
+      "url": "https://gigazine.net/news/20261110-foldable-flight/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 21:00:00 +0900",
+      "scrapedAt": "2026-11-11T01:48:07.733Z"
+    },
+    {
+      "id": "hk2yg0",
+      "title": "“一目惚れ”は昭和の恋愛なのか…。令和時代は自分の直感よりもAIによる効率を重視",
+      "url": "https://www.gizmodo.jp/article/ai_dating_efficiency_vs_intuition/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 12:00:00 GMT",
+      "scrapedAt": "2026-11-11T01:48:08.357Z"
+    },
+    {
+      "id": "bgddqj",
+      "title": "「明星 一平ちゃん夜店の焼そば 大盛 だっくだくタルタルソース えびフライ味」は具だくさんタルタルソースたっぷりで満腹の一品",
+      "url": "https://gigazine.net/news/20261110-myojo-ippei-tartar/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 20:50:00 +0900",
+      "scrapedAt": "2026-11-11T01:48:07.733Z"
+    },
+    {
+      "id": "n606co",
+      "title": "ソフトバンクG、マスク氏の「債務不履行」投稿に「全くの事実無根」　7～9月期決算は1兆円超の赤字",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003079/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 20:01:53 +0900",
+      "scrapedAt": "2026-11-11T01:48:08.395Z"
+    },
+    {
+      "id": "x1zt",
+      "title": "先史時代の人間が定住するには「水」だけでなく「石」も重要だった可能性が砂漠の調査で明らかに",
+      "url": "https://gigazine.net/news/20261110-stone-water-determined-human-settlement/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 20:00:00 +0900",
+      "scrapedAt": "2026-11-11T01:48:07.733Z"
+    },
+    {
+      "id": "qw5ifu",
+      "title": "スキマバイト「シェアフル」に不正アクセス　最大750万アカウント漏えいか　給与振込用の口座情報なども",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003072/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 18:50:02 +0900",
+      "scrapedAt": "2026-11-11T01:48:08.395Z"
+    },
+    {
+      "id": "661vvz",
+      "title": "JaCoCoはどうやってカバレッジを測っているのか",
+      "url": "https://zenn.dev/chikina/articles/jacoco-coverage-bytecode",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 08:41:07 GMT",
+      "scrapedAt": "2026-11-11T01:48:07.789Z"
+    },
+    {
+      "id": "ah7n8e",
+      "title": "サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003069/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 17:23:42 +0900",
+      "scrapedAt": "2026-11-11T01:48:08.395Z"
+    },
+    {
+      "id": "k6wfbk",
+      "title": "AI ネイティブなデータ分析基盤を作った話（後編）",
+      "url": "https://zenn.dev/pksha/articles/laplace-build-guide",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 07:38:37 GMT",
+      "scrapedAt": "2026-11-11T01:48:07.789Z"
+    },
+    {
+      "id": "su7xiz",
+      "title": "AIでテストカバレッジを23%から84%に引き上げた方法",
+      "url": "https://zenn.dev/litalico/articles/20261029-test-with-ai",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 02:50:00 GMT",
+      "scrapedAt": "2026-11-11T01:48:07.789Z"
+    },
+    {
+      "id": "2wdtyc",
+      "title": "GitHub rulesetのON/OFFで「マージ禁止期間」を作る",
+      "url": "https://zenn.dev/yesodco/articles/yesod-github-ruleset-merge-freeze",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 02:45:29 GMT",
+      "scrapedAt": "2026-11-11T01:48:07.789Z"
+    },
+    {
+      "id": "o1gpjx",
+      "title": "退屈なCoding AgentはMuseにやらせよう",
+      "url": "https://zenn.dev/watany/articles/342b9815dd0553",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Tue, 10 Nov 2026 02:35:05 GMT",
+      "scrapedAt": "2026-11-11T01:48:07.789Z"
+    }
+  ],
+  "dailySummary": "",
+  "generatedAt": "2026-11-11T01:49:58.776Z"
+}

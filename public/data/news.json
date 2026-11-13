@@ -1,477 +1,497 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "items": [
     {
-      "id": "cqogx",
-      "title": "インシデント調査報告書チェックリスト公開のお知らせ",
-      "url": "https://www.jpcert.or.jp/ir_report_checklist_20261111.html",
+      "id": "z9038t",
+      "title": "マイクロソフトで接続障害が発生 世界各地に影響のおそれ | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-12T02:47:36.759Z",
-      "scrapedAt": "2026-11-12T02:47:36.759Z"
+      "publishedAt": "2026-11-13T02:29:55.026Z",
+      "scrapedAt": "2026-11-13T02:29:55.026Z"
     },
     {
-      "id": "vbixoq",
-      "title": "【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html",
+      "id": "c0b303",
+      "title": "マイクロソフト、「365」世界で大規模障害　メール送れずビジネスに影響 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN12CY20S6A111C2000000/",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-12T02:47:36.759Z",
-      "scrapedAt": "2026-11-12T02:47:36.759Z"
+      "publishedAt": "2026-11-13T02:29:55.026Z",
+      "scrapedAt": "2026-11-13T02:29:55.026Z"
     },
     {
-      "id": "foqo7t",
-      "title": "GitHub - aws/aws-emulator: AWS Emulator is a local emulator of the AWS APIs.",
-      "url": "https://github.com/aws/aws-emulator",
+      "id": "74ani9",
+      "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミュレータ」正式リリース",
+      "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-12T02:47:36.759Z",
-      "scrapedAt": "2026-11-12T02:47:36.759Z"
+      "publishedAt": "2026-11-13T02:29:55.026Z",
+      "scrapedAt": "2026-11-13T02:29:55.026Z"
     },
     {
-      "id": "boopfi",
-      "title": "software-factory-mode-2026aki skill - 橋本商会",
-      "url": "https://scrapbox.io/shokai/software-factory-mode-2026aki_skill",
+      "id": "z0weyx",
+      "title": "Microsoft 365で大規模障害　「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-12T02:47:36.759Z",
-      "scrapedAt": "2026-11-12T02:47:36.759Z"
+      "publishedAt": "2026-11-13T02:29:55.026Z",
+      "scrapedAt": "2026-11-13T02:29:55.026Z"
     },
     {
-      "id": "dergun",
-      "title": "Modern Web Guidance 1.0: コーディング エージェントに欠けているウェブ プラットフォームの専門知識  |  Blog  |  Chrome for Developers",
-      "url": "https://developer.chrome.com/blog/modern-web-guidance-v1?hl=ja",
+      "id": "1wrddx",
+      "title": "インシデント調査報告書チェックリスト",
+      "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-12T02:47:36.759Z",
-      "scrapedAt": "2026-11-12T02:47:36.759Z"
+      "publishedAt": "2026-11-13T02:29:55.026Z",
+      "scrapedAt": "2026-11-13T02:29:55.026Z"
     },
     {
-      "id": "uofuj6",
-      "title": "2026 年、すべての主要ブラウザで使えるようになった CSS 機能",
-      "url": "https://sterfield.co.jp/blog/blog-44/",
+      "id": "e6axa8",
+      "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
+      "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-12T02:47:36.759Z",
-      "scrapedAt": "2026-11-12T02:47:36.759Z"
+      "publishedAt": "2026-11-13T02:29:55.026Z",
+      "scrapedAt": "2026-11-13T02:29:55.026Z"
     },
     {
-      "id": "kbzecs",
-      "title": "AWS Emulator and the engineer's job when agents write the code",
-      "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+      "id": "6z9rsr",
+      "title": "エヌビディア フアンCEOが辞任 業界全体に影響も | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261112de75078",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-12T02:47:36.759Z",
-      "scrapedAt": "2026-11-12T02:47:36.759Z"
+      "publishedAt": "2026-11-13T02:29:55.026Z",
+      "scrapedAt": "2026-11-13T02:29:55.026Z"
     },
     {
-      "id": "9sv86f",
-      "title": "お客様の前に立つフロント人材になるために、技術以外の最小構成 | フューチャー技術ブログ",
-      "url": "https://future-architect.github.io/articles/20261111a/",
+      "id": "tp9w2k",
+      "title": "アウトルックでメール送れず　「マイクロソフト365」で大規模障害：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASVCD6X84VCDUHBI001M.html",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-12T02:47:36.759Z",
-      "scrapedAt": "2026-11-12T02:47:36.759Z"
+      "publishedAt": "2026-11-13T02:29:55.026Z",
+      "scrapedAt": "2026-11-13T02:29:55.026Z"
     },
     {
-      "id": "rik7f7",
-      "title": "人手不足解消へ ファミマがフィジカルAI導入 | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/nd-20261111de74472",
+      "id": "plrhna",
+      "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
+      "url": "https://github.com/tsukumijima/YacchoGPT",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-12T02:47:36.759Z",
-      "scrapedAt": "2026-11-12T02:47:36.759Z"
+      "publishedAt": "2026-11-13T02:29:55.026Z",
+      "scrapedAt": "2026-11-13T02:29:55.026Z"
     },
     {
-      "id": "vzkpi1",
-      "title": "グーグル、新ドメイン「.eat」「.fly」「.here」の受付開始を発表",
-      "url": "https://japan.cnet.com/article/35254705/",
+      "id": "b6jkwo",
+      "title": "そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox",
+      "url": "https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-12T02:47:36.759Z",
-      "scrapedAt": "2026-11-12T02:47:36.759Z"
+      "publishedAt": "2026-11-13T02:29:55.026Z",
+      "scrapedAt": "2026-11-13T02:29:55.026Z"
     },
     {
-      "id": "kjny7y",
-      "title": "「Qwen4-Max-Preview」が無料で使用可能になったのでゲームを作ってみた",
-      "url": "https://gigazine.net/news/20261112-qwen4-preview/",
+      "id": "g9pwir",
+      "title": "OpenRouterの日本語版が登場、GPT-6.1 Solを用いた自己修正型翻訳システムで高品質な多言語対応を実現",
+      "url": "https://gigazine.net/news/20261113-openrouter-self-correcting-localization/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 11:45:00 +0900",
-      "scrapedAt": "2026-11-12T02:47:36.537Z"
+      "publishedAt": "Fri, 13 Nov 2026 11:27:00 +0900",
+      "scrapedAt": "2026-11-13T02:29:54.793Z"
     },
     {
-      "id": "ybkokh",
-      "title": "NVIDIAがジェンスン・フアンCEOを解任する準備を進めている",
-      "url": "https://gigazine.net/news/20261112-nvidia-preparing-oust-ceo/",
+      "id": "m238pv",
+      "title": "X(旧Twitter)で投稿できる写真・動画の数が4個から5倍の20個に増加",
+      "url": "https://gigazine.net/news/20261113-x-share-20-photos-videos-per-post/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 11:39:00 +0900",
-      "scrapedAt": "2026-11-12T02:47:36.537Z"
+      "publishedAt": "Fri, 13 Nov 2026 11:09:00 +0900",
+      "scrapedAt": "2026-11-13T02:29:54.793Z"
     },
     {
-      "id": "lin8rf",
-      "title": "爆発直後の超新星、撮れました",
-      "url": "https://www.gizmodo.jp/article/supernova_images-c5i-lrt/",
+      "id": "h5l5wk",
+      "title": "健康管理は、意識しないくらいがちょうどいい。着けっぱなしでデータが貯まる「RingConn Gen 2」",
+      "url": "https://www.gizmodo.jp/article/ringconn-gen-2-smartring/",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
       "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 02:35:00 GMT",
-      "scrapedAt": "2026-11-12T02:47:37.084Z"
+      "publishedAt": "Fri, 13 Nov 2026 02:00:00 GMT",
+      "scrapedAt": "2026-11-13T02:29:55.331Z"
     },
     {
-      "id": "2s2hsw",
-      "title": "Xアプリ、動画の切り抜き機能を実装",
-      "url": "https://www.gizmodo.jp/article/2611-x-app-video-clipping-feature/",
+      "id": "m7ugie",
+      "title": "Adobe Sneaksで一番盛り上がったのはコレ。どんな面にも文字やロゴを自然になじませる新技術",
+      "url": "https://www.gizmodo.jp/article/2611-adobe-sneaks-project-deep-brush/",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
       "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 02:15:00 GMT",
-      "scrapedAt": "2026-11-12T02:47:37.084Z"
+      "publishedAt": "Fri, 13 Nov 2026 01:30:00 GMT",
+      "scrapedAt": "2026-11-13T02:29:55.331Z"
     },
     {
-      "id": "42e8ea",
-      "title": "Appleが約30年の歴史を持つ「Appleサポートコミュニティ」を2026年11月20日に閉鎖へ",
-      "url": "https://gigazine.net/news/20261112-apple-support-community-closing/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 11:04:00 +0900",
-      "scrapedAt": "2026-11-12T02:47:36.537Z"
-    },
-    {
-      "id": "s4we5m",
-      "title": "目は届かない、でも気になる。徒歩6分先の愛車を、4Gカメラはどう守る？",
-      "url": "https://www.gizmodo.jp/article/tapo-c665g-kit-4g-security-camera/",
+      "id": "f5bk85",
+      "title": "テレビ、オワコンじゃなかった。見逃し配信アプリ「Tver」月間ユーザー5000万突破",
+      "url": "https://www.gizmodo.jp/article/tver-monthly-users-exceed-50-million/",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
       "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 02:00:00 GMT",
-      "scrapedAt": "2026-11-12T02:47:37.084Z"
+      "publishedAt": "Fri, 13 Nov 2026 01:00:00 GMT",
+      "scrapedAt": "2026-11-13T02:29:55.331Z"
     },
     {
-      "id": "p4zz7u",
-      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+      "id": "dfvt4v",
+      "title": "緊急情報の音声放送システムにランサムウェア攻撃　滋賀県甲賀市、屋外拡声器など使えず",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003167/",
       "source": "ITmedia NEWS",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 10:49:56 +0900",
-      "scrapedAt": "2026-11-12T02:47:37.168Z"
+      "publishedAt": "Fri, 13 Nov 2026 09:44:12 +0900",
+      "scrapedAt": "2026-11-13T02:29:55.298Z"
     },
     {
-      "id": "ytg7nw",
-      "title": "PlayStation Portal プレーヤーの謎…本体ストレージの正体は？ 新たなハンドヘルドゲーム機となるか",
-      "url": "https://www.gizmodo.jp/article/2611-playstation-portal-player-storage-mystery/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 01:00:00 GMT",
-      "scrapedAt": "2026-11-12T02:47:37.084Z"
-    },
-    {
-      "id": "iwh3ei",
-      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+      "id": "w32mb0",
+      "title": "Google、Gemini搭載のメガネを米韓で予約開始　395ドルからで12月10日発売へ",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003166/",
       "source": "ITmedia NEWS",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 09:56:17 +0900",
-      "scrapedAt": "2026-11-12T02:47:37.168Z"
+      "publishedAt": "Fri, 13 Nov 2026 09:30:33 +0900",
+      "scrapedAt": "2026-11-13T02:29:55.298Z"
     },
     {
-      "id": "gqxpvt",
-      "title": "ドコモ「5G SA」また障害、原因は5日と同じ「交換機の輻輳」　約9時間で復旧",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003125/",
+      "id": "h73j6e",
+      "title": "2026年のCPU-Z統計ではメモリ64GB搭載PCの割合が2025年の同時期より18％減少、旧世代のDDR4はシェア拡大",
+      "url": "https://gigazine.net/news/20261113-cpu-z-64gb-ram-ddr4/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 13 Nov 2026 09:15:00 +0900",
+      "scrapedAt": "2026-11-13T02:29:54.793Z"
+    },
+    {
+      "id": "lkl13p",
+      "title": "「AIでサイバー攻撃を防ぐ」ってこういうことなんだ",
+      "url": "https://www.gizmodo.jp/article/2611-ai-cybersecurity-defense/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Thu, 12 Nov 2026 23:40:00 GMT",
+      "scrapedAt": "2026-11-13T02:29:55.331Z"
+    },
+    {
+      "id": "o4a89e",
+      "title": "Suicaタッチ不要「ウォークスルー改札」はなぜ隣の人と同時に通っても見分けられるのか",
+      "url": "https://www.gizmodo.jp/article/2611-suica-walk-through-ticket-gate/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Thu, 12 Nov 2026 23:30:00 GMT",
+      "scrapedAt": "2026-11-13T02:29:55.331Z"
+    },
+    {
+      "id": "k7zf7z",
+      "title": "サイバーセキュリティクラウド、GitHubから顧客情報流出か　「セキュリティ企業として重く受け止め」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003163/",
       "source": "ITmedia NEWS",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 09:53:56 +0900",
-      "scrapedAt": "2026-11-12T02:47:37.168Z"
+      "publishedAt": "Fri, 13 Nov 2026 08:15:50 +0900",
+      "scrapedAt": "2026-11-13T02:29:55.298Z"
     },
     {
-      "id": "hxdl5m",
-      "title": "ジェンスン・フアン解任準備と報道。NVIDIAを揺るがすハニートラップ疑惑",
-      "url": "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-affair-spy/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 00:45:00 GMT",
-      "scrapedAt": "2026-11-12T02:47:37.084Z"
-    },
-    {
-      "id": "cu4qj8",
-      "title": "ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー",
-      "url": "https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 09:00:00 +0900",
-      "scrapedAt": "2026-11-12T02:47:36.537Z"
-    },
-    {
-      "id": "mfx0ev",
-      "title": "Appleサポートコミュニティ、11月20日に閉鎖へ　新規投稿は既に終了",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003124/",
+      "id": "jjq5mt",
+      "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
       "source": "ITmedia NEWS",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 08:46:34 +0900",
-      "scrapedAt": "2026-11-12T02:47:37.168Z"
+      "publishedAt": "Fri, 13 Nov 2026 08:04:46 +0900",
+      "scrapedAt": "2026-11-13T02:29:55.298Z"
     },
     {
-      "id": "lfxru3",
-      "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう",
-      "url": "https://www.gizmodo.jp/article/trump-coins-hit-all-time-lows-as-elizabeth-warren-targets-trump-familys-crypto-empire/",
+      "id": "8ybv7u",
+      "title": "移動中もおしゃべりを続けよう。CarPlayにGeminiがやってきた",
+      "url": "https://www.gizmodo.jp/article/gemini_apple_carplay/",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 23:00:00 GMT",
-      "scrapedAt": "2026-11-12T02:47:37.084Z"
+      "publishedAt": "Thu, 12 Nov 2026 23:00:00 GMT",
+      "scrapedAt": "2026-11-13T02:29:55.331Z"
     },
     {
-      "id": "d7n878",
-      "title": "Outlook.comがDMARC認証を受けていないドメインからのメールを拒否",
-      "url": "https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 07:00:00 +0900",
-      "scrapedAt": "2026-11-12T02:47:36.537Z"
-    },
-    {
-      "id": "yfmc8n",
-      "title": "テスト中の「ホワイトハッカーAI」が脱走。実在する会社の顧客データを盗み出してしまう",
-      "url": "https://www.gizmodo.jp/article/2611-white-hacker-ai-data-breach/",
+      "id": "l6upvl",
+      "title": "もうアメリカを頼りません？ HUAWEIが部品100%中国製のPCを発表した",
+      "url": "https://www.gizmodo.jp/article/2611-huawei-qingyun-hm650-harmonyos/",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 22:00:00 GMT",
-      "scrapedAt": "2026-11-12T02:47:37.084Z"
+      "publishedAt": "Thu, 12 Nov 2026 23:00:00 GMT",
+      "scrapedAt": "2026-11-13T02:29:55.331Z"
     },
     {
-      "id": "fp1a4e",
-      "title": "iPhone DuoはiPhone 18 Proと同じチップでもGPU性能に差、発熱や電池持ちなどのベンチマーク結果が公開される",
-      "url": "https://gigazine.net/news/20261112-iphone-duo-benchmark-battery/",
+      "id": "wpeftl",
+      "title": "無料でAWSをローカル環境で再現できるAmazon公式エミュレーターが登場",
+      "url": "https://gigazine.net/news/20261113-aws-emulator/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Thu, 12 Nov 2026 06:00:00 +0900",
-      "scrapedAt": "2026-11-12T02:47:36.537Z"
+      "publishedAt": "Fri, 13 Nov 2026 07:00:00 +0900",
+      "scrapedAt": "2026-11-13T02:29:54.793Z"
     },
     {
-      "id": "g9cc9x",
-      "title": "テストフレームワーク「Playwright」がBunを正式サポート。テストランナーの実行を可能に",
-      "url": "https://www.publickey1.jp/blog/26/playwrightbun.html",
+      "id": "jird6t",
+      "title": "OpenAIが開発中の「次期サイバー特化AI」がとんでもなさそう",
+      "url": "https://www.gizmodo.jp/article/2611-openai-next-gen-cyber-ai-exploitgym/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Thu, 12 Nov 2026 22:00:00 GMT",
+      "scrapedAt": "2026-11-13T02:29:55.331Z"
+    },
+    {
+      "id": "oxms2v",
+      "title": "Microsoft 365で大規模障害　「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 13 Nov 2026 06:41:21 +0900",
+      "scrapedAt": "2026-11-13T02:29:55.298Z"
+    },
+    {
+      "id": "6d7noj",
+      "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
+      "url": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
       "source": "Publickey",
       "category": "プログラミング",
       "summary": "",
-      "publishedAt": "2026-11-11T15:07:35.000Z",
-      "scrapedAt": "2026-11-12T02:47:36.563Z"
+      "publishedAt": "2026-11-12T15:13:43.000Z",
+      "scrapedAt": "2026-11-13T02:29:54.825Z"
     },
     {
-      "id": "z3zjbw",
-      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
-      "url": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
+      "id": "qh9i5p",
+      "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミュレータ」正式リリース",
+      "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
       "source": "Publickey",
       "category": "プログラミング",
       "summary": "",
-      "publishedAt": "2026-11-11T15:04:47.000Z",
-      "scrapedAt": "2026-11-12T02:47:36.563Z"
+      "publishedAt": "2026-11-12T15:09:51.000Z",
+      "scrapedAt": "2026-11-13T02:29:54.825Z"
     },
     {
-      "id": "vbmw01",
-      "title": "ITエンジニアが選ぶ「ITエンジニア本大賞2027」投票スタート",
-      "url": "https://www.publickey1.jp/blog/26/itit2027.html",
-      "source": "Publickey",
-      "category": "プログラミング",
+      "id": "f463ok",
+      "title": "NVIDIA、“革ジャンCEO”ことフアン氏が辞任　クレスCFOが暫定CEOに",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-11T15:01:02.000Z",
-      "scrapedAt": "2026-11-12T02:47:36.563Z"
+      "publishedAt": "Thu, 12 Nov 2026 23:53:52 +0900",
+      "scrapedAt": "2026-11-13T02:29:55.298Z"
     },
     {
-      "id": "hf6l27",
-      "title": "無料でWebサイト・DNS・AWS認証情報・クレカ・機密文書などにおとりを設置して不審な操作を検知できる「Canarytokens」、インストール不要でセルフホストにも対応",
-      "url": "https://gigazine.net/news/20261111-canarytokens/",
+      "id": "ha2f2l",
+      "title": "NVIDIAのジェンスン・フアンがCEOを辞任",
+      "url": "https://gigazine.net/news/20261112-nvidia-jensen-huang-resigns/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 23:00:00 +0900",
-      "scrapedAt": "2026-11-12T02:47:36.537Z"
+      "publishedAt": "Thu, 12 Nov 2026 23:16:00 +0900",
+      "scrapedAt": "2026-11-13T02:29:54.793Z"
     },
     {
-      "id": "pci2ay",
-      "title": "可愛いからと送ったニコニコ絵文字。Andoridユーザーには、煽り倒しているように映っていた",
-      "url": "https://www.gizmodo.jp/article/emoji-difference-btw-iphone-android-smile/",
+      "id": "mso551",
+      "title": "【速報】NVIDIA CEOのジェンスン氏が辞任。暫定CEOにコレット氏",
+      "url": "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-resigns/",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 14:00:00 GMT",
-      "scrapedAt": "2026-11-12T02:47:37.084Z"
+      "publishedAt": "Thu, 12 Nov 2026 14:05:00 GMT",
+      "scrapedAt": "2026-11-13T02:29:55.331Z"
     },
     {
-      "id": "bge4oa",
-      "title": "日本海溝の深海生物に「謎のカプセル」が付着。“未知の生物”の産卵かも",
-      "url": "https://www.gizmodo.jp/article/japan_trench_sea_spider_capsule/",
+      "id": "2i2rry",
+      "title": "長期反復タスクにおけるAIコーディングエージェントの性能低下をベンチマークする「SlopCodeBench」",
+      "url": "https://gigazine.net/news/20261112-slopcodebench/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Thu, 12 Nov 2026 23:00:00 +0900",
+      "scrapedAt": "2026-11-13T02:29:54.793Z"
+    },
+    {
+      "id": "af1hic",
+      "title": "小さく運んで大きく使う。ガラケーみたいなキャンピング・トレーラー",
+      "url": "https://www.gizmodo.jp/article/urbanoid-booba-wzs-ngf/",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 13:00:00 GMT",
-      "scrapedAt": "2026-11-12T02:47:37.084Z"
+      "publishedAt": "Thu, 12 Nov 2026 14:00:00 GMT",
+      "scrapedAt": "2026-11-13T02:29:55.331Z"
     },
     {
-      "id": "uw2950",
-      "title": "AdobeアプリをChatGPTやClaudeから動かせることが意味するもの",
-      "url": "https://www.gizmodo.jp/article/adobe-mcp-integration-chatgpt-claude/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 12:45:00 GMT",
-      "scrapedAt": "2026-11-12T02:47:37.084Z"
-    },
-    {
-      "id": "myjpy",
-      "title": "OpenCodeを拡張して、複数の担当と定期実行をひとつのチャットにまとめる「いちょまる」を作った",
-      "url": "https://zenn.dev/theoj/articles/opencode-development-log",
-      "source": "Zenn",
-      "category": "プログラミング",
-      "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 12:38:35 GMT",
-      "scrapedAt": "2026-11-12T02:47:36.638Z"
-    },
-    {
-      "id": "6wlk1j",
-      "title": "AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功",
-      "url": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/",
+      "id": "21wmpa",
+      "title": "GmailやGoogleフォトの情報をGoogle検索のAIや広告に使わせないための設定方法まとめ",
+      "url": "https://gigazine.net/news/20261112-google-gmail-photos-search-ads/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 21:00:00 +0900",
-      "scrapedAt": "2026-11-12T02:47:36.537Z"
+      "publishedAt": "Thu, 12 Nov 2026 22:36:00 +0900",
+      "scrapedAt": "2026-11-13T02:29:54.793Z"
     },
     {
-      "id": "979opq",
-      "title": "「黒いU.F.O.」「黒いカレーメシ」「黒いどん兵衛」試食レビュー、「背徳こそ正義！」とアピールする3品の味を確かめてみた",
-      "url": "https://gigazine.net/news/20261111-nissin-immoral-black/",
+      "id": "1rrsng",
+      "title": "【備忘録】Transformerを数式レベルからnumpyのみで実装して理解する（②Backward Propagation編）",
+      "url": "https://zenn.dev/matsu8/articles/a01ba3fc713e03",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Thu, 12 Nov 2026 13:30:40 GMT",
+      "scrapedAt": "2026-11-13T02:29:54.938Z"
+    },
+    {
+      "id": "1ytb3",
+      "title": "レーザー兵器を搭載したAI潜水ロボット3500台がサケ養殖場を巡回しサケジラミを駆除して1億1200万匹の魚を守っている",
+      "url": "https://gigazine.net/news/20261112-stingray-marine-solutions-ai-robots-salmon/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 20:05:00 +0900",
-      "scrapedAt": "2026-11-12T02:47:36.537Z"
+      "publishedAt": "Thu, 12 Nov 2026 21:00:00 +0900",
+      "scrapedAt": "2026-11-13T02:29:54.793Z"
     },
     {
-      "id": "f0u22v",
-      "title": "2027年にも「超人的AI研究者(SAR)」が登場する可能性が高いとAI研究者らが予測、全ホワイトカラー業務の自動化AIも2028年までに登場か",
-      "url": "https://gigazine.net/news/20261111-superhuman-ai-researcher-2027/",
+      "id": "2r0taj",
+      "title": "データセンターがスプリンクラーの「誤作動」で水浸しになりかけた事例",
+      "url": "https://gigazine.net/news/20261112-false-smoke-alarm-datacenter/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 20:00:00 +0900",
-      "scrapedAt": "2026-11-12T02:47:36.537Z"
+      "publishedAt": "Thu, 12 Nov 2026 19:00:00 +0900",
+      "scrapedAt": "2026-11-13T02:29:54.793Z"
     },
     {
-      "id": "m82k9e",
-      "title": "靖国神社に不正アクセス　約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
+      "id": "19wugt",
+      "title": "宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性　リスト型攻撃か",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/",
       "source": "ITmedia NEWS",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 19:11:24 +0900",
-      "scrapedAt": "2026-11-12T02:47:37.168Z"
+      "publishedAt": "Thu, 12 Nov 2026 18:54:27 +0900",
+      "scrapedAt": "2026-11-13T02:29:55.298Z"
     },
     {
-      "id": "2xjwta",
-      "title": "Real2Sim2Realの現在地：現場スキャンからロボット検証環境へ",
-      "url": "https://zenn.dev/kudan_jp/articles/a0cb75384f4a83",
+      "id": "agxh5",
+      "title": "SONYやAppleやGoogleに「テレビでユーザーの画面や音声を収集しているか？」と質問した結果が公開される",
+      "url": "https://gigazine.net/news/20261112-tv-manufacturer-questions/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Thu, 12 Nov 2026 18:50:00 +0900",
+      "scrapedAt": "2026-11-13T02:29:54.793Z"
+    },
+    {
+      "id": "gg0vxl",
+      "title": "Tauri の MSI インストーラーが更新のたびに削除済みデスクトップショートカットを復活させる問題を直した話",
+      "url": "https://zenn.dev/takahiro_nago/articles/article-tauri-msi-desktop-shortcut",
       "source": "Zenn",
       "category": "プログラミング",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 09:46:24 GMT",
-      "scrapedAt": "2026-11-12T02:47:36.638Z"
+      "publishedAt": "Thu, 12 Nov 2026 09:34:34 GMT",
+      "scrapedAt": "2026-11-13T02:29:54.938Z"
     },
     {
-      "id": "6sz7j8",
-      "title": "続くドコモ通信障害　一部除き復旧も、完全解消には至らず　原因は調査中",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
+      "id": "dglt6x",
+      "title": "介護現場の人手不足を補う「ヒト型助手ロボット」　遠隔で利用者見守る最新テクノロジーも",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003149/",
       "source": "ITmedia NEWS",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 18:36:04 +0900",
-      "scrapedAt": "2026-11-12T02:47:37.168Z"
+      "publishedAt": "Thu, 12 Nov 2026 17:30:48 +0900",
+      "scrapedAt": "2026-11-13T02:29:55.298Z"
     },
     {
-      "id": "300hh5",
-      "title": "メール配信のユミルリンク、不正アクセスで約4786万件漏えい　JR東海やアイスタイルに影響",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
+      "id": "gpfybv",
+      "title": "セキュリティの司令塔、韓国金融保安院がハッキング攻撃受け個人情報650件流出",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003148/",
       "source": "ITmedia NEWS",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 17:35:52 +0900",
-      "scrapedAt": "2026-11-12T02:47:37.168Z"
+      "publishedAt": "Thu, 12 Nov 2026 17:15:59 +0900",
+      "scrapedAt": "2026-11-13T02:29:55.298Z"
     },
     {
-      "id": "jnhcdb",
-      "title": "メモリ8GBでも快適？　Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
+      "id": "l8o0hi",
+      "title": "無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
       "source": "ITmedia NEWS",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 16:12:21 +0900",
-      "scrapedAt": "2026-11-12T02:47:37.168Z"
+      "publishedAt": "Thu, 12 Nov 2026 17:00:22 +0900",
+      "scrapedAt": "2026-11-13T02:29:55.298Z"
     },
     {
-      "id": "liuz0e",
-      "title": "まるで「自宅警備員」？　室内を自律飛行する防犯ドローン、Amazon傘下が発表　約4万円から",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003111/",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 15:43:42 +0900",
-      "scrapedAt": "2026-11-12T02:47:37.168Z"
-    },
-    {
-      "id": "t4jnu3",
-      "title": "前澤友作氏、Metaの“なりすまし広告”訴訟で控訴検討　東京地裁の請求棄却に「野放しでもOK？」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003108/",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 15:17:18 +0900",
-      "scrapedAt": "2026-11-12T02:47:37.168Z"
-    },
-    {
-      "id": "ilqpwo",
-      "title": "ISUCON2026 で優勝しました（準備編）",
-      "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
+      "id": "mtc0wv",
+      "title": "セキュリティ・キャンプ 2026 応募課題晒し",
+      "url": "https://zenn.dev/uvu/articles/758ee227a614ea",
       "source": "Zenn",
       "category": "プログラミング",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 05:05:46 GMT",
-      "scrapedAt": "2026-11-12T02:47:36.638Z"
+      "publishedAt": "Thu, 12 Nov 2026 06:45:01 GMT",
+      "scrapedAt": "2026-11-13T02:29:54.938Z"
     },
     {
-      "id": "qjj21z",
-      "title": "個人的な推し、Raycastの音声入力「Dictation」",
-      "url": "https://zenn.dev/miive/articles/aa272cc544ddf3",
+      "id": "ap4l91",
+      "title": "AWS EmulatorはAWS Blocksのモックを置き換えるのか？実際に動かして見えた「三つ目の層」",
+      "url": "https://zenn.dev/genda_jp/articles/18d1f780f6b41f",
       "source": "Zenn",
       "category": "プログラミング",
       "summary": "",
-      "publishedAt": "Wed, 11 Nov 2026 04:26:44 GMT",
-      "scrapedAt": "2026-11-12T02:47:36.638Z"
+      "publishedAt": "Thu, 12 Nov 2026 05:20:41 GMT",
+      "scrapedAt": "2026-11-13T02:29:54.938Z"
+    },
+    {
+      "id": "gwubhk",
+      "title": "週刊Cloudflare - 2026/11/08週",
+      "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_1101-1107",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Thu, 12 Nov 2026 04:54:55 GMT",
+      "scrapedAt": "2026-11-13T02:29:54.938Z"
+    },
+    {
+      "id": "tkd2sf",
+      "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
+      "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Thu, 12 Nov 2026 03:00:05 GMT",
+      "scrapedAt": "2026-11-13T02:29:54.938Z"
+    },
+    {
+      "id": "liqgjh",
+      "title": "Node.js 22 / 24 / 26 の脆弱性、自分のアプリが影響を受けるか確認する方法【2026年11月】",
+      "url": "https://zenn.dev/rakko_inc/articles/nodejs-security-nov-2026-proxy",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Thu, 12 Nov 2026 02:31:30 GMT",
+      "scrapedAt": "2026-11-13T02:29:54.938Z"
     }
   ],
   "dailySummary": "",
-  "generatedAt": "2026-11-12T02:47:42.099Z"
+  "generatedAt": "2026-11-13T02:30:00.225Z"
 }

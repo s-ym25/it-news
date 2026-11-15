@@ -1,0 +1,317 @@
+{
+  "date": "2026-11-15",
+  "items": [
+    {
+      "id": "p8bovg",
+      "title": "常時稼働エージェントの作り方（Claude公式ブログを資料化）",
+      "url": "https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:41:25.015Z",
+      "scrapedAt": "2026-11-15T01:41:25.015Z"
+    },
+    {
+      "id": "m7uwsm",
+      "title": "Building always-on agents",
+      "url": "https://claude.com/resources/articles/building-always-on-agents",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:41:25.015Z",
+      "scrapedAt": "2026-11-15T01:41:25.015Z"
+    },
+    {
+      "id": "mxl5l4",
+      "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
+      "url": "https://kawarimidoll.com/posts/202610182/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:41:25.015Z",
+      "scrapedAt": "2026-11-15T01:41:25.015Z"
+    },
+    {
+      "id": "x6v1qr",
+      "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
+      "url": "https://p2ptk.org/monopoly/5681",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:41:25.015Z",
+      "scrapedAt": "2026-11-15T01:41:25.015Z"
+    },
+    {
+      "id": "gpzhqi",
+      "title": "AI悪用の攻撃拠点、千台発見　サイトの弱点探索、不正侵入疑い",
+      "url": "https://www.47news.jp/15231027.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:41:25.015Z",
+      "scrapedAt": "2026-11-15T01:41:25.015Z"
+    },
+    {
+      "id": "x2b9h0",
+      "title": "「すげぇ！教科書とかで見たフロッピーや！！これで容量どれくらいあるんですか？」若者のほのぼのとした感想がぶっ刺さるネット民",
+      "url": "https://togetter.com/li/2770437",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:41:25.015Z",
+      "scrapedAt": "2026-11-15T01:41:25.015Z"
+    },
+    {
+      "id": "8h2y8q",
+      "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services",
+      "url": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:41:25.015Z",
+      "scrapedAt": "2026-11-15T01:41:25.015Z"
+    },
+    {
+      "id": "rfjywt",
+      "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+      "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:41:25.015Z",
+      "scrapedAt": "2026-11-15T01:41:25.015Z"
+    },
+    {
+      "id": "mr1199",
+      "title": "AIについての追記",
+      "url": "https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:41:25.015Z",
+      "scrapedAt": "2026-11-15T01:41:25.015Z"
+    },
+    {
+      "id": "jo98sn",
+      "title": "GitHub - libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux",
+      "url": "https://github.com/libracoder/kiri",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:41:25.015Z",
+      "scrapedAt": "2026-11-15T01:41:25.015Z"
+    },
+    {
+      "id": "go3mi2",
+      "title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明",
+      "url": "https://gigazine.net/news/20261115-dayjob-tax/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sun, 15 Nov 2026 10:00:00 +0900",
+      "scrapedAt": "2026-11-15T01:41:24.962Z"
+    },
+    {
+      "id": "j7z1pz",
+      "title": "NASA「アルテミス2号」が空に開けた穴によりGPSに誤差が発生",
+      "url": "https://www.gizmodo.jp/article/2611-artemis-2-gps-ionosphere-disturbance/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sun, 15 Nov 2026 01:00:00 GMT",
+      "scrapedAt": "2026-11-15T01:41:24.628Z"
+    },
+    {
+      "id": "3x0nia",
+      "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
+      "url": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sun, 15 Nov 2026 09:00:00 +0900",
+      "scrapedAt": "2026-11-15T01:41:24.962Z"
+    },
+    {
+      "id": "53yadd",
+      "title": "ナルシシストはSNSの登場で増加しているのか？",
+      "url": "https://gigazine.net/news/20261115-narcissists-sns/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sun, 15 Nov 2026 08:00:00 +0900",
+      "scrapedAt": "2026-11-15T01:41:24.962Z"
+    },
+    {
+      "id": "jn05ab",
+      "title": "サブスクの「解約忘れで課金」に待った。EUが新ルールを提案",
+      "url": "https://www.gizmodo.jp/article/2611-eu-subscription-cancellation-rule/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 23:00:00 GMT",
+      "scrapedAt": "2026-11-15T01:41:24.628Z"
+    },
+    {
+      "id": "bsoghg",
+      "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超　マスク氏らも賛同、米議会は追及継続",
+      "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sun, 15 Nov 2026 07:15:24 +0900",
+      "scrapedAt": "2026-11-15T01:41:24.779Z"
+    },
+    {
+      "id": "l0pgnb",
+      "title": "摂取量が多い人ほど認知機能が速く低下する傾向が見られた6種の甘味料とは？",
+      "url": "https://gigazine.net/news/20261114-sugar-substitutes-cognitive-decline/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 23:00:00 +0900",
+      "scrapedAt": "2026-11-15T01:41:24.962Z"
+    },
+    {
+      "id": "lorbm4",
+      "title": "まさかの「人力」AIだったAIスタートアップ、破産申請へ",
+      "url": "https://www.gizmodo.jp/article/2611-builder-ai-bankruptcy-human-ai/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 14:00:00 GMT",
+      "scrapedAt": "2026-11-15T01:41:24.628Z"
+    },
+    {
+      "id": "m0i1xz",
+      "title": "エヌビディアのフアンCEOが辞任。カリスマを失った巨大企業の行く末は？",
+      "url": "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-resignation/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 13:30:00 GMT",
+      "scrapedAt": "2026-11-15T01:41:24.628Z"
+    },
+    {
+      "id": "yk88mg",
+      "title": "高速回転するホイールが発する火花を超スローモーションで捉えたムービー",
+      "url": "https://gigazine.net/news/20261114-10-billion-sparks/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 21:30:00 +0900",
+      "scrapedAt": "2026-11-15T01:41:24.962Z"
+    },
+    {
+      "id": "l025yh",
+      "title": "無料で時間管理用のカレンダーとタスク管理用のToDoアプリの両方を1つのタイムラインにまとめる「Mitra」、CalDAV・Googleカレンダー・Appleカレンダー・Notion・Todoist・Tempoと双方向同期可能",
+      "url": "https://gigazine.net/news/20261114-mitra/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 21:00:00 +0900",
+      "scrapedAt": "2026-11-15T01:41:24.962Z"
+    },
+    {
+      "id": "4ewn2w",
+      "title": "Motorola公式、やらかす。次の折りたたみの名前を意図せずフライング",
+      "url": "https://www.gizmodo.jp/article/2611-motorola-razr-flex-2027/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 12:00:00 GMT",
+      "scrapedAt": "2026-11-15T01:41:24.628Z"
+    },
+    {
+      "id": "dlp84m",
+      "title": "日本では妻の収入が増えると夫はより多くの家事をするようになるのか？",
+      "url": "https://gigazine.net/news/20261114-japanese-wives-earn-more-husbands-households/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 20:00:00 +0900",
+      "scrapedAt": "2026-11-15T01:41:24.962Z"
+    },
+    {
+      "id": "ms6oeo",
+      "title": "Lightningは見捨てない、USB-Cも救う！ できるさ、このバッテリーならな！",
+      "url": "https://www.gizmodo.jp/article/2611-philips-lightning-usbc-power-bank/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 10:00:00 GMT",
+      "scrapedAt": "2026-11-15T01:41:24.628Z"
+    },
+    {
+      "id": "5s1i1o",
+      "title": "千葉・印西の駅前データセンター計画に不安の声。市が事業者に配慮を求める",
+      "url": "https://www.gizmodo.jp/article/2611-inzai-big-hop-datacenter-plan/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 09:30:00 GMT",
+      "scrapedAt": "2026-11-15T01:41:24.628Z"
+    },
+    {
+      "id": "e0lx42",
+      "title": "信じがたいけどほんと。常識がひっくり返る宇宙の話",
+      "url": "https://www.gizmodo.jp/article/2611-mind-blowing-space-facts/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 09:00:00 GMT",
+      "scrapedAt": "2026-11-15T01:41:24.628Z"
+    },
+    {
+      "id": "ww7vk6",
+      "title": "フォークソングがダンスミュージックに!? SpotifyがAIリミックスのサービスを開始か",
+      "url": "https://www.gizmodo.jp/article/spotify_ai_remix/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 08:35:00 GMT",
+      "scrapedAt": "2026-11-15T01:41:24.628Z"
+    },
+    {
+      "id": "7z1hdg",
+      "title": "Nape Pro SE × iPhone DuoでPCライクな操作感。「どこでも仕事場」の作り方",
+      "url": "https://www.gizmodo.jp/article/nape-pro-se-iphone-duo/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 08:00:00 GMT",
+      "scrapedAt": "2026-11-15T01:41:24.628Z"
+    },
+    {
+      "id": "ces9dj",
+      "title": "アメリカ全土で航空機の運航が一時停止、原因は通信ネットワーク更新によるシステムダウンか",
+      "url": "https://gigazine.net/news/20261114-faa-outage-caused-system-crash/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 13:41:00 +0900",
+      "scrapedAt": "2026-11-15T01:41:24.962Z"
+    },
+    {
+      "id": "5cd7uk",
+      "title": "ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている",
+      "url": "https://gigazine.net/news/20261114-developers-games-industry-using-generative-ai/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 13:00:00 +0900",
+      "scrapedAt": "2026-11-15T01:41:24.962Z"
+    },
+    {
+      "id": "9r9u2d",
+      "title": "現代のソフトウェアは劣化しているかもしれないが昔のソフトウェアはもっとひどかったという指摘",
+      "url": "https://gigazine.net/news/20261114-software-used-to-be-horrible/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sat, 14 Nov 2026 12:00:00 +0900",
+      "scrapedAt": "2026-11-15T01:41:24.962Z"
+    }
+  ],
+  "dailySummary": "",
+  "generatedAt": "2026-11-15T01:41:28.744Z"
+}

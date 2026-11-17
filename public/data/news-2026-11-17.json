@@ -1,0 +1,507 @@
+{
+  "date": "2026-11-17",
+  "items": [
+    {
+      "id": "6ke0k4",
+      "title": "スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/11/17/030254",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-17T04:23:33.447Z",
+      "scrapedAt": "2026-11-17T04:23:33.447Z"
+    },
+    {
+      "id": "fv3o7p",
+      "title": "AIが文学界を揺るがしている",
+      "url": "https://gigazine.net/news/20261116-ai-literary-world/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-17T04:23:33.447Z",
+      "scrapedAt": "2026-11-17T04:23:33.447Z"
+    },
+    {
+      "id": "9jpeda",
+      "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因　負荷増と容量減が重なり世界に波及",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-17T04:23:33.447Z",
+      "scrapedAt": "2026-11-17T04:23:33.447Z"
+    },
+    {
+      "id": "yl6fh7",
+      "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
+      "url": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-17T04:23:33.447Z",
+      "scrapedAt": "2026-11-17T04:23:33.447Z"
+    },
+    {
+      "id": "cc7o16",
+      "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測　GTIGのAI脅威レポート",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-17T04:23:33.447Z",
+      "scrapedAt": "2026-11-17T04:23:33.447Z"
+    },
+    {
+      "id": "rej1bc",
+      "title": "AIバブル崩壊間近な現状、AIが人類を滅ぼせるわけねーだろ - サッとぶ",
+      "url": "https://kei-1010.hatenablog.com/entry/2026/11/16/120828",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-17T04:23:33.447Z",
+      "scrapedAt": "2026-11-17T04:23:33.447Z"
+    },
+    {
+      "id": "sx7mxe",
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-17T04:23:33.447Z",
+      "scrapedAt": "2026-11-17T04:23:33.447Z"
+    },
+    {
+      "id": "xqtmov",
+      "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
+      "url": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-17T04:23:33.447Z",
+      "scrapedAt": "2026-11-17T04:23:33.447Z"
+    },
+    {
+      "id": "aqw5yi",
+      "title": "位置情報「流出」のルート　売買されるあなたの居場所",
+      "url": "https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-17T04:23:33.447Z",
+      "scrapedAt": "2026-11-17T04:23:33.447Z"
+    },
+    {
+      "id": "v5hry0",
+      "title": "マイクロソフト、ゲーミングPCなどの“空きGPU”をAI学習に活用する特許出願―提供した計算量に応じたクレジット付与の例も | Game*Spark - 国内・海外ゲーム情報サイト",
+      "url": "https://www.gamespark.jp/article/2026/11/16/174930.html",
+      "source": "はてなブックマーク テクノロジー",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "2026-11-17T04:23:33.447Z",
+      "scrapedAt": "2026-11-17T04:23:33.447Z"
+    },
+    {
+      "id": "uhkmq5",
+      "title": "MicrosoftがOutlookの大規模障害の原因を公表、2026年7月のバグ修正が引き金となりサーバーの80％以上が応答不能に",
+      "url": "https://gigazine.net/news/20261117-microsoft-outlook-incidents-updates/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 13:05:00 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.229Z"
+    },
+    {
+      "id": "u53qy6",
+      "title": "Uber、ドライバーの個人情報約8,000件が盗まれる",
+      "url": "https://www.gizmodo.jp/article/2611-uber-driver-data-breach-fireworks-ai/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 04:00:00 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.717Z"
+    },
+    {
+      "id": "xi6wz5",
+      "title": "米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003258/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 12:50:05 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.994Z"
+    },
+    {
+      "id": "wqv7yk",
+      "title": "NVIDIAが小型AIスパコンDGX Sparkを4台つなげてメモリ容量512GBを実現する「DGX Spark Developer Kit」を発表、最大700Bのモデルを実行可能",
+      "url": "https://gigazine.net/news/20261117-dgx-spark-developer-kit/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 12:37:00 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.229Z"
+    },
+    {
+      "id": "9whhk4",
+      "title": "モリサワや「mineo」など会員情報漏えい　マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 12:35:13 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.994Z"
+    },
+    {
+      "id": "v38rbj",
+      "title": "JPモルガン・チェースの技術的問題でアメリカのオンラインバンキングに次々と障害発生",
+      "url": "https://gigazine.net/news/20261117-bank-outage-chase/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 12:30:00 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.229Z"
+    },
+    {
+      "id": "p4dgx5",
+      "title": "iPhone Duo 2に向けてAppleが最優先に挙げるのは…、当然あの機能！",
+      "url": "https://www.gizmodo.jp/article/2611-iphone-duo-2-face-id-2/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 03:30:00 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.717Z"
+    },
+    {
+      "id": "wkup5m",
+      "title": "過去8年間中7年間で最も人気のあるパスワードは「123456」、日本人は「Onepiece1」もお気に入り",
+      "url": "https://gigazine.net/news/20261117-nordpass-most-common-passwords/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 12:26:00 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.229Z"
+    },
+    {
+      "id": "5funxd",
+      "title": "Hugging Faceのモデル公開ページでOpenRouterのルーティングサービスを用いたチャットが可能に",
+      "url": "https://gigazine.net/news/20261117-hugging-face-openrouter/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 12:20:00 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.229Z"
+    },
+    {
+      "id": "f3y2jk",
+      "title": "Boseが60万個以上のBluetoothスピーカー用バッテリーをリコール",
+      "url": "https://gigazine.net/news/20261117-bose-recalls-s1-pro/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 12:15:00 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.229Z"
+    },
+    {
+      "id": "416atx",
+      "title": "新型MacBook Proのリンゴ、どんな仕組みで光っているのか謎→分解した猛者現る",
+      "url": "https://www.gizmodo.jp/article/2611-macbook-pro-apple-logo-led-ifixit/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 03:15:00 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.717Z"
+    },
+    {
+      "id": "505991",
+      "title": "トランプ大統領がジェンスン・フアンのNVIDIAのCEO復帰を支持、一方で取締役会はフアンをCEOに戻す気なし",
+      "url": "https://gigazine.net/news/20261117-trump-backs-return-of-jensen-huang/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 12:10:00 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.229Z"
+    },
+    {
+      "id": "804aod",
+      "title": "2022年にGTA6の動画を90本流出させたハッカーが罪を認める",
+      "url": "https://gigazine.net/news/20261117-hacker-2022-gta-vi-leaks-pleads-guilty/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 12:04:00 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.229Z"
+    },
+    {
+      "id": "3lmfmg",
+      "title": "「キムチ」の乳酸菌が腸内からナノプラスチックを排出するのに役立つ可能性",
+      "url": "https://gigazine.net/news/20261117-bacterium-kimchi-flush-microplastics-gut/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.229Z"
+    },
+    {
+      "id": "tsdwn0",
+      "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？　ChatGPT、Claude、Gemini含む42サービスを米大が調査",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 12:00:00 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.994Z"
+    },
+    {
+      "id": "lq6yxb",
+      "title": "データセンターの近くでは、石炭火力の廃止が遅れがち",
+      "url": "https://www.gizmodo.jp/article/2611-data-centers-delay-coal-phaseout/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 03:00:00 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.717Z"
+    },
+    {
+      "id": "kevswj",
+      "title": "閲覧履歴や購入履歴などをもとに商品の値段を客ごとに変える「監視型価格設定」を禁止する法案をニューヨーク市議会が可決",
+      "url": "https://gigazine.net/news/20261117-nyc-surveillance-pricing-ban/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 11:45:00 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.229Z"
+    },
+    {
+      "id": "t0ik36",
+      "title": "GTA6を実況プレイする研究員、募集中。報酬1,600万円から",
+      "url": "https://www.gizmodo.jp/article/gta6-researcher-job-kalshi/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 02:45:00 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.717Z"
+    },
+    {
+      "id": "ahoem8",
+      "title": "禁断のハッキング端末「Flipper Zero」、車両盗難に使われまくる",
+      "url": "https://www.gizmodo.jp/article/2611-flipper-zero-car-theft-hacking/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 02:35:00 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.717Z"
+    },
+    {
+      "id": "2a3d92",
+      "title": "エヌビディア、早くもジェンスン・フアン前CEOの復帰を検討中？",
+      "url": "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-return/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 02:15:00 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.717Z"
+    },
+    {
+      "id": "op56nk",
+      "title": "「自宅で金属を3Dプリントできる時代」が来た。金属粉を使う家庭用3Dプリンター登場",
+      "url": "https://www.gizmodo.jp/article/home-metal-3d-printer-snowpod/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 02:00:00 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.717Z"
+    },
+    {
+      "id": "1u3u1p",
+      "title": "OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開　ChatGPTで探すと24時間アカウント停止の警告も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003254/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 10:45:02 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.994Z"
+    },
+    {
+      "id": "rafee1",
+      "title": "スパコン「富岳」不正アクセスで運用停止　研究データや外部接続用SSH鍵など流出の可能性　他システムへの接続試行も確認",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003253/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 10:44:12 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.994Z"
+    },
+    {
+      "id": "cc8i7g",
+      "title": "NTTの島田明社長、宇宙光通信構想を発表　月面インフラや宇宙データセンターの整備も",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003252/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 10:30:57 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.994Z"
+    },
+    {
+      "id": "8ucub3",
+      "title": "「京成スカイライナー」予約システム不正アクセス、最大約337万件の顧客情報漏えいか",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003250/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 10:09:00 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.994Z"
+    },
+    {
+      "id": "vk5rmt",
+      "title": "あのニトリがオーディオに殴り込み!? その実力を本社で確かめてきた",
+      "url": "https://www.gizmodo.jp/article/nitori-audio-home-appliances-2026/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 01:00:00 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.717Z"
+    },
+    {
+      "id": "xjlhe9",
+      "title": "OpenAI、Apollo ResearchやMETRなど外部4団体を社内に迎える「埋め込み型」安全性評価を開始",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003248/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 09:03:15 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.994Z"
+    },
+    {
+      "id": "keop3i",
+      "title": "OpenAIをカリフォルニア州が提訴　「AIエージェントの制御を80回以上失った」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003246/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 08:04:43 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.994Z"
+    },
+    {
+      "id": "yjlw33",
+      "title": "ナンバープレートだけでハックできる。自動車アプリにガバガバの脆弱性",
+      "url": "https://www.gizmodo.jp/article/2611-car-app-vulnerability-license-plate-hack/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Mon, 16 Nov 2026 23:00:00 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.717Z"
+    },
+    {
+      "id": "vqt0um",
+      "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因　負荷増と容量減が重なり世界に波及",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Tue, 17 Nov 2026 07:05:16 +0900",
+      "scrapedAt": "2026-11-17T04:23:33.994Z"
+    },
+    {
+      "id": "cbmbn7",
+      "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
+      "url": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "2026-11-16T18:30:31.000Z",
+      "scrapedAt": "2026-11-17T04:23:33.459Z"
+    },
+    {
+      "id": "o98m5r",
+      "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
+      "url": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "2026-11-16T15:23:28.000Z",
+      "scrapedAt": "2026-11-17T04:23:33.459Z"
+    },
+    {
+      "id": "xw48sn",
+      "title": "実践パスキー認証設計",
+      "url": "https://zenn.dev/yasuakiomokawa/articles/89f5c46e8effe9",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Mon, 16 Nov 2026 12:53:34 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.282Z"
+    },
+    {
+      "id": "fdbetb",
+      "title": "Kotlin Fest 2026 参加記",
+      "url": "https://zenn.dev/0st_ts/articles/d55862e1a134c2",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Mon, 16 Nov 2026 10:00:05 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.282Z"
+    },
+    {
+      "id": "kp9k3z",
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Mon, 16 Nov 2026 09:12:44 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.282Z"
+    },
+    {
+      "id": "fnw989",
+      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
+      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Mon, 16 Nov 2026 08:00:05 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.282Z"
+    },
+    {
+      "id": "mgqz19",
+      "title": "中編　LLM推論エンジンを作る",
+      "url": "https://zenn.dev/shozotanaka/articles/632191056c62f4",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Mon, 16 Nov 2026 07:46:05 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.282Z"
+    },
+    {
+      "id": "5h8u05",
+      "title": "Claudeで試験項目の自動消化を試す",
+      "url": "https://zenn.dev/sre_holdings/articles/29458d1ff4cc39",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Mon, 16 Nov 2026 07:24:54 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.282Z"
+    },
+    {
+      "id": "og7q6b",
+      "title": "前編　LLM推論エンジンを作る",
+      "url": "https://zenn.dev/shozotanaka/articles/7e86f85974eebb",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Mon, 16 Nov 2026 07:01:05 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.282Z"
+    },
+    {
+      "id": "h5gkoz",
+      "title": "Claude Codeが書いたコードを読む代わりにやっていること",
+      "url": "https://zenn.dev/linkedge/articles/claude-code-instead-of-reading-code",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Mon, 16 Nov 2026 05:04:44 GMT",
+      "scrapedAt": "2026-11-17T04:23:33.282Z"
+    }
+  ],
+  "dailySummary": "",
+  "generatedAt": "2026-11-17T04:23:38.430Z"
+}

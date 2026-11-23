@@ -1,337 +1,347 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "items": [
     {
-      "id": "dti8yt",
-      "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
-      "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
+      "id": "7nul0z",
+      "title": "ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ…→「これマジでクソ過ぎてAdobe系製品全部消したい」",
+      "url": "https://posfie.com/@petaritape/p/tgzVdbL",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-22T02:00:52.774Z",
-      "scrapedAt": "2026-11-22T02:00:52.774Z"
+      "publishedAt": "2026-11-23T02:25:58.835Z",
+      "scrapedAt": "2026-11-23T02:25:58.835Z"
     },
     {
-      "id": "sp5r2l",
-      "title": "\"リーマン予想の証明\"の検証は現在どこまで進んでいるか｜加藤文元",
-      "url": "https://note.com/katobungen/n/n9c2bb939b9c7",
+      "id": "9ts12v",
+      "title": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ",
+      "url": "https://note.com/yamac_/n/n198bdc344c64",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-22T02:00:52.774Z",
-      "scrapedAt": "2026-11-22T02:00:52.774Z"
+      "publishedAt": "2026-11-23T02:25:58.835Z",
+      "scrapedAt": "2026-11-23T02:25:58.835Z"
     },
     {
-      "id": "2uxwi3",
-      "title": "KARTEを選んだのは顧客の私じゃない｜しがないサラリーマン",
-      "url": "https://note.com/kochan34123412/n/nf37511e42de9",
+      "id": "9ney3i",
+      "title": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita",
+      "url": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-22T02:00:52.774Z",
-      "scrapedAt": "2026-11-22T02:00:52.774Z"
+      "publishedAt": "2026-11-23T02:25:58.835Z",
+      "scrapedAt": "2026-11-23T02:25:58.835Z"
     },
     {
-      "id": "1ri23o",
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "id": "t1i6aj",
+      "title": "2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま",
+      "url": "https://note.com/cgbeginner/n/n5856d402f125",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-22T02:00:52.774Z",
-      "scrapedAt": "2026-11-22T02:00:52.774Z"
+      "publishedAt": "2026-11-23T02:25:58.835Z",
+      "scrapedAt": "2026-11-23T02:25:58.835Z"
     },
     {
-      "id": "iyi3pb",
-      "title": "無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能",
-      "url": "https://gigazine.net/news/20261121-wyrmrss/",
+      "id": "cybuh1",
+      "title": "なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一されてない..",
+      "url": "https://anond.hatelabo.jp/20261122011458",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-22T02:00:52.774Z",
-      "scrapedAt": "2026-11-22T02:00:52.774Z"
+      "publishedAt": "2026-11-23T02:25:58.835Z",
+      "scrapedAt": "2026-11-23T02:25:58.835Z"
     },
     {
-      "id": "z5jhmq",
-      "title": "情報漏えいを公表しないリスクの要点整理 - Qiita",
-      "url": "https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2",
+      "id": "4qjryy",
+      "title": "AndroidスマホがWindows PCのサブ画面に？マイクロソフトが新機能 - すまほん!!",
+      "url": "https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-22T02:00:52.774Z",
-      "scrapedAt": "2026-11-22T02:00:52.774Z"
+      "publishedAt": "2026-11-23T02:25:58.835Z",
+      "scrapedAt": "2026-11-23T02:25:58.835Z"
     },
     {
-      "id": "5a75ll",
-      "title": "GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.",
-      "url": "https://github.com/mitaku/andon",
+      "id": "41egq1",
+      "title": "工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想",
+      "url": "https://anond.hatelabo.jp/20261122140104",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-22T02:00:52.774Z",
-      "scrapedAt": "2026-11-22T02:00:52.774Z"
+      "publishedAt": "2026-11-23T02:25:58.835Z",
+      "scrapedAt": "2026-11-23T02:25:58.835Z"
     },
     {
-      "id": "8031ud",
-      "title": "新宿駅で財布を忘れて家に帰れない女の子から「PayPay1000円分を現金で交換して貰えませんか？」とお願いされ、「返さなくていいよ」と1000円あげたら喜ばれず戸惑っていた",
-      "url": "https://togetter.com/li/2773268",
+      "id": "swerso",
+      "title": "[アップデート]AWSアカウント作成がとんでもなく別物になったので動作の違いを見てみた[新しいAWSエクスペリエンス] | DevelopersIO",
+      "url": "https://dev.classmethod.jp/articles/new-aws-signup/",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-22T02:00:52.774Z",
-      "scrapedAt": "2026-11-22T02:00:52.774Z"
+      "publishedAt": "2026-11-23T02:25:58.835Z",
+      "scrapedAt": "2026-11-23T02:25:58.835Z"
     },
     {
-      "id": "nz9wd4",
-      "title": "GitHub - fkubota/understand-mode: Claude Code の出力・PR・コードを、付箋のホワイトボードで寄り道しながら理解する /understand スキル",
-      "url": "https://github.com/fkubota/understand-mode",
+      "id": "z6jw4q",
+      "title": "ここまで情報漏洩してもGoogle、Amazon、Apple辺りがやらかしていないのは流石では？→漏洩させている側がサイバー攻撃用にクラウドを使っているからできない説が浮上",
+      "url": "https://togetter.com/li/2773653",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-22T02:00:52.774Z",
-      "scrapedAt": "2026-11-22T02:00:52.774Z"
+      "publishedAt": "2026-11-23T02:25:58.835Z",
+      "scrapedAt": "2026-11-23T02:25:58.835Z"
     },
     {
-      "id": "4djwwg",
-      "title": "「AIが私を追い越した」　リーマン予想「証明」の数学者自身も驚き：朝日新聞",
-      "url": "https://www.asahi.com/articles/ASVCP2WB0VCPDIFI008M.html",
+      "id": "vtox2n",
+      "title": "「委託したとこ全部漏洩してんじゃんよ💢」プレイド『KARTE』の不正アクセスで、ZOZOTOWNや三菱UFJ銀行など影響を受けた企業が次々判明…不安や警戒の声が広がる",
+      "url": "https://togetter.com/li/2773732",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-22T02:00:52.774Z",
-      "scrapedAt": "2026-11-22T02:00:52.774Z"
+      "publishedAt": "2026-11-23T02:25:58.835Z",
+      "scrapedAt": "2026-11-23T02:25:58.835Z"
     },
     {
-      "id": "negv6e",
-      "title": "Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中",
-      "url": "https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/",
+      "id": "sxhmrw",
+      "title": "足元・手元にジャストサイズのぬくもり。3COINSのヒーターは小さくて自分だけ暖かい",
+      "url": "https://www.gizmodo.jp/article/3coins-compact-heater/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Mon, 23 Nov 2026 02:00:00 GMT",
+      "scrapedAt": "2026-11-23T02:25:58.777Z"
+    },
+    {
+      "id": "uk44p5",
+      "title": "Amazonが配送業務の委託を阻止する配送保護法に対抗して配送物にラベルを貼り始める",
+      "url": "https://gigazine.net/news/20261123-amazon-complaining-nyc-council-shipping-labels/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Sun, 22 Nov 2026 11:00:00 +0900",
-      "scrapedAt": "2026-11-22T02:00:53.654Z"
+      "publishedAt": "Mon, 23 Nov 2026 10:00:00 +0900",
+      "scrapedAt": "2026-11-23T02:25:58.258Z"
     },
     {
-      "id": "ejwrcc",
-      "title": "SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘",
-      "url": "https://gigazine.net/news/20261122-signal-restricts-mobile-screenshots-threat-ai-surveillance/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Sun, 22 Nov 2026 10:30:00 +0900",
-      "scrapedAt": "2026-11-22T02:00:53.654Z"
-    },
-    {
-      "id": "qh3u0z",
-      "title": "多様性を受け入れるには「幸福感」が重要かもしれないとの研究結果",
-      "url": "https://gigazine.net/news/20261122-happiness-emotional-lever-openness-diversity/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Sun, 22 Nov 2026 09:00:00 +0900",
-      "scrapedAt": "2026-11-22T02:00:53.654Z"
-    },
-    {
-      "id": "ekk8sq",
-      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
-      "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+      "id": "ie9xke",
+      "title": "高級感のためだけじゃない　財布やバッグの新しいアイデアが“革製品”から生まれる理由",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003389/",
       "source": "ITmedia NEWS",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Sun, 22 Nov 2026 08:21:31 +0900",
-      "scrapedAt": "2026-11-22T02:00:53.020Z"
+      "publishedAt": "Mon, 23 Nov 2026 10:00:00 +0900",
+      "scrapedAt": "2026-11-23T02:25:58.837Z"
     },
     {
-      "id": "hq9d1l",
-      "title": "出社してオフィスで働く頻度の最適解とは？",
-      "url": "https://gigazine.net/news/20261122-work-at-office/",
+      "id": "oe5wp5",
+      "title": "世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？",
+      "url": "https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Sun, 22 Nov 2026 08:00:00 +0900",
-      "scrapedAt": "2026-11-22T02:00:53.654Z"
+      "publishedAt": "Mon, 23 Nov 2026 09:00:00 +0900",
+      "scrapedAt": "2026-11-23T02:25:58.258Z"
     },
     {
-      "id": "h0970o",
-      "title": "Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」",
-      "url": "https://www.gizmodo.jp/article/2611-inkleaf-dual-screen-ereader/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 23:00:00 GMT",
-      "scrapedAt": "2026-11-22T02:00:53.503Z"
-    },
-    {
-      "id": "kku8mo",
-      "title": "宇宙を夢見るバリスタ、募集中。時給3,590円",
-      "url": "https://www.gizmodo.jp/article/2611-spacex-barista-job-starbase-redmond/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 22:00:00 GMT",
-      "scrapedAt": "2026-11-22T02:00:53.503Z"
-    },
-    {
-      "id": "htafxz",
-      "title": "無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能",
-      "url": "https://gigazine.net/news/20261121-wyrmrss/",
+      "id": "3hkm7i",
+      "title": "「世界の果て」の島で19世紀の漂流者キャンプ跡と思われる場所が発見される",
+      "url": "https://gigazine.net/news/20261123-19th-century-shipwreck-found/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 23:00:00 +0900",
-      "scrapedAt": "2026-11-22T02:00:53.654Z"
+      "publishedAt": "Mon, 23 Nov 2026 08:00:00 +0900",
+      "scrapedAt": "2026-11-23T02:25:58.258Z"
     },
     {
-      "id": "art3js",
-      "title": "CTスキャンで明かされた少年ミイラの秘密。おそらく富裕層です",
-      "url": "https://www.gizmodo.jp/article/2611-golden-boy-mummy-ct-scan/",
+      "id": "uabk38",
+      "title": "安眠もイヤホンがもたらす時代。Ankerが睡眠デバイスに力を入れる理由",
+      "url": "https://www.gizmodo.jp/article/anker_sleep-earbuds-4-pro/",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
       "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 14:00:00 GMT",
-      "scrapedAt": "2026-11-22T02:00:53.503Z"
+      "publishedAt": "Sun, 22 Nov 2026 23:00:00 GMT",
+      "scrapedAt": "2026-11-23T02:25:58.777Z"
     },
     {
-      "id": "iciapi",
-      "title": "ヒヨコの脳細胞は酸素が極めて少なくても2時間以上生き延びる",
-      "url": "https://gigazine.net/news/20261121-chicken-brain-low-oxygen/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 22:00:00 +0900",
-      "scrapedAt": "2026-11-22T02:00:53.654Z"
-    },
-    {
-      "id": "t47jgn",
-      "title": "カーチェイスでも逃げ切れない。『グランド・セフト・オートV』の街に迫る海面上昇の脅威",
-      "url": "https://www.gizmodo.jp/article/2611-gta5-sea-level-rise-los-angeles-simulation/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 13:00:00 GMT",
-      "scrapedAt": "2026-11-22T02:00:53.503Z"
-    },
-    {
-      "id": "giy15m",
-      "title": "“何をどう撮るか”を考える至福。モノクロ版「写ルンです」は最高の風合い",
-      "url": "https://www.gizmodo.jp/article/fujifilm_utsurundesu-black-and-white_review/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 12:30:00 GMT",
-      "scrapedAt": "2026-11-22T02:00:53.503Z"
-    },
-    {
-      "id": "5owg9m",
-      "title": "AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果",
-      "url": "https://gigazine.net/news/20261121-ai-agents-leak-secrets/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 21:00:00 +0900",
-      "scrapedAt": "2026-11-22T02:00:53.654Z"
-    },
-    {
-      "id": "r5wxqq",
-      "title": "テカテカ、モコモコじゃないダウンが欲しいなら、出先では小さく携帯できるモンベルがいい",
-      "url": "https://www.gizmodo.jp/article/mont-bel_neigedownparka/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 12:00:00 GMT",
-      "scrapedAt": "2026-11-22T02:00:53.503Z"
-    },
-    {
-      "id": "1xt2rj",
-      "title": "自分の仕事が「天職」だと思うことは私生活や人生の満足度にどのような影響を与えるのか？",
-      "url": "https://gigazine.net/news/20261121-job-becomes-calling-well-being/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 20:00:00 +0900",
-      "scrapedAt": "2026-11-22T02:00:53.654Z"
-    },
-    {
-      "id": "ogsaw0",
-      "title": "猛暑、大雨、干ばつ、火災。今回のエルニーニョ、12月までに観測史上最強へ",
-      "url": "https://www.gizmodo.jp/article/2611-elnino-phenomenon-strongest-forecast/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 11:00:00 GMT",
-      "scrapedAt": "2026-11-22T02:00:53.503Z"
-    },
-    {
-      "id": "2w4in6",
-      "title": "トヨタの無人タクシー、もう客を乗せて走ってます。中国で24時間運行中",
-      "url": "https://www.gizmodo.jp/article/toyota-robotaxi-china/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 10:30:00 GMT",
-      "scrapedAt": "2026-11-22T02:00:53.503Z"
-    },
-    {
-      "id": "isojj7",
-      "title": "136gのスリッパが疲れた足を解放。蒸れにも配慮した暖かさで、外でも履ける",
-      "url": "https://www.gizmodo.jp/article/exped_camp-slipper/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 10:00:00 GMT",
-      "scrapedAt": "2026-11-22T02:00:53.503Z"
-    },
-    {
-      "id": "9i81w1",
-      "title": "均一で滑らかなペーストを作るのは3本のローラーなんだって",
-      "url": "https://www.gizmodo.jp/article/2611-three-roll-mill-sampe-japan-2026/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 09:30:00 GMT",
-      "scrapedAt": "2026-11-22T02:00:53.503Z"
-    },
-    {
-      "id": "76xzl4",
-      "title": "AlibabaのECサイト・AliExpressのブラックフライデーセールでミニPCはむしろ値上がりしていた",
-      "url": "https://gigazine.net/news/20261121-aliexpress-sale/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 16:30:00 +0900",
-      "scrapedAt": "2026-11-22T02:00:53.654Z"
-    },
-    {
-      "id": "v89s45",
-      "title": "AIは人並みに動画編集できる？　“バズる切り抜き”からガジェット開封動画まで2つのツールを試す",
-      "url": "https://www.itmedia.co.jp/news/article/2611/21/2000003387/",
+      "id": "eqzcoa",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
       "source": "ITmedia NEWS",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 15:38:29 +0900",
-      "scrapedAt": "2026-11-22T02:00:53.020Z"
+      "publishedAt": "Mon, 23 Nov 2026 07:49:18 +0900",
+      "scrapedAt": "2026-11-23T02:25:58.837Z"
     },
     {
-      "id": "f1zf71",
-      "title": "宇宙の温度の約2800億分の1まで原子を冷却することに成功",
-      "url": "https://gigazine.net/news/20261121-10-picokelvin-quantum/",
+      "id": "kk1rzx",
+      "title": "NASA、1年間「月と火星」に住む4人を募集中。謝礼も出ます",
+      "url": "https://www.gizmodo.jp/article/nasa-moon-mars-analog-volunteers/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 22:00:00 GMT",
+      "scrapedAt": "2026-11-23T02:25:58.777Z"
+    },
+    {
+      "id": "q6ttc0",
+      "title": "ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」",
+      "url": "https://gigazine.net/news/20261123-lastbook-offline-knowledge/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 15:00:00 +0900",
-      "scrapedAt": "2026-11-22T02:00:53.654Z"
+      "publishedAt": "Mon, 23 Nov 2026 00:14:00 +0900",
+      "scrapedAt": "2026-11-23T02:25:58.258Z"
     },
     {
-      "id": "ykcfur",
-      "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
-      "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
+      "id": "noe5hc",
+      "title": "「PCの父」のオススメ本・史上最高の小説100選・ソニー「WF-1000XM5」レビューなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年10月版はコレ！",
+      "url": "https://gigazine.net/news/20261123-gigazine-kindle-ranking-2026-10/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Mon, 23 Nov 2026 00:00:00 +0900",
+      "scrapedAt": "2026-11-23T02:25:58.258Z"
+    },
+    {
+      "id": "yjebyd",
+      "title": "アニメ『死亡遊戯で飯を食う。』続編制作決定、「この世界で、生きてみようと思った」",
+      "url": "https://gigazine.net/news/20261122-anime-shiboyugi/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 23:59:00 +0900",
+      "scrapedAt": "2026-11-23T02:25:58.258Z"
+    },
+    {
+      "id": "x3dl27",
+      "title": "無料でSSOだけに特化してユーザーとグループを作成・管理できる「Pocket ID」、パスキーのみをベースに構築されいくつでも追加できてセルフホストも可能",
+      "url": "https://gigazine.net/news/20261122-pocket-id/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 23:00:00 +0900",
+      "scrapedAt": "2026-11-23T02:25:58.258Z"
+    },
+    {
+      "id": "x0nn82",
+      "title": "君はエイリアンか? はたまたイチゴか? 腕20本の動物が南極で発見",
+      "url": "https://www.gizmodo.jp/article/2611-new-antarctic-strawberry-feather-star-species/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 14:00:00 GMT",
+      "scrapedAt": "2026-11-23T02:25:58.777Z"
+    },
+    {
+      "id": "sjkqlb",
+      "title": "中国ではAIリテラシー向上を目指して学校でAIに焦点を当てたカリキュラムや主要教科におけるAI生成型の授業を採用している",
+      "url": "https://gigazine.net/news/20261122-chinas-ai-native/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 22:45:00 +0900",
+      "scrapedAt": "2026-11-23T02:25:58.258Z"
+    },
+    {
+      "id": "xbzky3",
+      "title": "ピークはまだ先。史上最強エルニーニョで、CO2の観測値がエグいことになりそう",
+      "url": "https://www.gizmodo.jp/article/2611-super-el-nino-wildfires/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 13:30:00 GMT",
+      "scrapedAt": "2026-11-23T02:25:58.777Z"
+    },
+    {
+      "id": "2mppdq",
+      "title": "生殖器をこすることでコウモリから身を守る「ガ」がいる",
+      "url": "https://gigazine.net/news/20261122-hawkmoth-ultrasound-defense/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 21:00:00 +0900",
+      "scrapedAt": "2026-11-23T02:25:58.258Z"
+    },
+    {
+      "id": "an0h6u",
+      "title": "失った“読む視力”を取り戻す、たった2ミリのチップ",
+      "url": "https://www.gizmodo.jp/article/science-prima-retinal-implant/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 12:00:00 GMT",
+      "scrapedAt": "2026-11-23T02:25:58.777Z"
+    },
+    {
+      "id": "imsl9n",
+      "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
+      "url": "https://www.gizmodo.jp/article/2611-yamashina-seiki-batasla/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 11:30:00 GMT",
+      "scrapedAt": "2026-11-23T02:25:58.777Z"
+    },
+    {
+      "id": "hfe476",
+      "title": "AIがAIを作る時代が近い？ Anthropicですら“開発の加速”についていけなくなりつつある",
+      "url": "https://www.gizmodo.jp/article/anthropic-ai-development-acceleration/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 11:00:00 GMT",
+      "scrapedAt": "2026-11-23T02:25:58.777Z"
+    },
+    {
+      "id": "jopu2b",
+      "title": "アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？",
+      "url": "https://www.gizmodo.jp/article/anthropic-goes-for-microsofts-crown-with-new-claude-powered-office-tools/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 10:30:00 GMT",
+      "scrapedAt": "2026-11-23T02:25:58.777Z"
+    },
+    {
+      "id": "lyl1hb",
+      "title": "AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される",
+      "url": "https://www.gizmodo.jp/article/openai-sued-california-ai-hacking-incident/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 10:00:00 GMT",
+      "scrapedAt": "2026-11-23T02:25:58.777Z"
+    },
+    {
+      "id": "ncucko",
+      "title": "Waymoの自動運転車が冠水した道路で立ち往生",
+      "url": "https://gigazine.net/news/20261122-waymo-flooded-lanes/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 18:37:00 +0900",
+      "scrapedAt": "2026-11-23T02:25:58.258Z"
+    },
+    {
+      "id": "9atqpw",
+      "title": "SideLoadをしよう！〜SideStoreをiPhone単体で入れる〜(SideInstaller編)",
+      "url": "https://zenn.dev/l_port8000/articles/7550549e6e9970",
       "source": "Zenn",
       "category": "プログラミング",
       "summary": "",
-      "publishedAt": "Sat, 21 Nov 2026 02:12:39 GMT",
-      "scrapedAt": "2026-11-22T02:00:52.596Z"
+      "publishedAt": "Sun, 22 Nov 2026 03:46:17 GMT",
+      "scrapedAt": "2026-11-23T02:25:58.238Z"
+    },
+    {
+      "id": "owgoo0",
+      "title": "Next.jsのストリーミングはLambda Web Functionsで動くか",
+      "url": "https://zenn.dev/ryota_09/articles/nextjs-suspense-streaming-lambda-web-functions",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Sun, 22 Nov 2026 02:30:19 GMT",
+      "scrapedAt": "2026-11-23T02:25:58.238Z"
     }
   ],
   "dailySummary": "",
-  "generatedAt": "2026-11-22T02:00:57.482Z"
+  "generatedAt": "2026-11-23T02:26:02.605Z"
 }

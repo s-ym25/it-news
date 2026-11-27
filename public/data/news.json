@@ -1,155 +1,445 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "items": [
     {
-      "id": "z5c3fu",
-      "title": "日本語サイトで指定しておきたいCSS 2026年版 - Qiita",
-      "url": "https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e",
+      "id": "h5iicc",
+      "title": "情報量が4倍のQRコードを作ろう - Qiita",
+      "url": "https://qiita.com/reipandada/items/17496db6ac5f64a5e61a",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-26T04:02:48.802Z",
-      "scrapedAt": "2026-11-26T04:02:48.802Z"
+      "publishedAt": "2026-11-27T04:01:05.567Z",
+      "scrapedAt": "2026-11-27T04:01:05.567Z"
     },
     {
-      "id": "407pmw",
-      "title": "1Password、従業員のGitHubアカウント経由で顧客の氏名とメールアドレスが流出したと発表 — BigGo ファイナンス",
-      "url": "https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46",
+      "id": "1vctyv",
+      "title": "さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定",
+      "url": "https://www.publickey1.jp/blog/26/aiai_1.html",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-26T04:02:48.802Z",
-      "scrapedAt": "2026-11-26T04:02:48.802Z"
+      "publishedAt": "2026-11-27T04:01:05.567Z",
+      "scrapedAt": "2026-11-27T04:01:05.567Z"
     },
     {
-      "id": "6vpgns",
-      "title": "MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev",
-      "url": "https://dev.sin5d.com/meta-muse-usage",
+      "id": "4b9e92",
+      "title": "米、スペースXに衛星100万基の配備承認　宇宙にAIデータセンター構築へ",
+      "url": "https://www.cnn.co.jp/usa/35255487.html",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-26T04:02:48.802Z",
-      "scrapedAt": "2026-11-26T04:02:48.802Z"
+      "publishedAt": "2026-11-27T04:01:05.567Z",
+      "scrapedAt": "2026-11-27T04:01:05.567Z"
     },
     {
-      "id": "3sndz4",
-      "title": "「AI検索に電話番号が……」鳴りやまぬコールセンター　バッファローは壊れた「顧客導線」をどう改善した？",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/26/news015.html",
+      "id": "c3kwns",
+      "title": "AI使って開発するなら、モデリングするんだよ - 4つの図で始めるモデリングと、AIにモデルを実装させるアーキテクチャ",
+      "url": "https://speakerdeck.com/littlehands/umtp-suraido-20261125",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-26T04:02:48.802Z",
-      "scrapedAt": "2026-11-26T04:02:48.802Z"
+      "publishedAt": "2026-11-27T04:01:05.567Z",
+      "scrapedAt": "2026-11-27T04:01:05.567Z"
     },
     {
-      "id": "wrt293",
-      "title": "観測者から当事者へ、AI 時代にドメインへ深入りする知識と技術 / From Observer to Practitioner: Going Deep into Domains in the Age of AI",
-      "url": "https://speakerdeck.com/nrslib/from-observer-to-practitioner-going-deep-into-domains-in-the-age-of-ai",
+      "id": "34ws0",
+      "title": "2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX",
+      "url": "https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-26T04:02:48.802Z",
-      "scrapedAt": "2026-11-26T04:02:48.802Z"
+      "publishedAt": "2026-11-27T04:01:05.567Z",
+      "scrapedAt": "2026-11-27T04:01:05.567Z"
     },
     {
-      "id": "97t3zj",
-      "title": "Amazon Bedrockの存在意義がようやくわかったのに、新参者だと使えない話 - Sweet Escape",
-      "url": "https://www.keisuke69.net/entry/2026/11/26/085248",
+      "id": "8r2jzt",
+      "title": "デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る｜デジタル庁ニュース",
+      "url": "https://digital-agency-news.digital.go.jp/articles/2026-11-26",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-26T04:02:48.802Z",
-      "scrapedAt": "2026-11-26T04:02:48.802Z"
+      "publishedAt": "2026-11-27T04:01:05.567Z",
+      "scrapedAt": "2026-11-27T04:01:05.567Z"
     },
     {
-      "id": "vvjxrv",
-      "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
-      "url": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
+      "id": "e27nxa",
+      "title": "Skills over MCP、めっちゃよさそう | ashunar0",
+      "url": "https://ashunar0.dev/posts/skills-over-mcp/",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-26T04:02:48.802Z",
-      "scrapedAt": "2026-11-26T04:02:48.802Z"
+      "publishedAt": "2026-11-27T04:01:05.567Z",
+      "scrapedAt": "2026-11-27T04:01:05.567Z"
     },
     {
-      "id": "673ywd",
-      "title": "パスワード管理「1Password」でデータ流出、一部顧客の氏名やメールアドレスなど／パスワード保管庫やその鍵は無事、招待・復旧メールを装ったフィッシングに注意",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2159320.html",
+      "id": "a9xs8y",
+      "title": "Aniwaffle | Expressive, lovable AI voices for your characters",
+      "url": "https://aniwaffle.com/",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-26T04:02:48.802Z",
-      "scrapedAt": "2026-11-26T04:02:48.802Z"
+      "publishedAt": "2026-11-27T04:01:05.567Z",
+      "scrapedAt": "2026-11-27T04:01:05.567Z"
     },
     {
-      "id": "uh900m",
-      "title": "組織レベルごとの品質定義（リライト）｜snsk",
-      "url": "https://note.com/_snsk/n/n9473a6e95b1c",
+      "id": "pjq7pu",
+      "title": "【やじうまミニレビュー】 工具のマキタバッテリがPCの電源に!? 最大100Wの純正アダプタを使ってみた",
+      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2159706.html",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-26T04:02:48.802Z",
-      "scrapedAt": "2026-11-26T04:02:48.802Z"
+      "publishedAt": "2026-11-27T04:01:05.567Z",
+      "scrapedAt": "2026-11-27T04:01:05.567Z"
     },
     {
-      "id": "t2h1a0",
-      "title": "Update on a security incident involving 1Password’s backend systems. | 1Password",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "id": "outgfg",
+      "title": "SSH is a GUI framework | ssh zydra.sh",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
       "source": "はてなブックマーク テクノロジー",
       "category": "IT",
       "summary": "",
-      "publishedAt": "2026-11-26T04:02:48.802Z",
-      "scrapedAt": "2026-11-26T04:02:48.802Z"
+      "publishedAt": "2026-11-27T04:01:05.567Z",
+      "scrapedAt": "2026-11-27T04:01:05.567Z"
     },
     {
-      "id": "92fxda",
-      "title": "曲げたり引っ張ったりすればするほど強度を増す素材が開発される",
-      "url": "https://gigazine.net/news/20261126-get-stronger-polymer/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 12:30:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:48.741Z"
-    },
-    {
-      "id": "v8kxsz",
-      "title": "エルヴィスもエミネムも怒ってる？ 音楽生成AI「Suno」に2件の訴訟",
-      "url": "https://www.gizmodo.jp/article/2611-suno-ai-copyright-lawsuit-elvis-eminem/",
+      "id": "6ycs1",
+      "title": "ブレーカー落ちによるデータ消失に終止符を。「DELTA 3800 Gen4」がデスクに必須な理由",
+      "url": "https://www.gizmodo.jp/article/2611-ecoflow-delta-3800-gen4-blackout/",
       "source": "GIZMODO Japan",
       "category": "ガジェット",
       "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 03:30:00 GMT",
-      "scrapedAt": "2026-11-26T04:02:49.194Z"
+      "publishedAt": "Fri, 27 Nov 2026 04:00:00 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.851Z"
     },
     {
-      "id": "ge2zdv",
-      "title": "SNKのアーケードゲーム「メタルスラッグ」の実写化企画が進行中",
-      "url": "https://gigazine.net/news/20261126-metal-slug-movie/",
+      "id": "l87ge7",
+      "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+      "url": "https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 12:25:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:48.741Z"
+      "publishedAt": "Fri, 27 Nov 2026 12:40:00 +0900",
+      "scrapedAt": "2026-11-27T04:01:06.368Z"
     },
     {
-      "id": "32dfi5",
-      "title": "Googleがオープンモデル「Gemma 4」のファインチューニングに役立つ情報を網羅したページを公開、ファインチューニング用スキルもあり",
-      "url": "https://gigazine.net/news/20261126-gemma-4-fine-tune/",
+      "id": "4ag5qr",
+      "title": "中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告",
+      "url": "https://gigazine.net/news/20261127-asml-ceo-warn-to-export-ban/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 12:22:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:48.741Z"
+      "publishedAt": "Fri, 27 Nov 2026 12:35:00 +0900",
+      "scrapedAt": "2026-11-27T04:01:06.368Z"
     },
     {
-      "id": "punq9l",
-      "title": "男性の「精子の数や質」は本当に減少しているのか？",
-      "url": "https://gigazine.net/news/20261126-mens-sperm-counts-not-decline/",
+      "id": "14q32j",
+      "title": "DNAで『マインクラフト』のように立体構造を構築する技術が登場、合計400個のDNAブロックでナノサイズの複雑な構造の形成に成功",
+      "url": "https://gigazine.net/news/20261127-dna-polycube-like-minecraft/",
       "source": "Gigazine",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 12:00:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:48.741Z"
+      "publishedAt": "Fri, 27 Nov 2026 12:30:00 +0900",
+      "scrapedAt": "2026-11-27T04:01:06.368Z"
+    },
+    {
+      "id": "nmh15q",
+      "title": "1Passwordが不正アクセス被害。保管庫のパスワードは無事とのこと",
+      "url": "https://www.gizmodo.jp/article/2611-1password-security-breach-vaults-safe/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 03:30:00 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.851Z"
+    },
+    {
+      "id": "s8yqrr",
+      "title": "Amazonとコンビニよく使う人、スタメンはこのカードです",
+      "url": "https://www.gizmodo.jp/article/2611-amazon-mastercard/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 03:15:00 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.851Z"
+    },
+    {
+      "id": "xpoic4",
+      "title": "サブスクの「お試し→自動更新」は客を逃していた？　新規購読者数は「お試し→自動解約」比23％減　140万人で実験",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003503/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 12:00:00 +0900",
+      "scrapedAt": "2026-11-27T04:01:05.975Z"
+    },
+    {
+      "id": "isfsm9",
+      "title": "「フィッシング対策訓練」って実効性あるの？　約1.2万人に模擬メール送り検証、結果は……",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003502/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 12:00:00 +0900",
+      "scrapedAt": "2026-11-27T04:01:05.975Z"
+    },
+    {
+      "id": "d0z9vh",
+      "title": "ブラックフライデーで狙うならコレ。サブスク代なしで多機能な「RingConn Gen 2」",
+      "url": "https://www.gizmodo.jp/article/ringconn-gen-2-smartring/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 03:00:00 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.851Z"
+    },
+    {
+      "id": "azc8ta",
+      "title": "【Amazonブラックフライデーやりすぎ】在庫あるうちに「AirPods Pro3」回収して！ 9,000円値引きはちょっと異常",
+      "url": "https://www.gizmodo.jp/article/2611-airpods-pro-3-amazon-black-friday-sale/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 02:50:00 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.851Z"
+    },
+    {
+      "id": "oklula",
+      "title": "AmazonブラックフライデーでM6 Mac miniが13万3800円まで落ちた。もうこの値段で買える日は来ないのでは…",
+      "url": "https://www.gizmodo.jp/article/2611-m6-mac-mini-amazon-black-friday-sale/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 02:45:00 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.851Z"
+    },
+    {
+      "id": "qoqb2n",
+      "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
+      "url": "https://gigazine.net/news/20261127-character-ai-asset-sale/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 11:42:00 +0900",
+      "scrapedAt": "2026-11-27T04:01:06.368Z"
+    },
+    {
+      "id": "8730io",
+      "title": "もうスマホを開かなくてOK。睡眠を守るためのニトリ製プロジェクター時計",
+      "url": "https://www.gizmodo.jp/article/nitori-projection-digital-clock-px5-bazzy/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 02:35:00 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.851Z"
+    },
+    {
+      "id": "4s3qxt",
+      "title": "Androidアプリ開発者はまもなく自身の住所を公開しなければならなくなる",
+      "url": "https://gigazine.net/news/20261127-android-app-developers-have-to-share-address-publicly/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 11:24:00 +0900",
+      "scrapedAt": "2026-11-27T04:01:06.368Z"
+    },
+    {
+      "id": "3q64u2",
+      "title": "JAXA宇宙飛行士、5年ぶり募集へ　月面探査を担う人材育成",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003512/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 11:21:41 +0900",
+      "scrapedAt": "2026-11-27T04:01:05.975Z"
+    },
+    {
+      "id": "dy69jf",
+      "title": "置いたら、あとは任せるだけ。充電・データ回収に何度も通わなくていい4Gセキュリティカメラ",
+      "url": "https://www.gizmodo.jp/article/tapo-c665g-kit-security-camera/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 02:00:00 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.851Z"
+    },
+    {
+      "id": "baogyt",
+      "title": "X(旧Twitter)がついにペアレンタルコントロール機能を導入",
+      "url": "https://gigazine.net/news/20261127-x-finally-parental-controls/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 10:46:00 +0900",
+      "scrapedAt": "2026-11-27T04:01:06.368Z"
+    },
+    {
+      "id": "tsnyyd",
+      "title": "イーロン・マスクがアメリカのすべての子どもにSpaceX株を2株プレゼントすることを表明",
+      "url": "https://gigazine.net/news/20261127-elon-musk-spacex-every-child/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 10:45:00 +0900",
+      "scrapedAt": "2026-11-27T04:01:06.368Z"
+    },
+    {
+      "id": "jt6net",
+      "title": "アップルは「iPadでmacOSを動かすテスト」も行っていたらしい",
+      "url": "https://www.gizmodo.jp/article/apple-ipad-macos-test/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 01:45:00 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.851Z"
+    },
+    {
+      "id": "ruc53x",
+      "title": "NVIDIA・ATI・3dfxの往年のGPUデモ36種類をブラウザ上で楽しめる「GPU Demo Gallery」",
+      "url": "https://gigazine.net/news/20261127-gpu-demo-gallery/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 10:43:00 +0900",
+      "scrapedAt": "2026-11-27T04:01:06.368Z"
+    },
+    {
+      "id": "glal0x",
+      "title": "三井ショッピングパーク、約312万会員の個人情報漏えい　アプリに不正アクセス",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003510/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 10:33:52 +0900",
+      "scrapedAt": "2026-11-27T04:01:05.975Z"
+    },
+    {
+      "id": "e13uhc",
+      "title": "「気絶買い」を繰り返した編集部員、 夢のホームシアターを手に入れる",
+      "url": "https://www.gizmodo.jp/article/expand-sonos-27-products-to-build-a-home-theater/",
+      "source": "GIZMODO Japan",
+      "category": "ガジェット",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 01:30:00 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.851Z"
+    },
+    {
+      "id": "s2t8mb",
+      "title": "航空会社Peach、「KARTE」から最大約944万件の顧客情報漏えい　契約終了後も削除されず残存",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003509/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 09:55:22 +0900",
+      "scrapedAt": "2026-11-27T04:01:05.975Z"
+    },
+    {
+      "id": "goihbr",
+      "title": "文部科学省の入札システムに不正アクセス　最大16万件漏えいか",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003508/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 09:08:04 +0900",
+      "scrapedAt": "2026-11-27T04:01:05.975Z"
+    },
+    {
+      "id": "8imvii",
+      "title": "SpaceXとマスク氏、米国の子どもに自社株を計2株ずつ贈与へ　トランプ政権の「Trump Account」経由で",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003507/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 08:52:03 +0900",
+      "scrapedAt": "2026-11-27T04:01:05.975Z"
+    },
+    {
+      "id": "ofrgt3",
+      "title": "X、「ペアレンタルコントロール」を導入　メッセージ内容は見られず",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003506/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 07:25:54 +0900",
+      "scrapedAt": "2026-11-27T04:01:05.975Z"
+    },
+    {
+      "id": "h36m43",
+      "title": "AMD製サーバー向けCPU「EPYC」は10年間でAI性能が133倍に向上、Zen 6世代とZen 1世代のベンチマーク比較が公開される",
+      "url": "https://gigazine.net/news/20261127-amd-epyc-performance/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Fri, 27 Nov 2026 07:00:00 +0900",
+      "scrapedAt": "2026-11-27T04:01:06.368Z"
+    },
+    {
+      "id": "5a3phg",
+      "title": "さくらインターネットが大規模イベント開催。田中社長「日本から世界へ挑戦するためのデジタル基盤を支える」",
+      "url": "https://www.publickey1.jp/blog/26/post_311.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "2026-11-26T15:50:16.000Z",
+      "scrapedAt": "2026-11-27T04:01:05.512Z"
+    },
+    {
+      "id": "8ntdwj",
+      "title": "さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表",
+      "url": "https://www.publickey1.jp/blog/26/post_310.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "2026-11-26T15:47:22.000Z",
+      "scrapedAt": "2026-11-27T04:01:05.512Z"
+    },
+    {
+      "id": "nak50j",
+      "title": "さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定",
+      "url": "https://www.publickey1.jp/blog/26/aiai_1.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "2026-11-26T15:45:31.000Z",
+      "scrapedAt": "2026-11-27T04:01:05.512Z"
+    },
+    {
+      "id": "igxgin",
+      "title": "さくらインターネット、AWSやAzureなど他クラウドでバックアップ可能な新ストレージ「Object Storage Suite」（OS2）発表",
+      "url": "https://www.publickey1.jp/blog/26/awsazureobject_storage_suiteos2.html",
+      "source": "Publickey",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "2026-11-26T15:42:36.000Z",
+      "scrapedAt": "2026-11-27T04:01:05.512Z"
+    },
+    {
+      "id": "f2gplx",
+      "title": "迷惑メール対策をしているのに、なぜ詐欺メールは届くのか",
+      "url": "https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Thu, 26 Nov 2026 14:08:33 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.521Z"
+    },
+    {
+      "id": "7io78t",
+      "title": "Windows・Mac・Linux・AndroidでファイルやテキストをLAN・インターネット経由で共有できる「flipflop」を使ってみた",
+      "url": "https://gigazine.net/news/20261126-flipflop/",
+      "source": "Gigazine",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Thu, 26 Nov 2026 23:00:00 +0900",
+      "scrapedAt": "2026-11-27T04:01:06.368Z"
+    },
+    {
+      "id": "56scjp",
+      "title": "自動運転の予測軌跡の可視化動画を誰でも高速に作れるようにする",
+      "url": "https://zenn.dev/turing_motors/articles/cbf9872ca90166",
+      "source": "Zenn",
+      "category": "プログラミング",
+      "summary": "",
+      "publishedAt": "Thu, 26 Nov 2026 08:00:08 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.521Z"
     },
     {
       "id": "kkgf61",
@@ -158,340 +448,40 @@
       "source": "ITmedia NEWS",
       "category": "IT",
       "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 12:00:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:49.453Z"
+      "publishedAt": "Thu, 26 Nov 2026 16:06:43 +0900",
+      "scrapedAt": "2026-11-27T04:01:05.975Z"
     },
     {
-      "id": "oz5irn",
-      "title": "GitHubに「人には見えない隠し文字」　小型AIの操作狙うものも……1億4500万件を調査",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 12:00:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:49.453Z"
-    },
-    {
-      "id": "efhsey",
-      "title": "Gensparkの次なるデバイスは、音声入力。テキスト入力もAIへの指示もすべて声で",
-      "url": "https://www.gizmodo.jp/article/2611-genspark-secondbrain-voicepad/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 03:00:00 GMT",
-      "scrapedAt": "2026-11-26T04:02:49.194Z"
-    },
-    {
-      "id": "152ud9",
-      "title": "GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光",
-      "url": "https://gigazine.net/news/20261126-cogentic-6-research-papers/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 11:47:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:48.741Z"
-    },
-    {
-      "id": "rlfe8g",
-      "title": "SF映画じゃん？ ARディスプレイ搭載のバイク用ヘルメット",
-      "url": "https://www.gizmodo.jp/article/2611-gt-air-3-smart-ar-helmet/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 02:35:00 GMT",
-      "scrapedAt": "2026-11-26T04:02:49.194Z"
-    },
-    {
-      "id": "37lsdu",
-      "title": "アメリカの規制当局がSpaceXの宇宙AIデータセンター設置計画を承認",
-      "url": "https://gigazine.net/news/20261126-fcc-approves-spacex-plan-ai-data-centers-space/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 11:30:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:48.741Z"
-    },
-    {
-      "id": "x5162a",
-      "title": "「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003474/",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 11:27:43 +0900",
-      "scrapedAt": "2026-11-26T04:02:49.453Z"
-    },
-    {
-      "id": "4xdkcz",
-      "title": "AIチャットボット搭載おもちゃの製造・流通・販売を5年間停止する法律にニューヨーク州知事が署名",
-      "url": "https://gigazine.net/news/20261126-new-york-state-bans-ai-toys/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 11:25:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:48.741Z"
-    },
-    {
-      "id": "6hslps",
-      "title": "AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定　AI企業間で議論",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 11:24:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:49.453Z"
-    },
-    {
-      "id": "xgau1w",
-      "title": "パスワード管理アプリ「1Password」がハッキングされ顧客アカウント情報を盗まれる",
-      "url": "https://gigazine.net/news/20261126-1password-security-incident/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 11:08:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:48.741Z"
-    },
-    {
-      "id": "ifpwcd",
-      "title": "Kimi K3をベースにコーディング能力を増強したAIモデル「SWE-2.1」が登場",
-      "url": "https://gigazine.net/news/20261126-swe-2-1-coding-ai/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 11:05:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:48.741Z"
-    },
-    {
-      "id": "pybf0d",
-      "title": "AnthropicがClaudeを使って自社APIをPythonからRustに移植しCPU使用量を約70％削減した方法を公開",
-      "url": "https://gigazine.net/news/20261126-anthropic-claude-api-rust/",
-      "source": "Gigazine",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 11:02:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:48.741Z"
-    },
-    {
-      "id": "olkb1c",
-      "title": "「スマートウォッチ、操作しづらい問題」をジェスチャーで解決。画面に触る必要なくなりそう",
-      "url": "https://www.gizmodo.jp/article/eitwatch/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 02:00:00 GMT",
-      "scrapedAt": "2026-11-26T04:02:49.194Z"
-    },
-    {
-      "id": "ea2a5",
-      "title": "都が育児支援で配った「QUOカードPay」が「使えない」「残高減っている」……委託先への不正アクセスが関係か",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003472/",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 10:32:28 +0900",
-      "scrapedAt": "2026-11-26T04:02:49.453Z"
-    },
-    {
-      "id": "g7actv",
-      "title": " 脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 10:00:00 +0900",
-      "scrapedAt": "2026-11-26T04:02:49.453Z"
-    },
-    {
-      "id": "di18iw",
-      "title": "詐欺っぽい電話をAIがリアルタイム検知。会話で見抜くアプリ「みやブルフォン」",
-      "url": "https://www.gizmodo.jp/article/miyabull-phone-ai-fraud-detection-bbss/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 01:00:00 GMT",
-      "scrapedAt": "2026-11-26T04:02:49.194Z"
-    },
-    {
-      "id": "q0001n",
-      "title": "G-SHOCKにNYのストリートカルチャー注入。HIDDENコラボモデルが登場",
-      "url": "https://www.gizmodo.jp/article/2611-g-shock-hidden-gm-2110hdn-8ajr/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 00:30:00 GMT",
-      "scrapedAt": "2026-11-26T04:02:49.194Z"
-    },
-    {
-      "id": "h8c3hp",
-      "title": "「サツドラ」顧客情報22万件流出　委託先サイバーエージェントがデータ誤公開、1年以上気づかず",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003469/",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 09:23:25 +0900",
-      "scrapedAt": "2026-11-26T04:02:49.453Z"
-    },
-    {
-      "id": "km0z8f",
-      "title": "SpaceXの軌道上データセンター衛星「Starmind」、米FCCが最大100万基を承認",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003468/",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 09:15:54 +0900",
-      "scrapedAt": "2026-11-26T04:02:49.453Z"
-    },
-    {
-      "id": "sr8k9z",
-      "title": "脱・Apple Watch。ガーミンを使って知ったスマートウォッチに本当に必要なもの",
-      "url": "https://www.gizmodo.jp/article/garmin_forerunner-570_review/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 00:00:00 GMT",
-      "scrapedAt": "2026-11-26T04:02:49.194Z"
-    },
-    {
-      "id": "xyx5jg",
-      "title": "M&A検討資料など最大数千社分漏えいか　ミロク情報子会社に不正アクセス　役職員の認証情報取得される",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003467/",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 08:35:38 +0900",
-      "scrapedAt": "2026-11-26T04:02:49.453Z"
-    },
-    {
-      "id": "e0q7kk",
-      "title": "スマホ直結で“空間オーディオ収録”を始められる！Shureの新作マイク「MV360」が登場",
-      "url": "https://www.gizmodo.jp/article/2611-shure-mv360-mic/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Wed, 25 Nov 2026 23:30:00 GMT",
-      "scrapedAt": "2026-11-26T04:02:49.194Z"
-    },
-    {
-      "id": "b0om40",
-      "title": "どこから見ても「サンク」。20世紀の自動車文化の香り漂う、最新EVです",
-      "url": "https://www.gizmodo.jp/article/renault-5_ev/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Wed, 25 Nov 2026 23:00:00 GMT",
-      "scrapedAt": "2026-11-26T04:02:49.194Z"
-    },
-    {
-      "id": "riwjfp",
-      "title": "1Password、一部顧客の氏名やメールアドレスが流出　保管庫内のデータに「影響なし」",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003466/",
-      "source": "ITmedia NEWS",
-      "category": "IT",
-      "summary": "",
-      "publishedAt": "Thu, 26 Nov 2026 07:01:52 +0900",
-      "scrapedAt": "2026-11-26T04:02:49.453Z"
-    },
-    {
-      "id": "yk10c2",
-      "title": "なぜコーヒーを飲むとウンチをしたくなる？ 小型カプセルを飲み込んで調べた最新研究",
-      "url": "https://www.gizmodo.jp/article/2611-coffee-and-bowel-movement-study/",
-      "source": "GIZMODO Japan",
-      "category": "ガジェット",
-      "summary": "",
-      "publishedAt": "Wed, 25 Nov 2026 22:00:00 GMT",
-      "scrapedAt": "2026-11-26T04:02:49.194Z"
-    },
-    {
-      "id": "ptqxk7",
-      "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
-      "url": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
-      "source": "Publickey",
-      "category": "プログラミング",
-      "summary": "",
-      "publishedAt": "2026-11-25T15:29:05.000Z",
-      "scrapedAt": "2026-11-26T04:02:48.915Z"
-    },
-    {
-      "id": "c6emra",
-      "title": "「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース",
-      "url": "https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html",
-      "source": "Publickey",
-      "category": "プログラミング",
-      "summary": "",
-      "publishedAt": "2026-11-25T15:27:15.000Z",
-      "scrapedAt": "2026-11-26T04:02:48.915Z"
-    },
-    {
-      "id": "tj32sq",
-      "title": "specは実装後に8割削除しよう",
-      "url": "https://zenn.dev/ruri/articles/distill-specs-after-implementation",
+      "id": "3c01rc",
+      "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
+      "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
       "source": "Zenn",
       "category": "プログラミング",
       "summary": "",
-      "publishedAt": "Wed, 25 Nov 2026 11:33:06 GMT",
-      "scrapedAt": "2026-11-26T04:02:48.754Z"
+      "publishedAt": "Thu, 26 Nov 2026 07:01:54 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.521Z"
     },
     {
-      "id": "2zrtkd",
-      "title": "アウトプットの「質」ってじゃあなんなんだよ",
-      "url": "https://zenn.dev/watany/articles/1efe3adea67dd5",
+      "id": "9iyf0h",
+      "title": "鉄道運転シミュレーターをマイクロバスに搭載「ライドライブ」　東急テクノシステムが開発",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003492/",
+      "source": "ITmedia NEWS",
+      "category": "IT",
+      "summary": "",
+      "publishedAt": "Thu, 26 Nov 2026 15:34:12 +0900",
+      "scrapedAt": "2026-11-27T04:01:05.975Z"
+    },
+    {
+      "id": "k2nohd",
+      "title": "個人の目標設定に悩んでいたら、アジャイルが言葉を定義し直すきっかけをくれた話",
+      "url": "https://zenn.dev/yoshipon_tech/articles/a0e13c3dbd2f7d",
       "source": "Zenn",
       "category": "プログラミング",
       "summary": "",
-      "publishedAt": "Wed, 25 Nov 2026 11:31:18 GMT",
-      "scrapedAt": "2026-11-26T04:02:48.754Z"
-    },
-    {
-      "id": "dyatyr",
-      "title": "RustでFiberを用いたJob Systemを実装したらReleaseビルドでバグが発生した",
-      "url": "https://zenn.dev/otinpan/articles/082f6178eb1472",
-      "source": "Zenn",
-      "category": "プログラミング",
-      "summary": "",
-      "publishedAt": "Wed, 25 Nov 2026 10:24:41 GMT",
-      "scrapedAt": "2026-11-26T04:02:48.754Z"
-    },
-    {
-      "id": "bhwhtg",
-      "title": "結局「オントロジー」って何なのさ 〜概念と良さを4つのレイヤーで整理する〜",
-      "url": "https://zenn.dev/algomatic/articles/ece749a7e3cb24",
-      "source": "Zenn",
-      "category": "プログラミング",
-      "summary": "",
-      "publishedAt": "Wed, 25 Nov 2026 09:23:05 GMT",
-      "scrapedAt": "2026-11-26T04:02:48.754Z"
-    },
-    {
-      "id": "302e5u",
-      "title": "AIを使った開発に「敵対的検証」を取り入れてみた",
-      "url": "https://zenn.dev/visionarray/articles/26b316ff128513",
-      "source": "Zenn",
-      "category": "プログラミング",
-      "summary": "",
-      "publishedAt": "Wed, 25 Nov 2026 06:55:45 GMT",
-      "scrapedAt": "2026-11-26T04:02:48.754Z"
-    },
-    {
-      "id": "gruq80",
-      "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
-      "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
-      "source": "Zenn",
-      "category": "プログラミング",
-      "summary": "",
-      "publishedAt": "Wed, 25 Nov 2026 06:12:03 GMT",
-      "scrapedAt": "2026-11-26T04:02:48.754Z"
-    },
-    {
-      "id": "bryuey",
-      "title": "AIエージェントのMemory設計 ― 会話履歴・業務データ・長期Memoryの使い分け",
-      "url": "https://zenn.dev/taru_neko/articles/ai-agent-memory-architecture-2026",
-      "source": "Zenn",
-      "category": "プログラミング",
-      "summary": "",
-      "publishedAt": "Wed, 25 Nov 2026 05:23:27 GMT",
-      "scrapedAt": "2026-11-26T04:02:48.754Z"
+      "publishedAt": "Thu, 26 Nov 2026 05:35:21 GMT",
+      "scrapedAt": "2026-11-27T04:01:05.521Z"
     }
   ],
   "dailySummary": "",
-  "generatedAt": "2026-11-26T04:02:54.279Z"
+  "generatedAt": "2026-11-27T04:01:11.379Z"
 }
